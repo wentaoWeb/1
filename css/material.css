@@ -1,0 +1,80 @@
+#content .cont{
+    width:60%;
+    margin: 0 auto;
+}
+.search{
+    padding: 15px 0;
+}
+.search select{
+    height: 30px;
+    width: 120px;
+    vertical-align: text-top;
+}
+.search select option{
+    height: 30px;
+}
+table{
+    white-space: nowrap;
+}
+td{
+    width: 80px;
+    text-align: right;
+    font-size: 15px;
+    border: 1px solid #abcdef;
+    border-width:0px 1px 1px 0px;
+}
+.tab{
+    border: 1px solid #abcdef;
+    border-width:1px 0px 0px 1px;
+}
+.tab tr{
+    height: 40px;
+}
+.tab tr:nth-child(1) td{
+    text-align: center;
+    border-bottom: 2px solid #abcdef;
+}
+.tab tr:nth-child(3),.tab tr:nth-child(5){
+    background-color: #E5F1F0;
+}
+.tab tr td:nth-child(1){
+    text-align: left;
+    /* width: 279px; */
+    text-indent: 20px;
+    background-color: #fff;
+    border-bottom: 1px solid #abcdef;
+}
+.title{
+    position: relative;
+}
+.title:before{
+    content: "";
+    position: absolute;
+    width: 1px;
+    height: 181px;
+    top: 0;
+    left: 0;
+    background-color: #abcdef;
+    display: block;
+    transform: rotate(-77deg);
+    transform-origin: top;
+}
+.title span:nth-child(1){
+    position: absolute;
+    left: 0;
+    bottom: 5px;
+}
+.title span:nth-child(2){
+    position: absolute;
+    right: 20px;
+    top: 5px;
+}
+
+.chart{
+    width: 100%;
+    padding-top: 20px;
+}
+#bar{
+    width: 80%;
+    height: 350px;
+}

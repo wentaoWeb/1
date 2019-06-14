@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>国家电网</title>
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/vue.min.js"></script>
+    <script src="./js/echarts.min.js"></script>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/index.css">
+</head>
+
+<body>
+    <div id="app">
+        <div class="header">
+            <div class="headerLeft">
+                <div class="logo">
+                    <img src="./img/logo.png">
+                </div>
+                <div class="line"></div>
+                <div class="name">
+                    配网物资预测系统
+                </div>
+            </div>
+
+            <ul class="login">
+                <li>
+                    <a href="#">
+                        <img src="img/people.png">
+                        程栋
+                    </a>
+                </li>
+                <li class="loginOut" @click="loginOut">
+                    <a href="#">退出</a>
+                </li>
+            </ul>
+        </div>
+        <div id="tab">
+            <div class="nav">
+                <ul id="nav">
+                    <li><a href="index.html">首页</a></li>
+                    <li><a href="#">预报</a></li>
+                    <li><a href="material.html">物资预测</a></li>
+                    <li><a href="model.html">模型训练</a></li>
+                    <li><a href="stock.html">库存结构</a></li>
+                    <li><a href="#">需求计划</a></li>
+                </ul>
+                <div class="top">
+                    ︿
+                </div>
+            </div>
+            <ul id="content">
+                
+                <li class="index active">
+                    <div class="contOne">
+                        <div class="box" v-for="item in plan">                            
+                            <p>{{item.name}}</p>
+                            <b>{{item.money}}</b>
+                        </div>
+                        
+                    </div>
+                    <div id="contTwo"></div>
+                    <!-- {{p.user}} -->
+                    <div class="contThree">
+                        <div class="contThree-left">
+                            <p>选择地区</p>
+                            <div class="select">
+                                <select @change="get" v-model="selected">
+                                    <option v-for="(item,index) in city" :value="item"
+                                        :selected="index == 0 ? true : false">
+                                        {{item}}
+                                    </option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="contThree-right">
+                            <div id="geography">
+                                <div class="geo">
+                                    <p>地理环境</p>
+                                    <b>{{geo}}</b>
+                                </div>
+                                <!-- {{geo}} -->
+                            </div>
+                            <div id="user"></div>
+                            <div id="assets"></div>
+                            <div id="loadRate"></div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <!-- {{p1}}        -->
+    </div>
+
+    <script src="js/index.js"></script>
+    <script>
+        
+    </script>
+</body>
+
+</html>

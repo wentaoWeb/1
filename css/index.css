@@ -1,0 +1,106 @@
+
+#content{
+    width: 100%;
+    height: calc(100vh - 154px);
+    /* background: linear-gradient( top,#fefefe,#d0fdfa); */
+    background: -webkit-linear-gradient(#fbfffe, #d0fdfa);
+    text-align: center;
+}
+#content li{
+    display: none;
+    padding-top: 20px;
+}
+#content .index.active{
+    display: block;
+    
+    /* padding-left: 59px; */
+}
+#content .contOne{
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+    justify-content: space-around;  
+}
+#content li .box{
+    border: 1px solid rgb(0, 225, 255);
+    margin-right: 150px;
+    width: 163px;
+    height: 63px;
+    border-radius: 5px;   
+}
+#content li .box p{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 5px;
+    padding-left: 7px;
+    margin: 0;
+}
+#content li .box b{
+    color: rgb(0, 225, 255);
+    font-weight: normal;
+    line-height: 36px;
+}
+#contTwo{
+    width: 100%;
+    height: 400px;
+}
+.contThree{
+    width: 80%;
+    /* padding-left: 10%; */
+    /* padding-left: 7%; */
+    margin: 0 auto;
+    display: flex;
+    height: 250px;
+}
+.contThree p{
+    text-align: left;
+    /* padding-left: 10%; */
+}
+.contThree select{
+    display: block;
+    /* margin-left: 10%; */
+    padding: 0 10px;
+    margin-top: 50px;
+    background-color: rgb(154, 255, 247);
+    border-radius: 5px;
+    height: 30px;
+}
+.contThree-right{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#geography,#user,#assets,#loadRate{
+    width: 25%;
+    height: 100%;
+}
+#geography{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+}
+#geography .geo{
+    border: 1px solid rgb(0, 225, 255);
+    width: 50%;
+    height: 70px;
+    margin: 0 auto;
+    border-radius: 5px;    
+}
+#geography .geo p{
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 5px;
+    padding-left: 7px;
+    margin: 0;
+}
+#geography .geo b{
+    color: rgb(0, 225, 255);
+    font-weight: normal;
+    line-height: 36px;
+    font-size: 16px;
+}
+

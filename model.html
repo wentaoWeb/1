@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/vue.min.js"></script>
+    <script src="./js/echarts.min.js"></script>
+    <script src="js/swiper.min.js"></script>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/model.css">
+    <link rel="stylesheet" href="css/swiper.css">
+</head>
+
+<body>
+    <div id="app">
+        <div class="header">
+            <div class="headerLeft">
+                <div class="logo">
+                    <img src="./img/logo.png">
+                </div>
+                <div class="line"></div>
+                <div class="name">
+                    配网物资预测系统
+                </div>
+            </div>
+
+            <ul class="login">
+                <li>
+                    <a href="#">
+                        <img src="img/people.png">
+                        程栋
+                    </a>
+                </li>
+                <li class="loginOut" @click="loginOut">
+                    <a href="#">退出</a>
+                </li>
+            </ul>
+        </div>
+        <div id="tab">
+            <div class="nav">
+                <ul id="nav">
+                    <li><a href="index.html">首页</a></li>
+                    <li><a href="#">预报</a></li>
+                    <li><a href="material.html">物资预测</a></li>
+                    <li><a href="model.html">模型训练</a></li>
+                    <li><a href="stock.html">库存结构</a></li>
+                    <li><a href="#">需求计划</a></li>
+                </ul>
+                <div class="top">
+                    ︿
+                </div>
+            </div>
+        </div>
+        <div id="content">
+            <div class="cont">
+                <button class="btn">开始训练</button>
+            </div>
+            <div class="train">
+                <!-- <img src="img/model2.gif" alt=""> -->
+                <div class="swiper-container">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide" data-hash="slide1">
+                            <img src="img/model1.png" alt="">
+                        </div>
+                        <div class="swiper-slide" data-hash="slide2">
+                            <img src="img/model2.gif" alt="">
+                        </div>
+                    </div>
+                    <!-- Add Pagination -->
+                     <!-- <div class="swiper-pagination"></div>                     -->
+                </div> 
+            </div>
+        </div>
+    </div>
+    <script src="js/model.js">
+        
+    </script>
+        
+</body>
+
+</html>

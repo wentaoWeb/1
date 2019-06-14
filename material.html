@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/vue.min.js"></script>
+    <script src="./js/echarts.min.js"></script>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/material.css">
+</head>
+
+<body>
+    <div id="app">
+        <div class="header">
+            <div class="headerLeft">
+                <div class="logo">
+                    <img src="./img/logo.png">
+                </div>
+                <div class="line"></div>
+                <div class="name">
+                    配网物资预测系统
+                </div>
+            </div>
+
+            <ul class="login">
+                <li>
+                    <a href="#">
+                        <img src="img/people.png">
+                        程栋
+                    </a>
+                </li>
+                <li class="loginOut" @click="loginOut">
+                    <a href="#">退出</a>
+                </li>
+            </ul>
+        </div>
+        <div id="tab">
+            <div class="nav">
+                <ul id="nav">
+                    <li><a href="index.html">首页</a></li>
+                    <li><a href="#">预报</a></li>
+                    <li><a href="material.html">物资预测</a></li>
+                    <li><a href="model.html">模型训练</a></li>
+                    <li><a href="stock.html">库存结构</a></li>
+                    <li><a href="#">需求计划</a></li>
+                </ul>
+                <div class="top">
+                    ︿
+                </div>
+            </div>
+        </div>
+        <div id="content">
+            <div class="cont">
+                <div class="search">
+                    <!-- {{selectYear}}-->
+                    <!-- {{selectType}} 
+                    {{selected}}  -->
+                    <select v-model="selectYear">
+                        <option v-for="item in year" :value="item">{{item}}年</option>
+                    </select>
+                    <select v-model="selectType">
+                        <option v-for="item in type" :value="item">{{item}}</option>
+                    </select>
+                </div>
+                <div>
+                    <table cellpadding="10" cellspacing="0" class="tab">
+                        <tr>
+                            <td class="title"><span>类型</span><span>月份</span></td>
+                            <!-- {{month}} -->
+                            <td v-for="item in month">{{item}}月</td>
+                            <td>{{year[1]}}年</td>
+                        </tr>
+                        <tr>
+                            <td>预测值（万元）</td>
+                            <td v-for="item in predict">{{item}}</td>                           
+                            <td>{{sumPredict}}</td>
+                        </tr>
+                        <tr>
+                            <td>人工调整值（万元）</td>
+                            <td v-for="item in adjustment">{{item}}</td>
+                            <td>{{sumAdjustment}}</td>
+                        </tr>
+                        <tr>
+                            <td>实际值（万元）</td>
+                            <td v-for="item in acture">{{item}}</td>
+                            <td>{{sumActure}}</td>
+                        </tr>
+                        <tr>
+                            <td>实际误差（%）</td>
+                            <td v-for="item in error">{{item}}%</td>
+                            <td>{{sumError}}%</td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="chart">
+                    <div id="bar"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/material.js"></script>
+</body>
+</html>

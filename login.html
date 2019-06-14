@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/login.css">
+    <script src="js/vue.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+</head>
+<body>
+    <div id="app" class="cont">
+        <div class="login">
+            <div class="title">用户登录</div>
+            <div class="username">
+                用户名：<input type="text" ref="name" placeholder="请输入用户名" autocomplete="off"
+                v-model="username" @blur.once="user">
+            </div>
+            <div class="password">
+                密&nbsp;&nbsp;&nbsp;码：<input type="password" autocomplete="off" ref="pswd"
+                placeholder="请输入密码" v-model="password" @blur.once="pwd">
+            </div>
+            <div class="btn">
+                <button @click="getLogin">登录</button>
+            </div>
+        </div> 
+    </div>
+    <script src="js/login.js"></script>
+    
+</body>
+</html>

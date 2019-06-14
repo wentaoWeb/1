@@ -1,0 +1,94 @@
+.header{
+    width: 100%;
+    background: linear-gradient(to right, #ccfcfc , #22bcba); 
+    display: flex;
+    justify-content: space-between;
+}
+.headerLeft{
+    display: flex;
+    vertical-align: top;
+}
+.logo{
+    padding: 20px 0;
+    padding-left: 58px;
+    padding-right: 40px;
+    height: 63px;
+}
+.line,.name{
+    margin-top: 20px;
+}
+.line{
+    width: 3px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 25px;
+    margin-right: 33px;
+    background-color: #95c7c8;    
+}
+.name{
+    color: #046965;
+    font-weight: bold;
+    font-size: 36px; 
+    /* -webkit-box-reflect: below -80px -webkit-gradient(linear, center top, center bottom,
+    from(rgba(255,255,255,0.1)), to(white)); */
+    /* box-reflect: below 1px linear-gradient(transparent,transparent 50%,rgba(0,0,0,.3)); */
+    -webkit-box-reflect: below -78px -webkit-gradient(linear, center top, center bottom,
+    from(transparent),color-stop(0.3, transparent), to(white)); 
+} 
+
+.login{
+    padding-right: 37px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: rgb(71, 71, 71);
+}
+.login image{
+    /* display: block; */
+}
+.login a{
+    font-size: 22px;
+}
+.loginOut{
+    border-left: 1px solid #046965;
+    border-right: 1px solid #046965;
+    padding:0 7px;
+    margin-left: 12px;
+}
+
+.nav{
+    width: 100%;    
+    background-color: #099f9e;
+    display: flex;
+    justify-content: space-between;
+}
+.nav ul{
+    display: flex;
+    padding-left: 59px;
+    justify-content: flex-start;
+    padding-top: 10px;
+}
+.nav ul li{
+    width: 150px;
+    text-align: center;
+    background-color: #088a88;
+    margin-right: 5px;
+    padding: 10px 0;
+    color: white;
+    border-radius: 5px;
+}
+.nav ul li:hover{
+    cursor: pointer;
+}
+.top{
+    font-size: 24px;
+    margin-top: 4px;
+    padding-right: 39px ;
+}
+#content{
+    width: 100%;
+    height: calc(100vh - 154px);
+    /* background: linear-gradient( top,#fefefe,#d0fdfa); */
+    background: -webkit-linear-gradient(#fbfffe, #d0fdfa);
+    /* text-align: center; */    
+}
