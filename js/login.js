@@ -29,7 +29,7 @@ var vm = new Vue({
                 success: function (r) {
                     var geo = r.data;                            
                     if(vm.username == geo.username && vm.password == geo.password){
-                        window.location.href = "index.html";                                
+                        window.location.href = "login.html";                                
                     }else if(vm.username == geo.username && vm.password != geo.password){
                         alert('密码错误！');
                         this.$refs.pswd.focus();
