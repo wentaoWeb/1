@@ -11,7 +11,6 @@ var vm = new Vue({
         adjustment :[],//调整值
         acture :[],
         error :[],
-        selected:[]
 },
     computed:{
         sumPredict(){

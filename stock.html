@@ -58,123 +58,25 @@
             <div id="content">
                 <div class="cont">
                     <div class="choice">
-                        <select id="year" v-model="selected">
-                            <option v-for="item in stock" :value="item.year">
-                                {{item.year}}
-                            </option>
+                        <select v-model="selectYear">
+                            <option v-for="item in year" :value="item">{{item}}年</option>
                         </select>
-                        <select id="stock" @change="getMaterial">
-                            <option v-for="(item,index) in selection" :value="item.name" :selected="index == 0 ? true : false">
-                                {{item.name}}
-                            </option>
+                        <select v-model="selectType">
+                            <option v-for="item in type" :value="item">{{item}}</option>
                         </select>
                     </div>
                     <table cellpadding="10" cellspacing="0" class="tab">
                         <tr>
                             <th></th>
-                            <th>1月</th>
-                            <th>2月</th>
-                            <th>3月</th>
-                            <th>4月</th>
-                            <th>5月</th>
-                            <th>6月</th>
-                            <th>7月</th>
-                            <th>8月</th>
-                            <th>9月</th>
-                            <th>10月</th>
-                            <th>11月</th>
-                            <th>12月</th>
+                            <th v-for="item in 12">{{item}}月</th>
                         </tr>
-                        <tr>
-                            <th>绍兴市</th>
-                            <td>12.83</td>
-                            <td>3.71</td>
-                            <td>200.91</td>
-                            <td>290.63</td>
-                            <td>563.77</td>
-                            <td>335.43</td>
-                            <td>212.71</td>
-                            <td>170.29</td>
-                            <td>275.66</td>
-                            <td>122.42</td>
-                            <td>90.84</td>
-                            <td>70.27</td>
-                        </tr>
-                        <tr>
-                            <th>上虞区</th>
-                            <td>0</td>
-                            <td>0</td>
-                            <td>0</td>
-                            <td>0</td>
-                            <td>0</td>
-                            <td>0</td>
-                            <td>0</td>
-                            <td>0</td>
-                            <td>0</td>
-                            <td>0</td>
-                            <td>0</td>
-                            <td>0</td>
-                        </tr>
-                        <tr>
-                            <th>嵊州市</th>
-                            <td>16.46</td>
-                            <td>6.06</td>
-                            <td>247.84</td>
-                            <td>93.95</td>
-                            <td>707.49</td>
-                            <td>266.02</td>
-                            <td>168.25</td>
-                            <td>151.69</td>
-                            <td>202.47</td>
-                            <td>130.89</td>
-                            <td>105.04</td>
-                            <td>47.31</td>
-                        </tr>
-                        <tr>
-                            <th>诸暨市</th>
-                            <td>22.05</td>
-                            <td>38.78</td>
-                            <td>18.94</td>
-                            <td>-209.35</td>
-                            <td>20.31</td>
-                            <td>-26.09</td>
-                            <td>-26.42</td>
-                            <td>-12.26</td>
-                            <td>-36.15</td>
-                            <td>6.47</td>
-                            <td>13.52</td>
-                            <td>-48.53</td>
-                        </tr>
-                        <tr>
-                            <th>柯桥区</th>
-                            <td>22.05</td>
-                            <td>38.78</td>
-                            <td>18.94</td>
-                            <td>-209.35</td>
-                            <td>20.31</td>
-                            <td>-26.09</td>
-                            <td>-26.42</td>
-                            <td>-12.26</td>
-                            <td>-36.15</td>
-                            <td>6.47</td>
-                            <td>13.52</td>
-                            <td>-48.53</td>
-                        </tr>
-                        <tr>
-                            <th>越城区</th>
-                            <td>22.05</td>
-                            <td>38.78</td>
-                            <td>18.94</td>
-                            <td>-209.35</td>
-                            <td>20.31</td>
-                            <td>-26.09</td>
-                            <td>-26.42</td>
-                            <td>-12.26</td>
-                            <td>-36.15</td>
-                            <td>6.47</td>
-                            <td>13.52</td>
-                            <td>-48.53</td>
-                        </tr>
+                        <tr v-for="(item,index) in Data">
+                            <th>{{item.city}}</th>
+							
+							<td v-for="p in item.months">
+								{{p}}
+							</td>
+                        </tr>    
                     </table>
                 </div>
                 
@@ -182,75 +84,7 @@
         </div>
         
     </div>
-
-    <script>
-        var vm = new Vue({
-            el: '#app',
-            data: {
-                selected: '2019年',
-                stock: [
-                    {
-                        year: '2019年',
-                        product: [
-                            {name: '物资1'},
-                            {name: '物资2'},
-                            {name: "物资3"}
-                        ]
-                    },
-                    {
-                        year: '2018年',
-                        product: [
-                            {name: '物资4'},
-                            {name: '物资5'}
-                        ]
-                    },
-                    {
-                        year: '2017年',
-                        product: [
-                            {name: '物资6'},
-                            {name: '物资7'},
-                            {name: '物资8'}
-                        ]
-                    },
-                    {
-                        year: '2016年',
-                        product: [
-                            {name: '物资9'},
-                            {name: '物资10'},
-                            {name: '物资11'},
-                            {name: '物资12'},
-                            {name: '物资13'}
-                        ]
-                    },
-                ],
-
-            },
-            computed: {
-                selection: {
-                    get: function() {
-                        var that = this;
-                        return this.stock.filter(function(item) {
-                        return item.year == that.selected;
-                        })[0].product;
-                    }
-                }
-            },
-            methods: {
-                loginOut(){
-                    if(confirm('您确定要退出吗？')){
-                        alert('退出成功');
-                        window.location.href = "login.html";
-                    }else{
-                        console.log('退出失败');
-                    }
-                },
-                getMaterial(val){
-                    var val = val.target.value;
-                    console.log(val);
-                }
-            }
-        })
-    </script>
+    <script src="js/stock.js"></script>
 </body>
 
 </html>
