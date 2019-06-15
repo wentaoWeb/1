@@ -1,15 +1,3 @@
-var swiper = new Swiper('.swiper-container', {
-    // autoplay: true,
-    effect: "fade",
-    pagination: {
-        el: '.swiper-pagination',
-        clickable: true,
-    },
-    navigation: {
-        nextEl: '.btn',
-        // prevEl: '.swiper-button-prev',
-    },
-});
 var vm = new Vue({
     el:'#app',
     data:{

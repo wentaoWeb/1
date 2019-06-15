@@ -61,24 +61,33 @@
                 <button class="btn">开始训练</button>
             </div>
             <div class="train">
-                <!-- <img src="img/model2.gif" alt=""> -->
                 <div class="swiper-container">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide" data-hash="slide1">
+                        <div class="swiper-slide">
                             <img src="img/model1.png" alt="">
                         </div>
-                        <div class="swiper-slide" data-hash="slide2">
+                        <div class="swiper-slide">
                             <img src="img/model2.gif" alt="">
                         </div>
                     </div>
-                    <!-- Add Pagination -->
-                     <!-- <div class="swiper-pagination"></div>                     -->
-                </div> 
+                </div>
             </div>
         </div>
     </div>
-    <script src="js/model.js">
-        
+    <script src="js/model.js"></script>
+    <script>
+        var swiper = new Swiper('.swiper-container', {
+            autoplay: true,
+            effect: "fade",
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+            navigation: {
+                nextEl: '.btn',
+                // prevEl: '.swiper-button-prev',
+            },
+        });
     </script>
         
 </body>
