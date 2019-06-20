@@ -78,3 +78,6 @@ td{
     right: 20px;
     top: 5px;
 }
+select{
+    height: 30px;
+}

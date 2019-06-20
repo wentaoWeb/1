@@ -226,8 +226,7 @@ var vm = new Vue({
                         series: [
                             {
                                 name: '预测值',
-                                type: 'bar',
-                                xAxisIndex: 1,
+                                type: 'bar',                                
                                 itemStyle: {
                                     normal: {
                                         color: '#0492da',
@@ -239,6 +238,7 @@ var vm = new Vue({
                             {
                                 name: '实际值',
                                 type: 'bar',
+                                xAxisIndex: 1,
                                 itemStyle: {
                                     normal: {
                                         color: 'rgba(1,147,64)',

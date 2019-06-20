@@ -8,7 +8,7 @@ var vm = new Vue({
         month: [],
         selected: [],
         rate: [],
-        city: ['绍兴', '上虞区', '嵊州市', '诸暨市', '柯桥区','新昌县']
+        city: ['绍兴', '上虞区', '嵊州市', '诸暨市', '新昌县']
     },
     methods: {
         getAll() {
@@ -81,12 +81,12 @@ var vm = new Vue({
                 });
                 var months = Array(12);
                 for (var j = 0; j < data.length; j++) {
-                    months[data[j].month - 1] = data[j].rate;
-                }
+                    months[data[j].month - 1] = data[j].rate;                    
+                }                
                 result.push({
                     city: this.city[i],
                     months: months
-                }); 
+                });                
             }
             return result;
         },
