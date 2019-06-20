@@ -78,7 +78,7 @@
                             <div class="select">
                                 <select  v-model="selected">
                                     <option v-for="(item,index) in city" :value="item"
-                                        :selected="index == 0 ? true : false">
+                                        :selected="index == 0 ? true : false"  v-clock>
                                         {{item}}
                                     </option>
                                 </select>
@@ -88,7 +88,7 @@
                             <div id="geography">
                                 <div class="geo">
                                     <p>地理环境</p>
-                                    <b>{{geo}}</b>
+                                    <b v-clock>{{geo}}</b>
                                 </div>
                                 <!-- {{geo}} -->
                             </div>

@@ -12,4 +12,7 @@ ul{
     margin: 0;
     padding: 0;
 }
+[v-cloak] {
+    display: none !important; 
+} 
 /* reset css */

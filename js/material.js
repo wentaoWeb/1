@@ -142,9 +142,9 @@ var vm = new Vue({
                     var acture = [];
                     var error = [];
                     for(var f=0;f<select.length;f++){
-                        predict.push(Number(select[f].predict));
-                        adjustment.push(Number(select[f].adjustment));
-                        acture.push(Number(select[f].actureValue));
+                        predict.push(parseInt(select[f].predict));
+                        adjustment.push(parseInt(select[f].adjustment));
+                        acture.push(parseInt(select[f].actureValue));
                         error.push(parseInt(select[f].error));                        
                     }
                     vm.predict = predict;
