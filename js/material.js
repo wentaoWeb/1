@@ -229,7 +229,7 @@ var vm = new Vue({
                                 type: 'bar',                                
                                 itemStyle: {
                                     normal: {
-                                        color: '#0492da',
+                                        color: 'rgba(1,147,64)',
                                         // label: { show: true }
                                     }
                                 },
@@ -241,7 +241,7 @@ var vm = new Vue({
                                 xAxisIndex: 1,
                                 itemStyle: {
                                     normal: {
-                                        color: 'rgba(1,147,64)',
+                                        color: '#0492da',
                                         label: {
                                             // show: true,
                                             formatter: function (p) {
