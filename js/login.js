@@ -28,15 +28,16 @@ var vm = new Vue({
         },
         getLogin() {
             $.ajax({
-                type: "get",
-                url: "https://www.easy-mock.com/mock/5d00baabc11e540be09bc03d/predict/user",
+                url: "json/user.json",
+                type: "GET",//请求方式为get
+                dataType: "json", //返回数据格式为json
+                // jsonp: "callback",
                 async: true,
-                dataType: "json",
-                contentType: 'application/x-www-form-urlencoded; charset=UTF-8', //防止乱码
                 success: function (r) {
-                    var geo = r.data;
+                    console.log(r)
+                    var geo = r.data;                    
                     if (vm.username == geo.username && vm.password == geo.password) {
-                        self.location.href = "login.html";
+                        window.location.href = "login.html";
                     } else if (vm.username == geo.username && vm.password != geo.password) {
                         alert('密码错误！');
                         // console.log(vm.$refs.name)

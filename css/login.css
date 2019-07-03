@@ -13,8 +13,8 @@ html,body{
     align-items: center;
 }
 .login{
-    width: 400px;
-    height: 360px;
+    width: 500px;
+    height: 460px;
     border-radius: 5px;
     background-color: #fff;
     border: 1px solid rgba(0,0,0,.125);

@@ -1,0 +1,52 @@
+{
+  "success": true,
+  "data": [{
+      "month": "1",
+      "amount": "7426549.3"
+    },
+    {
+      "month": "2",
+      "amount": "7845313.16"
+    },
+    {
+      "month": "3",
+      "amount": "35797801.68"
+    },
+    {
+      "month": "4",
+      "amount": "63890518.16"
+    },
+    {
+      "month": "5",
+      "amount": "65334548.19"
+    },
+    {
+      "month": "6",
+      "amount": ""
+    },
+    {
+      "month": "7",
+      "amount": ""
+    },
+    {
+      "month": "8",
+      "amount": ""
+    },
+    {
+      "month": "9",
+      "amount": ""
+    },
+    {
+      "month": "10",
+      "amount": ""
+    },
+    {
+      "month": "11",
+      "amount": ""
+    },
+    {
+      "month": "12",
+      "amount": ""
+    }
+  ]
+}

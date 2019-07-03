@@ -1,3 +1,4 @@
+// @ts-ignore
 var vm = new Vue({
     el: '#app',
     data: {
@@ -37,14 +38,9 @@ var vm = new Vue({
             }
             return sum;          
         },
-        sumError(){
-            var error =  this.error;
-            var sum = 0;
-            for(var i=error.length-1; i>=0; i--){
-                sum += error[i];                 
-            }
-            return sum;          
-        },
+        // sumError(){
+              
+        // },
     },
     methods: {
         loginOut() {
@@ -56,11 +52,14 @@ var vm = new Vue({
             }
         },
         getBar() {
+            // @ts-ignore
             $.ajax({
                 type: "get",
-                url: "https://www.easy-mock.com/mock/5d00baabc11e540be09bc03d/predict/predict",
+                dataType: "json",
+                url: "json/predict.json",
                 async: true,
                 success: function (r) {
+                    // @ts-ignore
                     var data = r.data;
                     // console.log(data);
                     
@@ -68,9 +67,11 @@ var vm = new Vue({
             })
         },
         getyear() {
+            // @ts-ignore
             $.ajax({
                 type: "get",
-                url: "https://www.easy-mock.com/mock/5d00baabc11e540be09bc03d/predict/predict",
+                url: "json/predict.json",
+                dataType: "json",
                 async: true,
                 success: function (r) {
                     // 获取年份
@@ -152,8 +153,10 @@ var vm = new Vue({
                     vm.acture = acture;
                     vm.error = error;
 
+                    // @ts-ignore
                     var mychart = echarts.init(document.getElementById('bar'));
-                    option = {
+                    mychart.resize();
+                    var option = {
                         tooltip: {
                             trigger: 'item',
                             formatter: "{a} <br/>{b}月 : {c}",
@@ -256,8 +259,10 @@ var vm = new Vue({
                            
                         ]
                     };
-                    mychart.setOption(option);
+                    mychart.setOption(option,true);
+                    
                 }
+                
             })
         },
     },

@@ -1,6 +1,7 @@
 #content .cont{
     width:90%;
     margin: 0 auto;
+    /* display: flex; */
 }
 .search{
     padding: 15px 0;
@@ -74,6 +75,6 @@ td{
     padding-top: 20px;
 }
 #bar{
-    width: 80%;
-    height: 350px;
+    width: 90%;
+    height: 400px;
 }

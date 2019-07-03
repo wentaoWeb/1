@@ -1,3 +1,4 @@
+// @ts-ignore
 var vm = new Vue({
     el: '#app',
     data: {
@@ -9,79 +10,697 @@ var vm = new Vue({
         selected: '绍兴市',
         city: ['绍兴市', '上虞', '嵊州', '新昌', '诸暨'],
         p: {
-            user: [],
-            assets: [],
-            loadrate: []
+
         },
         p1: {
             user: [{
-                value: 100,
-                name: '平原'
-            }],
-            assets: [{
-                value: 100,
-                name: '平原'
-            }],
-            loadrate: [{
-                value: 100,
-                name: '平原'
-            }]
+                    "district": "上虞",
+                    "农、林、牧、渔业": "13%",
+                    "工业": "25%",
+                    "建筑业": "17%",
+                    "交通运输、仓储和邮政业": "1%",
+                    "信息传输、软件和信息技术服务业": "5%",
+                    "批发和零售业": "14%",
+                    "住宿和餐饮业": "1%",
+                    "金融业": "1%",
+                    "房地产业": "5%",
+                    "租赁和商务服务业": "1%",
+                    "公共服务及管理组织": "16%"
+                },
+                {
+                    "district": "绍兴市",
+                    "农、林、牧、渔业": "14%",
+                    "工业": "22%",
+                    "建筑业": "8%",
+                    "交通运输、仓储和邮政业": "1%",
+                    "信息传输、软件和信息技术服务业": "5%",
+                    "批发和零售业": "25%",
+                    "住宿和餐饮业": "3%",
+                    "金融业": "2%",
+                    "房地产业": "6%",
+                    "租赁和商务服务业": "1%",
+                    "公共服务及管理组织": "13%"
+                },
+                {
+                    "district": "嵊州",
+                    "农、林、牧、渔业": "10%",
+                    "工业": "37%",
+                    "建筑业": "3%",
+                    "交通运输、仓储和邮政业": "0%",
+                    "信息传输、软件和信息技术服务业": "12%",
+                    "批发和零售业": "15%",
+                    "住宿和餐饮业": "1%",
+                    "金融业": "1%",
+                    "房地产业": "1%",
+                    "租赁和商务服务业": "1%",
+                    "公共服务及管理组织": "18%"
+                },
+                {
+                    "district": "新昌",
+                    "农、林、牧、渔业": "13%",
+                    "工业": "37%",
+                    "建筑业": "7%",
+                    "交通运输、仓储和邮政业": "1%",
+                    "信息传输、软件和信息技术服务业": "9%",
+                    "批发和零售业": "13%",
+                    "住宿和餐饮业": "2%",
+                    "金融业": "1%",
+                    "房地产业": "2%",
+                    "租赁和商务服务业": "1%",
+                    "公共服务及管理组织": "16%"
+                },
+                {
+                    "district": "诸暨",
+                    "农、林、牧、渔业": "4%",
+                    "工业": "69%",
+                    "建筑业": "3%",
+                    "交通运输、仓储和邮政业": "0%",
+                    "信息传输、软件和信息技术服务业": "3%",
+                    "批发和零售业": "9%",
+                    "住宿和餐饮业": "1%",
+                    "金融业": "0%",
+                    "房地产业": "2%",
+                    "租赁和商务服务业": "0%",
+                    "公共服务及管理组织": "9%"
+                }
+            ],
+            assets: [
+                {
+                    "district": "绍兴市",
+                    "5年以下": "27%",
+                    "5-10年": "65%",
+                    "10年以上": "8%"
+                  },
+                  {
+                    "district": "上虞",
+                    "5年以下": "30%",
+                    "5-10年": "60%",
+                    "10年以上": "10%"
+                  },
+                  {
+                    "district": "诸暨",
+                    "5年以下": "26%",
+                    "5-10年": "63%",
+                    "10年以上": "11%"
+                  },
+                  {
+                    "district": "嵊州",
+                    "5年以下": "21%",
+                    "5-10年": "70%",
+                    "10年以上": "9%"
+                  },
+                  {
+                    "district": "新昌",
+                    "5年以下": "25%",
+                    "5-10年": "61%",
+                    "10年以上": "14%"
+                  }
+              
+            ],
+            loadrate: [
+                {
+                    "district": "绍兴市",
+                    "正常负载时长%": "70%",
+                    "高负载时长%": "20%",
+                    "低负载时长%": "10%"
+                  },
+                  {
+                    "district": "上虞",
+                    "正常负载时长%": "73%",
+                    "高负载时长%": "19%",
+                    "低负载时长%": "8%"
+                  },
+                  {
+                    "district": "诸暨",
+                    "正常负载时长%": "68%",
+                    "高负载时长%": "23%",
+                    "低负载时长%": "9%"
+                  },
+                  {
+                    "district": "嵊州",
+                    "正常负载时长%": "72%",
+                    "高负载时长%": "18%",
+                    "低负载时长%": "10%"
+                  },
+                  {
+                    "district": "新昌",
+                    "正常负载时长%": "72%",
+                    "高负载时长%": "16%",
+                    "低负载时长%": "12%"
+                  }
+            ]
         },
         p2: {
             user: [{
-                value: 100,
-                name: '平原'
-            }],
-            assets: [{
-                value: 100,
-                name: '平原'
-            }],
-            loadrate: [{
-                value: 100,
-                name: '平原'
-            }]
+                "district": "上虞",
+                "农、林、牧、渔业": "13%",
+                "工业": "25%",
+                "建筑业": "17%",
+                "交通运输、仓储和邮政业": "1%",
+                "信息传输、软件和信息技术服务业": "5%",
+                "批发和零售业": "14%",
+                "住宿和餐饮业": "1%",
+                "金融业": "1%",
+                "房地产业": "5%",
+                "租赁和商务服务业": "1%",
+                "公共服务及管理组织": "16%"
+            },
+            {
+                "district": "绍兴市",
+                "农、林、牧、渔业": "14%",
+                "工业": "22%",
+                "建筑业": "8%",
+                "交通运输、仓储和邮政业": "1%",
+                "信息传输、软件和信息技术服务业": "5%",
+                "批发和零售业": "25%",
+                "住宿和餐饮业": "3%",
+                "金融业": "2%",
+                "房地产业": "6%",
+                "租赁和商务服务业": "1%",
+                "公共服务及管理组织": "13%"
+            },
+            {
+                "district": "嵊州",
+                "农、林、牧、渔业": "10%",
+                "工业": "37%",
+                "建筑业": "3%",
+                "交通运输、仓储和邮政业": "0%",
+                "信息传输、软件和信息技术服务业": "12%",
+                "批发和零售业": "15%",
+                "住宿和餐饮业": "1%",
+                "金融业": "1%",
+                "房地产业": "1%",
+                "租赁和商务服务业": "1%",
+                "公共服务及管理组织": "18%"
+            },
+            {
+                "district": "新昌",
+                "农、林、牧、渔业": "13%",
+                "工业": "37%",
+                "建筑业": "7%",
+                "交通运输、仓储和邮政业": "1%",
+                "信息传输、软件和信息技术服务业": "9%",
+                "批发和零售业": "13%",
+                "住宿和餐饮业": "2%",
+                "金融业": "1%",
+                "房地产业": "2%",
+                "租赁和商务服务业": "1%",
+                "公共服务及管理组织": "16%"
+            },
+            {
+                "district": "诸暨",
+                "农、林、牧、渔业": "4%",
+                "工业": "69%",
+                "建筑业": "3%",
+                "交通运输、仓储和邮政业": "0%",
+                "信息传输、软件和信息技术服务业": "3%",
+                "批发和零售业": "9%",
+                "住宿和餐饮业": "1%",
+                "金融业": "0%",
+                "房地产业": "2%",
+                "租赁和商务服务业": "0%",
+                "公共服务及管理组织": "9%"
+            }
+        ],
+        assets: [
+            {
+                "district": "绍兴市",
+                "5年以下": "27%",
+                "5-10年": "65%",
+                "10年以上": "8%"
+              },
+              {
+                "district": "上虞",
+                "5年以下": "30%",
+                "5-10年": "60%",
+                "10年以上": "10%"
+              },
+              {
+                "district": "诸暨",
+                "5年以下": "26%",
+                "5-10年": "63%",
+                "10年以上": "11%"
+              },
+              {
+                "district": "嵊州",
+                "5年以下": "21%",
+                "5-10年": "70%",
+                "10年以上": "9%"
+              },
+              {
+                "district": "新昌",
+                "5年以下": "25%",
+                "5-10年": "61%",
+                "10年以上": "14%"
+              }
+          
+        ],
+        loadrate: [
+            {
+                "district": "绍兴市",
+                "正常负载时长%": "70%",
+                "高负载时长%": "20%",
+                "低负载时长%": "10%"
+              },
+              {
+                "district": "上虞",
+                "正常负载时长%": "73%",
+                "高负载时长%": "19%",
+                "低负载时长%": "8%"
+              },
+              {
+                "district": "诸暨",
+                "正常负载时长%": "68%",
+                "高负载时长%": "23%",
+                "低负载时长%": "9%"
+              },
+              {
+                "district": "嵊州",
+                "正常负载时长%": "72%",
+                "高负载时长%": "18%",
+                "低负载时长%": "10%"
+              },
+              {
+                "district": "新昌",
+                "正常负载时长%": "72%",
+                "高负载时长%": "16%",
+                "低负载时长%": "12%"
+              }
+        ]
         },
         p3: {
             user: [{
-                value: 100,
-                name: '平原'
-            }],
-            assets: [{
-                value: 100,
-                name: '平原'
-            }],
-            loadrate: [{
-                value: 100,
-                name: '平原'
-            }]
+                "district": "上虞",
+                "农、林、牧、渔业": "13%",
+                "工业": "25%",
+                "建筑业": "17%",
+                "交通运输、仓储和邮政业": "1%",
+                "信息传输、软件和信息技术服务业": "5%",
+                "批发和零售业": "14%",
+                "住宿和餐饮业": "1%",
+                "金融业": "1%",
+                "房地产业": "5%",
+                "租赁和商务服务业": "1%",
+                "公共服务及管理组织": "16%"
+            },
+            {
+                "district": "绍兴市",
+                "农、林、牧、渔业": "14%",
+                "工业": "22%",
+                "建筑业": "8%",
+                "交通运输、仓储和邮政业": "1%",
+                "信息传输、软件和信息技术服务业": "5%",
+                "批发和零售业": "25%",
+                "住宿和餐饮业": "3%",
+                "金融业": "2%",
+                "房地产业": "6%",
+                "租赁和商务服务业": "1%",
+                "公共服务及管理组织": "13%"
+            },
+            {
+                "district": "嵊州",
+                "农、林、牧、渔业": "10%",
+                "工业": "37%",
+                "建筑业": "3%",
+                "交通运输、仓储和邮政业": "0%",
+                "信息传输、软件和信息技术服务业": "12%",
+                "批发和零售业": "15%",
+                "住宿和餐饮业": "1%",
+                "金融业": "1%",
+                "房地产业": "1%",
+                "租赁和商务服务业": "1%",
+                "公共服务及管理组织": "18%"
+            },
+            {
+                "district": "新昌",
+                "农、林、牧、渔业": "13%",
+                "工业": "37%",
+                "建筑业": "7%",
+                "交通运输、仓储和邮政业": "1%",
+                "信息传输、软件和信息技术服务业": "9%",
+                "批发和零售业": "13%",
+                "住宿和餐饮业": "2%",
+                "金融业": "1%",
+                "房地产业": "2%",
+                "租赁和商务服务业": "1%",
+                "公共服务及管理组织": "16%"
+            },
+            {
+                "district": "诸暨",
+                "农、林、牧、渔业": "4%",
+                "工业": "69%",
+                "建筑业": "3%",
+                "交通运输、仓储和邮政业": "0%",
+                "信息传输、软件和信息技术服务业": "3%",
+                "批发和零售业": "9%",
+                "住宿和餐饮业": "1%",
+                "金融业": "0%",
+                "房地产业": "2%",
+                "租赁和商务服务业": "0%",
+                "公共服务及管理组织": "9%"
+            }
+        ],
+        assets: [
+            {
+                "district": "绍兴市",
+                "5年以下": "27%",
+                "5-10年": "65%",
+                "10年以上": "8%"
+              },
+              {
+                "district": "上虞",
+                "5年以下": "30%",
+                "5-10年": "60%",
+                "10年以上": "10%"
+              },
+              {
+                "district": "诸暨",
+                "5年以下": "26%",
+                "5-10年": "63%",
+                "10年以上": "11%"
+              },
+              {
+                "district": "嵊州",
+                "5年以下": "21%",
+                "5-10年": "70%",
+                "10年以上": "9%"
+              },
+              {
+                "district": "新昌",
+                "5年以下": "25%",
+                "5-10年": "61%",
+                "10年以上": "14%"
+              }
+          
+        ],
+        loadrate: [
+            {
+                "district": "绍兴市",
+                "正常负载时长%": "70%",
+                "高负载时长%": "20%",
+                "低负载时长%": "10%"
+              },
+              {
+                "district": "上虞",
+                "正常负载时长%": "73%",
+                "高负载时长%": "19%",
+                "低负载时长%": "8%"
+              },
+              {
+                "district": "诸暨",
+                "正常负载时长%": "68%",
+                "高负载时长%": "23%",
+                "低负载时长%": "9%"
+              },
+              {
+                "district": "嵊州",
+                "正常负载时长%": "72%",
+                "高负载时长%": "18%",
+                "低负载时长%": "10%"
+              },
+              {
+                "district": "新昌",
+                "正常负载时长%": "72%",
+                "高负载时长%": "16%",
+                "低负载时长%": "12%"
+              }
+        ]
         },
         p4: {
             user: [{
-                value: 100,
-                name: '平原'
-            }],
-            assets: [{
-                value: 100,
-                name: '平原'
-            }],
-            loadrate: [{
-                value: 100,
-                name: '平原'
-            }]
+                "district": "上虞",
+                "农、林、牧、渔业": "13%",
+                "工业": "25%",
+                "建筑业": "17%",
+                "交通运输、仓储和邮政业": "1%",
+                "信息传输、软件和信息技术服务业": "5%",
+                "批发和零售业": "14%",
+                "住宿和餐饮业": "1%",
+                "金融业": "1%",
+                "房地产业": "5%",
+                "租赁和商务服务业": "1%",
+                "公共服务及管理组织": "16%"
+            },
+            {
+                "district": "绍兴市",
+                "农、林、牧、渔业": "14%",
+                "工业": "22%",
+                "建筑业": "8%",
+                "交通运输、仓储和邮政业": "1%",
+                "信息传输、软件和信息技术服务业": "5%",
+                "批发和零售业": "25%",
+                "住宿和餐饮业": "3%",
+                "金融业": "2%",
+                "房地产业": "6%",
+                "租赁和商务服务业": "1%",
+                "公共服务及管理组织": "13%"
+            },
+            {
+                "district": "嵊州",
+                "农、林、牧、渔业": "10%",
+                "工业": "37%",
+                "建筑业": "3%",
+                "交通运输、仓储和邮政业": "0%",
+                "信息传输、软件和信息技术服务业": "12%",
+                "批发和零售业": "15%",
+                "住宿和餐饮业": "1%",
+                "金融业": "1%",
+                "房地产业": "1%",
+                "租赁和商务服务业": "1%",
+                "公共服务及管理组织": "18%"
+            },
+            {
+                "district": "新昌",
+                "农、林、牧、渔业": "13%",
+                "工业": "37%",
+                "建筑业": "7%",
+                "交通运输、仓储和邮政业": "1%",
+                "信息传输、软件和信息技术服务业": "9%",
+                "批发和零售业": "13%",
+                "住宿和餐饮业": "2%",
+                "金融业": "1%",
+                "房地产业": "2%",
+                "租赁和商务服务业": "1%",
+                "公共服务及管理组织": "16%"
+            },
+            {
+                "district": "诸暨",
+                "农、林、牧、渔业": "4%",
+                "工业": "69%",
+                "建筑业": "3%",
+                "交通运输、仓储和邮政业": "0%",
+                "信息传输、软件和信息技术服务业": "3%",
+                "批发和零售业": "9%",
+                "住宿和餐饮业": "1%",
+                "金融业": "0%",
+                "房地产业": "2%",
+                "租赁和商务服务业": "0%",
+                "公共服务及管理组织": "9%"
+            }
+        ],
+        assets: [
+            {
+                "district": "绍兴市",
+                "5年以下": "27%",
+                "5-10年": "65%",
+                "10年以上": "8%"
+              },
+              {
+                "district": "上虞",
+                "5年以下": "30%",
+                "5-10年": "60%",
+                "10年以上": "10%"
+              },
+              {
+                "district": "诸暨",
+                "5年以下": "26%",
+                "5-10年": "63%",
+                "10年以上": "11%"
+              },
+              {
+                "district": "嵊州",
+                "5年以下": "21%",
+                "5-10年": "70%",
+                "10年以上": "9%"
+              },
+              {
+                "district": "新昌",
+                "5年以下": "25%",
+                "5-10年": "61%",
+                "10年以上": "14%"
+              }
+          
+        ],
+        loadrate: [
+            {
+                "district": "绍兴市",
+                "正常负载时长%": "70%",
+                "高负载时长%": "20%",
+                "低负载时长%": "10%"
+              },
+              {
+                "district": "上虞",
+                "正常负载时长%": "73%",
+                "高负载时长%": "19%",
+                "低负载时长%": "8%"
+              },
+              {
+                "district": "诸暨",
+                "正常负载时长%": "68%",
+                "高负载时长%": "23%",
+                "低负载时长%": "9%"
+              },
+              {
+                "district": "嵊州",
+                "正常负载时长%": "72%",
+                "高负载时长%": "18%",
+                "低负载时长%": "10%"
+              },
+              {
+                "district": "新昌",
+                "正常负载时长%": "72%",
+                "高负载时长%": "16%",
+                "低负载时长%": "12%"
+              }
+        ]
         },
         p5: {
             user: [{
-                value: 100,
-                name: '平原'
-            }],
-            assets: [{
-                value: 100,
-                name: '平原'
-            }],
-            loadrate: [{
-                value: 100,
-                name: '平原'
-            }]
+                "district": "上虞",
+                "农、林、牧、渔业": "13%",
+                "工业": "25%",
+                "建筑业": "17%",
+                "交通运输、仓储和邮政业": "1%",
+                "信息传输、软件和信息技术服务业": "5%",
+                "批发和零售业": "14%",
+                "住宿和餐饮业": "1%",
+                "金融业": "1%",
+                "房地产业": "5%",
+                "租赁和商务服务业": "1%",
+                "公共服务及管理组织": "16%"
+            },
+            {
+                "district": "绍兴市",
+                "农、林、牧、渔业": "14%",
+                "工业": "22%",
+                "建筑业": "8%",
+                "交通运输、仓储和邮政业": "1%",
+                "信息传输、软件和信息技术服务业": "5%",
+                "批发和零售业": "25%",
+                "住宿和餐饮业": "3%",
+                "金融业": "2%",
+                "房地产业": "6%",
+                "租赁和商务服务业": "1%",
+                "公共服务及管理组织": "13%"
+            },
+            {
+                "district": "嵊州",
+                "农、林、牧、渔业": "10%",
+                "工业": "37%",
+                "建筑业": "3%",
+                "交通运输、仓储和邮政业": "0%",
+                "信息传输、软件和信息技术服务业": "12%",
+                "批发和零售业": "15%",
+                "住宿和餐饮业": "1%",
+                "金融业": "1%",
+                "房地产业": "1%",
+                "租赁和商务服务业": "1%",
+                "公共服务及管理组织": "18%"
+            },
+            {
+                "district": "新昌",
+                "农、林、牧、渔业": "13%",
+                "工业": "37%",
+                "建筑业": "7%",
+                "交通运输、仓储和邮政业": "1%",
+                "信息传输、软件和信息技术服务业": "9%",
+                "批发和零售业": "13%",
+                "住宿和餐饮业": "2%",
+                "金融业": "1%",
+                "房地产业": "2%",
+                "租赁和商务服务业": "1%",
+                "公共服务及管理组织": "16%"
+            },
+            {
+                "district": "诸暨",
+                "农、林、牧、渔业": "4%",
+                "工业": "69%",
+                "建筑业": "3%",
+                "交通运输、仓储和邮政业": "0%",
+                "信息传输、软件和信息技术服务业": "3%",
+                "批发和零售业": "9%",
+                "住宿和餐饮业": "1%",
+                "金融业": "0%",
+                "房地产业": "2%",
+                "租赁和商务服务业": "0%",
+                "公共服务及管理组织": "9%"
+            }
+        ],
+        assets: [
+            {
+                "district": "绍兴市",
+                "5年以下": "27%",
+                "5-10年": "65%",
+                "10年以上": "8%"
+              },
+              {
+                "district": "上虞",
+                "5年以下": "30%",
+                "5-10年": "60%",
+                "10年以上": "10%"
+              },
+              {
+                "district": "诸暨",
+                "5年以下": "26%",
+                "5-10年": "63%",
+                "10年以上": "11%"
+              },
+              {
+                "district": "嵊州",
+                "5年以下": "21%",
+                "5-10年": "70%",
+                "10年以上": "9%"
+              },
+              {
+                "district": "新昌",
+                "5年以下": "25%",
+                "5-10年": "61%",
+                "10年以上": "14%"
+              }
+          
+        ],
+        loadrate: [
+            {
+                "district": "绍兴市",
+                "正常负载时长%": "70%",
+                "高负载时长%": "20%",
+                "低负载时长%": "10%"
+              },
+              {
+                "district": "上虞",
+                "正常负载时长%": "73%",
+                "高负载时长%": "19%",
+                "低负载时长%": "8%"
+              },
+              {
+                "district": "诸暨",
+                "正常负载时长%": "68%",
+                "高负载时长%": "23%",
+                "低负载时长%": "9%"
+              },
+              {
+                "district": "嵊州",
+                "正常负载时长%": "72%",
+                "高负载时长%": "18%",
+                "低负载时长%": "10%"
+              },
+              {
+                "district": "新昌",
+                "正常负载时长%": "72%",
+                "高负载时长%": "16%",
+                "低负载时长%": "12%"
+              }
+        ]
         },
     },
     computed: {
@@ -89,9 +708,11 @@ var vm = new Vue({
     },
     methods: {
         getInvestment: function () {
+            // @ts-ignore
             $.ajax({
                 type: "get",
-                url: "https://www.easy-mock.com/mock/5d00baabc11e540be09bc03d/predict/investment",
+                dataType: "json",
+                url: "json/investment.json",
                 async: true,
                 success: function (r) {
                     vm.investment = r.data;
@@ -100,9 +721,11 @@ var vm = new Vue({
             });
         },
         getamount: function () {
+            // @ts-ignore
             $.ajax({
                 type: "get",
-                url: "https://www.easy-mock.com/mock/5d00baabc11e540be09bc03d/predict/amount",
+                dataType: "json",
+                url: "json/amount.json",
                 async: true,
                 success: function (r) {
                     vm.amount = r.data;
@@ -111,9 +734,11 @@ var vm = new Vue({
             });
         },
         getStock: function () {
+            // @ts-ignore
             $.ajax({
                 type: "get",
-                url: "https://www.easy-mock.com/mock/5d00baabc11e540be09bc03d/predict/stock",
+                dataType: "json",
+                url: "json/stock.json",
                 async: true,
                 success: function (r) {
                     vm.stock = r.data;
@@ -122,9 +747,11 @@ var vm = new Vue({
             });
         },
         getActual: function () {
+            // @ts-ignore
             $.ajax({
                 type: "get",
-                url: "https://www.easy-mock.com/mock/5d00baabc11e540be09bc03d/predict/pickAmount",
+                dataType: "json",
+                url: "json/pickAmount.json",
                 async: true,
                 success: function (r) {
                     var data = r.data;
@@ -132,6 +759,7 @@ var vm = new Vue({
                     for (var i = 0; i < data.length; i++) {
                         vm.actual.push(Number(data[i].amount));
                     }
+                    // @ts-ignore
                     var mychart = echarts.init(document.getElementById('contTwo'));
                     var option = {
                         title: {
@@ -195,9 +823,11 @@ var vm = new Vue({
             });
         },
         getGeo() {
+            // @ts-ignore
             $.ajax({
                 type: "get",
-                url: "https://www.easy-mock.com/mock/5d00baabc11e540be09bc03d/predict/district",
+                dataType: "json",
+                url: "json/district.json",
                 async: true,
                 success: function (r) {
                     var geo = r.data;
@@ -210,30 +840,35 @@ var vm = new Vue({
             });
         },
         getUserprofile: function () {
+            // @ts-ignore
             $.ajax({
                 type: "get",
-                url: "https://www.easy-mock.com/mock/5d00baabc11e540be09bc03d/predict/userProfile",
+                dataType: "json",
+                url: "json/userProfile.json",
                 async: true,
                 success: function (r) {
-                    var data = r.data.filter((item) =>{
+                    console.log(r.data)
+                    var data = r.data.filter((item) => {
                         return item.district == vm.selected;
                     });
                     //获取p的值
                     vm.p.user = [],
-                    vm.p.user.push(data[0]);
+                        vm.p.user.push(data[0]);
                     for (var i = 0; i < data.length; i++) {
                         var one = data[i];
                         delete one.district;
                     }
-                    var obj = vm.p.user[0];                                        
+                    var obj = vm.p.user[0];
+                    // @ts-ignore
                     for (var i in obj) {
                         var val = {
                             'value': parseInt(obj[i]),
                             'name': i
-                        };                        
-                        vm.p.user.push(val);                        
+                        };
+                        vm.p.user.push(val);
                     }
-                    var thr = vm.p.user.filter(function(ele,idx,arr){
+                    // @ts-ignore
+                    var thr = vm.p.user.filter(function (ele, idx, arr) {
                         return idx != 0;
                     })
                     vm.p.user = thr;
@@ -247,6 +882,7 @@ var vm = new Vue({
                         delete one.district;
                     }
                     var obj = vm.p1.user[0];
+                    // @ts-ignore
                     for (var i in obj) {
                         var val = {
                             'value': parseInt(obj[i]),
@@ -254,7 +890,8 @@ var vm = new Vue({
                         };
                         vm.p1.user.push(val);
                     }
-                    var fo = vm.p.user.filter(function(ele,idx,arr){
+                    // @ts-ignore
+                    var fo = vm.p.user.filter(function (ele, idx, arr) {
                         return idx !== 0;
                     })
                     vm.p1.user = fo
@@ -266,6 +903,7 @@ var vm = new Vue({
                         delete one.district;
                     }
                     var obj = vm.p2.user[1];
+                    // @ts-ignore
                     for (var i in obj) {
                         var val = {
                             'value': parseInt(obj[i]),
@@ -273,7 +911,8 @@ var vm = new Vue({
                         };
                         vm.p2.user.push(val);
                     }
-                    var fi = vm.p.user.filter(function(ele,idx,arr){
+                    // @ts-ignore
+                    var fi = vm.p.user.filter(function (ele, idx, arr) {
                         return idx !== 0;
                     })
                     vm.p2.user = fi
@@ -285,6 +924,7 @@ var vm = new Vue({
                         delete one.district;
                     }
                     var obj = vm.p3.user[2];
+                    // @ts-ignore
                     for (var i in obj) {
                         var val = {
                             'value': parseInt(obj[i]),
@@ -292,7 +932,8 @@ var vm = new Vue({
                         };
                         vm.p3.user.push(val);
                     }
-                    var si = vm.p.user.filter(function(ele,idx,arr){
+                    // @ts-ignore
+                    var si = vm.p.user.filter(function (ele, idx, arr) {
                         return idx !== 0;
                     })
                     vm.p3.user = si
@@ -304,6 +945,7 @@ var vm = new Vue({
                         delete one.district;
                     }
                     var obj = vm.p4.user[3];
+                    // @ts-ignore
                     for (var i in obj) {
                         var val = {
                             'value': parseInt(obj[i]),
@@ -311,7 +953,8 @@ var vm = new Vue({
                         };
                         vm.p4.user.push(val);
                     }
-                    var se = vm.p.user.filter(function(ele,idx,arr){
+                    // @ts-ignore
+                    var se = vm.p.user.filter(function (ele, idx, arr) {
                         return idx !== 0;
                     })
                     vm.p4.user = se
@@ -323,6 +966,7 @@ var vm = new Vue({
                         delete one.district;
                     }
                     var obj = vm.p5.user[4];
+                    // @ts-ignore
                     for (var i in obj) {
                         var val = {
                             'value': parseInt(obj[i]),
@@ -330,11 +974,13 @@ var vm = new Vue({
                         };
                         vm.p5.user.push(val);
                     }
-                    var ei = vm.p.user.filter(function(ele,idx,arr){
+                    // @ts-ignore
+                    var ei = vm.p.user.filter(function (ele, idx, arr) {
                         return idx !== 0;
                     })
                     vm.p5.user = ei
 
+                    // @ts-ignore
                     var mychart = echarts.init(document.getElementById('user'));
                     var option = {
                         tooltip: {
@@ -355,21 +1001,24 @@ var vm = new Vue({
             });
         },
         getResidueratio: function () {
+            // @ts-ignore
             $.ajax({
                 type: "get",
-                url: "https://www.easy-mock.com/mock/5d00baabc11e540be09bc03d/predict/residueRatio",
+                dataType: "json",
+                url: "json/residueRatio.json",
                 async: true,
                 success: function (r) {
-                    var data = r.data.filter((item) =>{
+                    var data = r.data.filter((item) => {
                         return item.district == vm.selected;
                     });
                     vm.p.assets = [],
-                    vm.p.assets.push(data[0]);
+                        vm.p.assets.push(data[0]);
                     for (var i = 0; i < data.length; i++) {
                         var one = data[i];
                         delete one.district;
                     }
                     var obj = vm.p.assets[0];
+                    // @ts-ignore
                     for (var i in obj) {
                         var val = {
                             'value': parseInt(obj[i]),
@@ -387,6 +1036,7 @@ var vm = new Vue({
                         delete one.district;
                     }
                     var obj = vm.p1.assets[0];
+                    // @ts-ignore
                     for (var i in obj) {
                         var val = {
                             'value': parseInt(obj[i]),
@@ -403,6 +1053,7 @@ var vm = new Vue({
                         delete one.district;
                     }
                     var obj = vm.p2.assets[1];
+                    // @ts-ignore
                     for (var i in obj) {
                         var val = {
                             'value': parseInt(obj[i]),
@@ -419,6 +1070,7 @@ var vm = new Vue({
                         delete one.district;
                     }
                     var obj = vm.p3.assets[2];
+                    // @ts-ignore
                     for (var i in obj) {
                         var val = {
                             'value': parseInt(obj[i]),
@@ -435,6 +1087,7 @@ var vm = new Vue({
                         delete one.district;
                     }
                     var obj = vm.p4.assets[3];
+                    // @ts-ignore
                     for (var i in obj) {
                         var val = {
                             'value': parseInt(obj[i]),
@@ -451,6 +1104,7 @@ var vm = new Vue({
                         delete one.district;
                     }
                     var obj = vm.p5.assets[4];
+                    // @ts-ignore
                     for (var i in obj) {
                         var val = {
                             'value': parseInt(obj[i]),
@@ -460,6 +1114,7 @@ var vm = new Vue({
                     }
                     vm.p5.assets = vm.p5.assets
 
+                    // @ts-ignore
                     var mychart = echarts.init(document.getElementById('assets'));
                     var option = {
                         tooltip: {
@@ -480,24 +1135,26 @@ var vm = new Vue({
             });
         },
         getLoad: function () {
+            // @ts-ignore
             $.ajax({
                 type: "get",
-                url: "https://www.easy-mock.com/mock/5d00baabc11e540be09bc03d/predict/load",
+                dataType: "json",
+                url: "json/load.json",
                 async: true,
                 success: function (r) {
-                    var data = r.data.filter((item) =>{
+                    var data = r.data.filter((item) => {
                         return item.district == vm.selected;
                     });
                     // console.log(data)
                     vm.p.loadrate = [];
                     var two = data[0];
-                    vm.p.loadrate.push(two); 
+                    vm.p.loadrate.push(two);
                     var obj = vm.p.loadrate[0];
                     for (var i in obj) {
                         var val = {
                             'value': parseInt(obj[i]),
                             'name': i
-                        };                        
+                        };
                         vm.p.loadrate.push(val);
                     }
                     // console.log(vm.p.loadrate);
@@ -557,6 +1214,7 @@ var vm = new Vue({
                         vm.p5.loadrate.push(val);
                     }
 
+                    // @ts-ignore
                     var mychart = echarts.init(document.getElementById('loadRate'));
                     var option = {
                         tooltip: {
@@ -565,7 +1223,7 @@ var vm = new Vue({
                         },
                         calculable: true,
                         series: [{
-                            name: '资产成新率',
+                            name: '地区负载率',
                             type: 'pie',
                             radius: '55%',
                             center: ['50%', '60%'],
@@ -585,7 +1243,7 @@ var vm = new Vue({
                 console.log('退出失败');
             }
         },
-        
+
     },
     mounted() {
         this.getInvestment();
@@ -597,8 +1255,8 @@ var vm = new Vue({
         this.getResidueratio();
         this.getLoad();
     },
-    watch:{
-        selected(){
+    watch: {
+        selected() {
             this.getGeo();
             this.getUserprofile();
             this.getResidueratio();

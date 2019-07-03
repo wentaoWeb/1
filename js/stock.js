@@ -1,3 +1,4 @@
+// @ts-nocheck
 var vm = new Vue({
     el: '#app',
     data: {
@@ -14,8 +15,9 @@ var vm = new Vue({
         getAll() {
             $.ajax({
                 type: "get",
-                url: "https://www.easy-mock.com/mock/5d00baabc11e540be09bc03d/predict/stockStructure",
-                async: true,
+                dataType: "json",
+                url: "json/stockStructure.json",
+                // async: true,
                 success: function (r) {
                     var data = vm.rate = r.data;
                     // console.log(data)

@@ -71,14 +71,23 @@
 .nav ul li{
     width: 150px;
     text-align: center;
+    
     background-color: #088a88;
     margin-right: 5px;
-    padding: 10px 0;
     color: white;
     border-radius: 5px;
 }
+.nav ul li a{
+    display: block;
+    width: 150px;
+    padding: 10px 0;
+}
 .nav ul li:hover{
     cursor: pointer;
+}
+.nav ul li.active{
+    background-color: #fff;
+    color: black;
 }
 .top{
     font-size: 24px;
@@ -92,4 +101,51 @@
     background: -webkit-linear-gradient(#fbfffe, #d0fdfa);
     /* text-align: center; */    
 }
+select {
+    /* width: 100px; */
+    position: relative;
+    vertical-align: middle;
+    padding: 5px 7px;
+    overflow: hidden;
+    background-color: #fff;
+    color: #555;
+    border: 1px solid #aaa;
+    text-shadow: none;
+    border-radius: 4px;	
+    transition: box-shadow 0.25s ease;
+    z-index: 2;
+}
+.box span{
+    display: inline-block;
+}
 
+select:hover {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+}
+
+select:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border: 10px solid transparent;
+    border-top-color: #ccc;
+    top: 14px;
+    right: 10px;
+    cursor: pointer;
+    z-index: -2;
+}
+/* select{
+    cursor: pointer;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    background: transparent;
+    background-image: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+} */
+
+select:focus {
+    outline: none;
+}

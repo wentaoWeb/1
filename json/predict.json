@@ -1,0 +1,7501 @@
+{
+  "success": true,
+  "data": [{
+      "year": "2018",
+      "month": "1",
+      "type": "10kV变压器,200kVA,普通,非晶合金,油浸",
+      "predict": "20999.5222",
+      "adjustment": "20999.5222",
+      "actureValue": "19810.87",
+      "error": "6%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "10kV变压器,200kVA,普通,硅钢片,油浸",
+      "predict": "21810.7275",
+      "adjustment": "21810.7275",
+      "actureValue": "18965.85",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "1324685.664",
+      "adjustment": "1324685.664",
+      "actureValue": "981248.64",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "10kV变压器,630kVA,普通,硅钢片,油浸",
+      "predict": "50163.0815",
+      "adjustment": "50163.0815",
+      "actureValue": "42153.85",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "10kV电缆中间接头,3×300,直通接头,冷缩,铜",
+      "predict": "21229.91",
+      "adjustment": "21229.91",
+      "actureValue": "16330.7",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "10kV电缆终端,3×150,户内终端,冷缩,铜",
+      "predict": "4672.848",
+      "adjustment": "4672.848",
+      "actureValue": "3487.2",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "10kV电缆终端,3×150,户外终端,冷缩,铜",
+      "predict": "3058.3707",
+      "adjustment": "3058.3707",
+      "actureValue": "2370.83",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "10kV电缆终端,3×300,户内终端,冷缩,铜",
+      "predict": "4621.7766",
+      "adjustment": "4621.7766",
+      "actureValue": "3475.02",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "10kV电缆终端,3×300,户外终端,冷缩,铜",
+      "predict": "1870.182",
+      "adjustment": "1870.182",
+      "actureValue": "1731.65",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "10kV电缆终端,3×70,户内终端,冷缩,铜",
+      "predict": "4245.5205",
+      "adjustment": "4245.5205",
+      "actureValue": "3144.83",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "10kV电缆终端,3×70,户外终端,冷缩,铜",
+      "predict": "2454.5991",
+      "adjustment": "2454.5991",
+      "actureValue": "1902.79",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "电缆保护管,CPVC,φ100",
+      "predict": "5192.9666",
+      "adjustment": "5192.9666",
+      "actureValue": "4256.53",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "电缆保护管,CPVC,φ175",
+      "predict": "199191.2192",
+      "adjustment": "199191.2192",
+      "actureValue": "160638.08",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "电缆保护管,MPP,φ100",
+      "predict": "31680.2613",
+      "adjustment": "31680.2613",
+      "actureValue": "25756.31",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "电缆保护管,MPP,φ175",
+      "predict": "643080.5802",
+      "adjustment": "643080.5802",
+      "actureValue": "522829.74",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "电缆接线端子,铜,50mm2,单孔",
+      "predict": "193.536",
+      "adjustment": "193.536",
+      "actureValue": "143.36",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "电力电缆,AC10kV,YJV,150,3,22,ZC,无阻水",
+      "predict": "370314.5208",
+      "adjustment": "370314.5208",
+      "actureValue": "287065.52",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "电力电缆,AC10kV,YJV,300,3,22,ZC,无阻水",
+      "predict": "608416.9872",
+      "adjustment": "608416.9872",
+      "actureValue": "460921.96",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "电力电缆,AC10kV,YJV,400,3,22,ZC,无阻水",
+      "predict": "62382.132",
+      "adjustment": "62382.132",
+      "actureValue": "69313.48",
+      "error": "-10%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "电力电缆,AC10kV,YJV,70,3,22,ZC,无阻水",
+      "predict": "117941.615",
+      "adjustment": "117941.615",
+      "actureValue": "107219.65",
+      "error": "10%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "12971.178",
+      "adjustment": "12971.178",
+      "actureValue": "11791.98",
+      "error": "10%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "钢芯铝绞线,JL/G1A,150/20",
+      "predict": "85515.7095",
+      "adjustment": "85515.7095",
+      "actureValue": "63344.97",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "钢芯铝绞线,JL/G1A,70/10",
+      "predict": "2481.1172",
+      "adjustment": "2481.1172",
+      "actureValue": "1851.58",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "高压熔断器,AC10kV,跌落式,100A",
+      "predict": "5022.521",
+      "adjustment": "5022.521",
+      "actureValue": "3748.15",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,150",
+      "predict": "141605.1443",
+      "adjustment": "141605.1443",
+      "actureValue": "108095.53",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,240",
+      "predict": "411502.38",
+      "adjustment": "411502.38",
+      "actureValue": "342918.65",
+      "error": "20%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "32783.1624",
+      "adjustment": "32783.1624",
+      "actureValue": "30354.78",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "17143.1015",
+      "adjustment": "17143.1015",
+      "actureValue": "12889.55",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "39913.5396",
+      "adjustment": "39913.5396",
+      "actureValue": "30237.53",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "10803.3822",
+      "adjustment": "10803.3822",
+      "actureValue": "9233.66",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "铁塔,AC10kV,无,角钢,Q345,无",
+      "predict": "67155.0234",
+      "adjustment": "67155.0234",
+      "actureValue": "54597.58",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "线路柱式瓷绝缘子,R12.5ET125N,160,305,400",
+      "predict": "5540.8179",
+      "adjustment": "5540.8179",
+      "actureValue": "4504.73",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "11566.5275",
+      "adjustment": "11566.5275",
+      "actureValue": "10057.85",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "柱上断路器,AC10kV,630A,20kA,真空,有隔离闸刀,户外",
+      "predict": "605545.3872",
+      "adjustment": "605545.3872",
+      "actureValue": "517560.16",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,12m,190mm,M",
+      "predict": "3253.6808",
+      "adjustment": "3253.6808",
+      "actureValue": "2428.12",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,190mm,M",
+      "predict": "143861.8632",
+      "adjustment": "143861.8632",
+      "actureValue": "117919.56",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "锥形水泥杆,非预应力,整根杆,10m,190mm,I",
+      "predict": "1683.0954",
+      "adjustment": "1683.0954",
+      "actureValue": "1809.78",
+      "error": "-7%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "70783.065",
+      "adjustment": "70783.065",
+      "actureValue": "52431.9",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "1",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,190mm,M",
+      "predict": "121133.1303",
+      "adjustment": "121133.1303",
+      "actureValue": "103532.59",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "10kV变压器,200kVA,普通,硅钢片,油浸",
+      "predict": "25603.8975",
+      "adjustment": "25603.8975",
+      "actureValue": "18965.85",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "10kV变压器,400kVA,普通,非晶合金,油浸",
+      "predict": "85822.0044",
+      "adjustment": "85822.0044",
+      "actureValue": "65016.67",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "137507.6066",
+      "adjustment": "137507.6066",
+      "actureValue": "116531.87",
+      "error": "18%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "10kV电缆终端,3×300,户内终端,冷缩,铜",
+      "predict": "3457.4787",
+      "adjustment": "3457.4787",
+      "actureValue": "2955.11",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "电缆保护管,CPVC,φ100",
+      "predict": "25779.6",
+      "adjustment": "25779.6",
+      "actureValue": "23436",
+      "error": "10%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "钢绞线,1×19-11.5-1270-B,80,镀锌",
+      "predict": "13477.6488",
+      "adjustment": "13477.6488",
+      "actureValue": "10210.34",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "钢绞线,1×7-7.8-1270-B,35,镀锌",
+      "predict": "18691.3816",
+      "adjustment": "18691.3816",
+      "actureValue": "16113.26",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "10765.6122",
+      "adjustment": "10765.6122",
+      "actureValue": "8476.86",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "钢芯铝绞线,JL/G1A,150/20",
+      "predict": "572.736",
+      "adjustment": "572.736",
+      "actureValue": "447.45",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "钢芯铝绞线,JL/G1A,240/30",
+      "predict": "170339.442",
+      "adjustment": "170339.442",
+      "actureValue": "131030.34",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "钢芯铝绞线,JL/G1A,70/10",
+      "predict": "673.2726",
+      "adjustment": "673.2726",
+      "actureValue": "590.59",
+      "error": "14%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "15774.2949",
+      "adjustment": "15774.2949",
+      "actureValue": "13255.71",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "架空绝缘导线,AC10kV,JKTRJY,35",
+      "predict": "5101.3152",
+      "adjustment": "5101.3152",
+      "actureValue": "4723.44",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "1702.6987",
+      "adjustment": "1702.6987",
+      "actureValue": "1299.77",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "3453.5765",
+      "adjustment": "3453.5765",
+      "actureValue": "3003.11",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "7079.0689",
+      "adjustment": "7079.0689",
+      "actureValue": "5574.07",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "2242.512",
+      "adjustment": "2242.512",
+      "actureValue": "2076.4",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,12m,190mm,M",
+      "predict": "11801.1058",
+      "adjustment": "11801.1058",
+      "actureValue": "9752.98",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "2",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "13317.8353",
+      "adjustment": "13317.8353",
+      "actureValue": "10013.41",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "10kV变压器,200kVA,普通,非晶合金,油浸",
+      "predict": "65759.0085",
+      "adjustment": "65759.0085",
+      "actureValue": "59242.35",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "10kV变压器,200kVA,普通,硅钢片,油浸",
+      "predict": "49699",
+      "adjustment": "49699",
+      "actureValue": "38230",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "10kV变压器,400kVA,普通,非晶合金,油浸",
+      "predict": "450452.568",
+      "adjustment": "450452.568",
+      "actureValue": "363268.2",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "3424236.192",
+      "adjustment": "3424236.192",
+      "actureValue": "3084897.47",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "10kV单相隔离开关,630A,20kA,手动双柱立开式,不接地",
+      "predict": "2798.0082",
+      "adjustment": "2798.0082",
+      "actureValue": "2566.98",
+      "error": "9%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "10kV电缆中间接头,3×70,直通接头,冷缩,铜",
+      "predict": "2583.6546",
+      "adjustment": "2583.6546",
+      "actureValue": "2286.42",
+      "error": "13%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "10kV电缆终端,3×150,户内终端,冷缩,铜",
+      "predict": "2330.2944",
+      "adjustment": "2330.2944",
+      "actureValue": "1849.44",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "10kV电缆终端,3×300,户内终端,冷缩,铜",
+      "predict": "9455.3249",
+      "adjustment": "9455.3249",
+      "actureValue": "8674.61",
+      "error": "9%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "10kV电缆终端,3×300,户外终端,冷缩,铜",
+      "predict": "5957.4236",
+      "adjustment": "5957.4236",
+      "actureValue": "5135.71",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "10kV电缆终端,3×400,户内终端,冷缩,铜",
+      "predict": "969.892",
+      "adjustment": "969.892",
+      "actureValue": "723.8",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "10kV电缆终端,3×70,户内终端,冷缩,铜",
+      "predict": "3087.9264",
+      "adjustment": "3087.9264",
+      "actureValue": "2832.96",
+      "error": "9%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "10kV电缆终端,3×70,户外终端,冷缩,铜",
+      "predict": "20584.0914",
+      "adjustment": "20584.0914",
+      "actureValue": "15956.66",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "10kV箱式变电站,630kVA,欧式,硅钢片,普通,有环网柜",
+      "predict": "2237002.499",
+      "adjustment": "2237002.499",
+      "actureValue": "1895764.83",
+      "error": "18%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "电缆保护管,CPVC,φ100",
+      "predict": "7892.43",
+      "adjustment": "7892.43",
+      "actureValue": "6688.5",
+      "error": "18%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "电缆保护管,CPVC,φ175",
+      "predict": "217817.8164",
+      "adjustment": "217817.8164",
+      "actureValue": "191068.26",
+      "error": "14%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "电缆保护管,MPP,φ100",
+      "predict": "164060.091",
+      "adjustment": "164060.091",
+      "actureValue": "140222.3",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "电缆保护管,MPP,φ175",
+      "predict": "2093168.207",
+      "adjustment": "2093168.207",
+      "actureValue": "1729891.08",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "电缆分支箱,AC10kV,不带开关,二路,630A",
+      "predict": "45519.3564",
+      "adjustment": "45519.3564",
+      "actureValue": "38251.56",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "电力电缆,AC10kV,YJV,300,3,22,ZC,无阻水",
+      "predict": "17263809.5",
+      "adjustment": "17263809.5",
+      "actureValue": "13701436.11",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "电力电缆,AC10kV,YJV,400,3,22,ZC,无阻水",
+      "predict": "3396217.287",
+      "adjustment": "3396217.287",
+      "actureValue": "2592532.28",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "电力电缆,AC10kV,YJV,70,3,22,ZC,无阻水",
+      "predict": "312119.1024",
+      "adjustment": "312119.1024",
+      "actureValue": "262284.96",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "钢管杆（桩）,AC10kV,无,无,Q345,杆,无",
+      "predict": "2560740.732",
+      "adjustment": "2560740.732",
+      "actureValue": "2327946.12",
+      "error": "10%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "钢绞线,1×19-11.5-1270-B,80,镀锌",
+      "predict": "3756.3724",
+      "adjustment": "3756.3724",
+      "actureValue": "3104.44",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "钢绞线,1×7-7.8-1270-B,35,镀锌",
+      "predict": "643.8824",
+      "adjustment": "643.8824",
+      "actureValue": "519.26",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "18775.728",
+      "adjustment": "18775.728",
+      "actureValue": "15646.44",
+      "error": "20%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "钢芯铝绞线,JL/G1A,240/30",
+      "predict": "221805.192",
+      "adjustment": "221805.192",
+      "actureValue": "198040.35",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "钢芯铝绞线,JL/G1A,70/10",
+      "predict": "22790.1836",
+      "adjustment": "22790.1836",
+      "actureValue": "19646.71",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "高压熔断器,AC10kV,跌落式,100A",
+      "predict": "93555.126",
+      "adjustment": "93555.126",
+      "actureValue": "70342.2",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "环网箱,AC10kV,2,4",
+      "predict": "1240377.6",
+      "adjustment": "1240377.6",
+      "actureValue": "939680",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,150",
+      "predict": "99750.014",
+      "adjustment": "99750.014",
+      "actureValue": "109615.4",
+      "error": "-9%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,240",
+      "predict": "85965.9213",
+      "adjustment": "85965.9213",
+      "actureValue": "72240.27",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,70",
+      "predict": "3357.963",
+      "adjustment": "3357.963",
+      "actureValue": "2487.38",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,150",
+      "predict": "221455.7624",
+      "adjustment": "221455.7624",
+      "actureValue": "190910.14",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,240",
+      "predict": "1010284.107",
+      "adjustment": "1010284.107",
+      "actureValue": "863490.69",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "290364.14",
+      "adjustment": "290364.14",
+      "actureValue": "263967.4",
+      "error": "10%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "架空绝缘导线,AC10kV,JKTRJY,35",
+      "predict": "2027.163",
+      "adjustment": "2027.163",
+      "actureValue": "1648.1",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "108471.8796",
+      "adjustment": "108471.8796",
+      "actureValue": "88188.52",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "125842.4686",
+      "adjustment": "125842.4686",
+      "actureValue": "93912.29",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "40518.132",
+      "adjustment": "40518.132",
+      "actureValue": "33765.11",
+      "error": "20%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "拉线金具-UT型线夹,NUT-2",
+      "predict": "212.112",
+      "adjustment": "212.112",
+      "actureValue": "196.4",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "联结金具-球头挂环,QP-7",
+      "predict": "60.003",
+      "adjustment": "60.003",
+      "actureValue": "53.1",
+      "error": "13%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "联结金具-碗头挂板,W-7B",
+      "predict": "196.2",
+      "adjustment": "196.2",
+      "actureValue": "156.96",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "联结金具-延长环,PH-7",
+      "predict": "442.935",
+      "adjustment": "442.935",
+      "actureValue": "328.1",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "联结金具-直角挂板,Z-7",
+      "predict": "298.4688",
+      "adjustment": "298.4688",
+      "actureValue": "236.88",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "铁塔,AC10kV,无,角钢,Q345,无",
+      "predict": "159974.9536",
+      "adjustment": "159974.9536",
+      "actureValue": "120281.92",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "线路柱式瓷绝缘子,R12.5ET125N,160,305,400",
+      "predict": "50419.3569",
+      "adjustment": "50419.3569",
+      "actureValue": "41668.89",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "27896.3508",
+      "adjustment": "27896.3508",
+      "actureValue": "22679.96",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "柱上断路器,AC10kV,630A,20kA,真空,有隔离闸刀,户外",
+      "predict": "673929.9027",
+      "adjustment": "673929.9027",
+      "actureValue": "547910.49",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,12m,190mm,M",
+      "predict": "69450.745",
+      "adjustment": "69450.745",
+      "actureValue": "53423.65",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,190mm,M",
+      "predict": "221065.0744",
+      "adjustment": "221065.0744",
+      "actureValue": "190573.34",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,230mm,N",
+      "predict": "80917.7679",
+      "adjustment": "80917.7679",
+      "actureValue": "72898.89",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,190mm,M",
+      "predict": "208882.2198",
+      "adjustment": "208882.2198",
+      "actureValue": "188182.18",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,230mm,N",
+      "predict": "246819.9534",
+      "adjustment": "246819.9534",
+      "actureValue": "194346.42",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,整根杆,10m,190mm,I",
+      "predict": "969442.089",
+      "adjustment": "969442.089",
+      "actureValue": "881310.99",
+      "error": "10%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "535248.5993",
+      "adjustment": "535248.5993",
+      "actureValue": "421455.59",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,190mm,M",
+      "predict": "1370822.69",
+      "adjustment": "1370822.69",
+      "actureValue": "1223948.83",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,230mm,N",
+      "predict": "24977.2114",
+      "adjustment": "24977.2114",
+      "actureValue": "18639.71",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "10kV变压器,200kVA,普通,非晶合金,油浸",
+      "predict": "100317.0714",
+      "adjustment": "100317.0714",
+      "actureValue": "78989.82",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "10kV变压器,200kVA,普通,硅钢片,油浸",
+      "predict": "258969.8148",
+      "adjustment": "258969.8148",
+      "actureValue": "212270.34",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "10kV变压器,400kVA,普通,非晶合金,油浸",
+      "predict": "719099.7875",
+      "adjustment": "719099.7875",
+      "actureValue": "575279.83",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "9145566.558",
+      "adjustment": "9145566.558",
+      "actureValue": "7201233.51",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "10kV变压器,630kVA,普通,硅钢片,干式",
+      "predict": "137484.16",
+      "adjustment": "137484.16",
+      "actureValue": "116512",
+      "error": "18%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "10kV变压器,630kVA,普通,硅钢片,油浸",
+      "predict": "520934.6",
+      "adjustment": "520934.6",
+      "actureValue": "397660",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "10kV电缆终端,3×150,户内终端,冷缩,铜",
+      "predict": "789.0944",
+      "adjustment": "789.0944",
+      "actureValue": "616.48",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "10kV电缆终端,3×300,户内终端,冷缩,铜",
+      "predict": "7548.5608",
+      "adjustment": "7548.5608",
+      "actureValue": "6238.48",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "10kV电缆终端,3×300,户外终端,冷缩,铜",
+      "predict": "30098.9728",
+      "adjustment": "30098.9728",
+      "actureValue": "22461.92",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "10kV电缆终端,3×400,户内终端,冷缩,铜",
+      "predict": "969.24",
+      "adjustment": "969.24",
+      "actureValue": "788",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "10kV电缆终端,3×400,户外终端,冷缩,铜",
+      "predict": "1082.8182",
+      "adjustment": "1082.8182",
+      "actureValue": "880.34",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "10kV电缆终端,3×70,户内终端,冷缩,铜",
+      "predict": "5416.4832",
+      "adjustment": "5416.4832",
+      "actureValue": "4134.72",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "10kV电缆终端,3×70,户外终端,冷缩,铜",
+      "predict": "8682.7923",
+      "adjustment": "8682.7923",
+      "actureValue": "7421.19",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "10kV箱式变电站,630kVA,欧式,硅钢片,普通,有环网柜",
+      "predict": "190368.156",
+      "adjustment": "190368.156",
+      "actureValue": "144218.3",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "电缆保护管,CPVC,φ100",
+      "predict": "734.58",
+      "adjustment": "734.58",
+      "actureValue": "556.5",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "电缆保护管,CPVC,φ175",
+      "predict": "127860.5664",
+      "adjustment": "127860.5664",
+      "actureValue": "103951.68",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "电缆保护管,MPP,φ100",
+      "predict": "36723.4625",
+      "adjustment": "36723.4625",
+      "actureValue": "29378.77",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "电缆保护管,MPP,φ175",
+      "predict": "467399.2064",
+      "adjustment": "467399.2064",
+      "actureValue": "417320.72",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "电力电缆,AC10kV,YJV,150,3,22,ZC,无阻水",
+      "predict": "619600.2772",
+      "adjustment": "619600.2772",
+      "actureValue": "534138.17",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "电力电缆,AC10kV,YJV,300,3,22,ZC,无阻水",
+      "predict": "18647046.76",
+      "adjustment": "18647046.76",
+      "actureValue": "16951860.69",
+      "error": "10%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "电力电缆,AC10kV,YJV,400,3,22,ZC,无阻水",
+      "predict": "183336.1954",
+      "adjustment": "183336.1954",
+      "actureValue": "150275.57",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "电力电缆,AC10kV,YJV,70,3,22,ZC,无阻水",
+      "predict": "2221030.932",
+      "adjustment": "2221030.932",
+      "actureValue": "1657485.77",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "钢管杆（桩）,AC10kV,无,无,Q345,杆,无",
+      "predict": "1381513.275",
+      "adjustment": "1381513.275",
+      "actureValue": "1105210.62",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "钢绞线,1×19-11.5-1270-B,80,镀锌",
+      "predict": "14722.5894",
+      "adjustment": "14722.5894",
+      "actureValue": "11412.86",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "钢绞线,1×7-7.8-1270-B,35,镀锌",
+      "predict": "20865.9696",
+      "adjustment": "20865.9696",
+      "actureValue": "18630.33",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "44409.4308",
+      "adjustment": "44409.4308",
+      "actureValue": "35245.58",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "钢芯铝绞线,JL/G1A,150/20",
+      "predict": "6964.065",
+      "adjustment": "6964.065",
+      "actureValue": "5708.25",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "钢芯铝绞线,JL/G1A,70/10",
+      "predict": "720.5198",
+      "adjustment": "720.5198",
+      "actureValue": "590.59",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "高压熔断器,AC10kV,跌落式,100A",
+      "predict": "222989.8554",
+      "adjustment": "222989.8554",
+      "actureValue": "182778.57",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,150",
+      "predict": "318420.3125",
+      "adjustment": "318420.3125",
+      "actureValue": "254736.25",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,240",
+      "predict": "120210.937",
+      "adjustment": "120210.937",
+      "actureValue": "109282.67",
+      "error": "10%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,70",
+      "predict": "259686.8937",
+      "adjustment": "259686.8937",
+      "actureValue": "198234.27",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,150",
+      "predict": "1090025.808",
+      "adjustment": "1090025.808",
+      "actureValue": "931645.99",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,240",
+      "predict": "1046028.569",
+      "adjustment": "1046028.569",
+      "actureValue": "909590.06",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "636502.2495",
+      "adjustment": "636502.2495",
+      "actureValue": "573425.45",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "架空绝缘导线,AC10kV,JKTRJY,35",
+      "predict": "5608.405",
+      "adjustment": "5608.405",
+      "actureValue": "5241.5",
+      "error": "7%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "197568.1665",
+      "adjustment": "197568.1665",
+      "actureValue": "146346.79",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "267886.7114",
+      "adjustment": "267886.7114",
+      "actureValue": "201418.58",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "62078.8364",
+      "adjustment": "62078.8364",
+      "actureValue": "58564.94",
+      "error": "6%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "拉线金具-UT型线夹,NUT-2",
+      "predict": "673.778",
+      "adjustment": "673.778",
+      "actureValue": "566.2",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "联结金具-球头挂环,QP-7",
+      "predict": "335.28",
+      "adjustment": "335.28",
+      "actureValue": "264",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "联结金具-碗头挂板,W-7B",
+      "predict": "202.9148",
+      "adjustment": "202.9148",
+      "actureValue": "189.64",
+      "error": "7%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "联结金具-直角挂板,Z-7",
+      "predict": "623.3976",
+      "adjustment": "623.3976",
+      "actureValue": "468.72",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "铁塔,AC10kV,无,角钢,Q345,无",
+      "predict": "521811.074",
+      "adjustment": "521811.074",
+      "actureValue": "453748.76",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "线路柱式瓷绝缘子,R12.5ET125N,160,305,400",
+      "predict": "8673.8148",
+      "adjustment": "8673.8148",
+      "actureValue": "7288.92",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "69121.479",
+      "adjustment": "69121.479",
+      "actureValue": "56656.95",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "柱上断路器,AC10kV,630A,20kA,真空,有隔离闸刀,户外",
+      "predict": "538571.8419",
+      "adjustment": "538571.8419",
+      "actureValue": "503338.17",
+      "error": "7%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,12m,190mm,M",
+      "predict": "947055.048",
+      "adjustment": "947055.048",
+      "actureValue": "789212.54",
+      "error": "20%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,190mm,M",
+      "predict": "1069024.554",
+      "adjustment": "1069024.554",
+      "actureValue": "1187805.06",
+      "error": "-10%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,190mm,M",
+      "predict": "196912.3068",
+      "adjustment": "196912.3068",
+      "actureValue": "182326.21",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "锥形水泥杆,非预应力,整根杆,10m,190mm,I",
+      "predict": "2096796.674",
+      "adjustment": "2096796.674",
+      "actureValue": "1807583.34",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "1814290.312",
+      "adjustment": "1814290.312",
+      "actureValue": "1591482.73",
+      "error": "14%"
+    },
+    {
+      "year": "2018",
+      "month": "4",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,190mm,M",
+      "predict": "3306656.373",
+      "adjustment": "3306656.373",
+      "actureValue": "2467654.01",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "10kV变压器,200kVA,普通,非晶合金,油浸",
+      "predict": "26264.1085",
+      "adjustment": "26264.1085",
+      "actureValue": "19747.45",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "10kV变压器,200kVA,普通,硅钢片,油浸",
+      "predict": "94052.2432",
+      "adjustment": "94052.2432",
+      "actureValue": "81079.52",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "10kV变压器,400kVA,普通,非晶合金,油浸",
+      "predict": "846741.3972",
+      "adjustment": "846741.3972",
+      "actureValue": "688407.64",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "4270442.947",
+      "adjustment": "4270442.947",
+      "actureValue": "3954113.84",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "10kV变压器,630kVA,普通,硅钢片,干式",
+      "predict": "137484.16",
+      "adjustment": "137484.16",
+      "actureValue": "116512",
+      "error": "18%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "10kV变压器,630kVA,普通,硅钢片,油浸",
+      "predict": "683542.6329",
+      "adjustment": "683542.6329",
+      "actureValue": "529878.01",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "10kV电缆中间接头,3×300,直通接头,冷缩,铜",
+      "predict": "1066.2993",
+      "adjustment": "1066.2993",
+      "actureValue": "960.63",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "10kV电缆中间接头,3×400,直通接头,冷缩,铜",
+      "predict": "2380.8",
+      "adjustment": "2380.8",
+      "actureValue": "1920",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "10kV电缆中间接头,3×70,直通接头,冷缩,铜",
+      "predict": "1599.1792",
+      "adjustment": "1599.1792",
+      "actureValue": "1494.56",
+      "error": "7%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "10kV电缆终端,3×150,户内终端,冷缩,铜",
+      "predict": "4272.4368",
+      "adjustment": "4272.4368",
+      "actureValue": "3955.96",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "10kV电缆终端,3×150,户外终端,冷缩,铜",
+      "predict": "1198.975",
+      "adjustment": "1198.975",
+      "actureValue": "959.18",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "10kV电缆终端,3×300,户内终端,冷缩,铜",
+      "predict": "8472.9132",
+      "adjustment": "8472.9132",
+      "actureValue": "7432.38",
+      "error": "14%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "10kV电缆终端,3×300,户外终端,冷缩,铜",
+      "predict": "6913.4712",
+      "adjustment": "6913.4712",
+      "actureValue": "5359.28",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "10kV电缆终端,3×70,户内终端,冷缩,铜",
+      "predict": "10950.927",
+      "adjustment": "10950.927",
+      "actureValue": "9865.7",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "10kV电缆终端,3×70,户外终端,冷缩,铜",
+      "predict": "9025.471",
+      "adjustment": "9025.471",
+      "actureValue": "6942.67",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "10kV箱式变电站,630kVA,欧式,硅钢片,普通,有环网柜",
+      "predict": "3400224.633",
+      "adjustment": "3400224.633",
+      "actureValue": "2906174.9",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "电缆保护管,CPVC,φ100",
+      "predict": "59225.3028",
+      "adjustment": "59225.3028",
+      "actureValue": "51952.02",
+      "error": "14%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "电缆保护管,CPVC,φ175",
+      "predict": "112882.5",
+      "adjustment": "112882.5",
+      "actureValue": "90306",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "电缆保护管,MPP,φ100",
+      "predict": "171481.9176",
+      "adjustment": "171481.9176",
+      "actureValue": "136096.76",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "电缆保护管,MPP,φ175",
+      "predict": "506545.062",
+      "adjustment": "506545.062",
+      "actureValue": "473406.6",
+      "error": "7%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "电力电缆,AC10kV,YJV,150,3,22,ZC,无阻水",
+      "predict": "687824.9781",
+      "adjustment": "687824.9781",
+      "actureValue": "631032.09",
+      "error": "9%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "电力电缆,AC10kV,YJV,300,3,22,ZC,无阻水",
+      "predict": "28391198.57",
+      "adjustment": "28391198.57",
+      "actureValue": "24475171.18",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "电力电缆,AC10kV,YJV,400,3,22,ZC,无阻水",
+      "predict": "377246.2991",
+      "adjustment": "377246.2991",
+      "actureValue": "297044.33",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "电力电缆,AC10kV,YJV,70,3,22,ZC,无阻水",
+      "predict": "2454318.34",
+      "adjustment": "2454318.34",
+      "actureValue": "1873525.45",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "钢管杆（桩）,AC10kV,无,无,Q345,杆,无",
+      "predict": "1086788.694",
+      "adjustment": "1086788.694",
+      "actureValue": "1194273.29",
+      "error": "-9%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "钢绞线,1×19-11.5-1270-B,80,镀锌",
+      "predict": "5377.65",
+      "adjustment": "5377.65",
+      "actureValue": "4302.12",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "钢绞线,1×7-7.8-1270-B,35,镀锌",
+      "predict": "3974.768",
+      "adjustment": "3974.768",
+      "actureValue": "3456.32",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "15576.86",
+      "adjustment": "15576.86",
+      "actureValue": "11982.2",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "钢芯铝绞线,JL/G1A,150/20",
+      "predict": "86424.8",
+      "adjustment": "86424.8",
+      "actureValue": "70840",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "钢芯铝绞线,JL/G1A,240/30",
+      "predict": "3805.7459",
+      "adjustment": "3805.7459",
+      "actureValue": "3491.51",
+      "error": "9%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "钢芯铝绞线,JL/G1A,70/10",
+      "predict": "31521.312",
+      "adjustment": "31521.312",
+      "actureValue": "23349.12",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "高压熔断器,AC10kV,跌落式,100A",
+      "predict": "137798.4798",
+      "adjustment": "137798.4798",
+      "actureValue": "108502.74",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "环网箱,AC10kV,2,4",
+      "predict": "936267.12",
+      "adjustment": "936267.12",
+      "actureValue": "875016",
+      "error": "7%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,150",
+      "predict": "7131.7296",
+      "adjustment": "7131.7296",
+      "actureValue": "5845.68",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,70",
+      "predict": "24096.18",
+      "adjustment": "24096.18",
+      "actureValue": "21137",
+      "error": "14%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,150",
+      "predict": "376295.742",
+      "adjustment": "376295.742",
+      "actureValue": "418106.38",
+      "error": "-10%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,240",
+      "predict": "908698.1331",
+      "adjustment": "908698.1331",
+      "actureValue": "738778.97",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "499757.2135",
+      "adjustment": "499757.2135",
+      "actureValue": "434571.49",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "架空绝缘导线,AC10kV,JKTRJY,35",
+      "predict": "2994.9588",
+      "adjustment": "2994.9588",
+      "actureValue": "2773.11",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "71589.0295",
+      "adjustment": "71589.0295",
+      "actureValue": "62251.33",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "344475.8306",
+      "adjustment": "344475.8306",
+      "actureValue": "291928.67",
+      "error": "18%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "37047.1166",
+      "adjustment": "37047.1166",
+      "actureValue": "34950.11",
+      "error": "6%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "拉线金具-UT型线夹,NUT-2",
+      "predict": "67.758",
+      "adjustment": "67.758",
+      "actureValue": "73.65",
+      "error": "-8%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "拉线金具-锲型线夹,NX-2",
+      "predict": "116.64",
+      "adjustment": "116.64",
+      "actureValue": "108",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "联结金具-延长环,PH-7",
+      "predict": "14.1276",
+      "adjustment": "14.1276",
+      "actureValue": "11.58",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "铁塔,AC10kV,无,角钢,Q345,无",
+      "predict": "319804.3482",
+      "adjustment": "319804.3482",
+      "actureValue": "280530.13",
+      "error": "14%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "线路柱式瓷绝缘子,R12.5ET125N,160,305,400",
+      "predict": "213992.7702",
+      "adjustment": "213992.7702",
+      "actureValue": "175403.91",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "72443.215",
+      "adjustment": "72443.215",
+      "actureValue": "55725.55",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "柱上断路器,AC10kV,630A,20kA,真空,有隔离闸刀,户外",
+      "predict": "994726.7792",
+      "adjustment": "994726.7792",
+      "actureValue": "888148.91",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,12m,190mm,M",
+      "predict": "416145.6585",
+      "adjustment": "416145.6585",
+      "actureValue": "355680.05",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,190mm,M",
+      "predict": "1139671.875",
+      "adjustment": "1139671.875",
+      "actureValue": "883466.57",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,230mm,N",
+      "predict": "8526.0099",
+      "adjustment": "8526.0099",
+      "actureValue": "7681.09",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,190mm,M",
+      "predict": "150386.3626",
+      "adjustment": "150386.3626",
+      "actureValue": "137969.14",
+      "error": "9%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,230mm,N",
+      "predict": "16052.2983",
+      "adjustment": "16052.2983",
+      "actureValue": "14461.53",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,整根杆,10m,190mm,I",
+      "predict": "1240225.259",
+      "adjustment": "1240225.259",
+      "actureValue": "1362884.9",
+      "error": "-9%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "2152272.886",
+      "adjustment": "2152272.886",
+      "actureValue": "1735703.94",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,230mm,N",
+      "predict": "37919.037",
+      "adjustment": "37919.037",
+      "actureValue": "29168.49",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,190mm,M",
+      "predict": "1680772.894",
+      "adjustment": "1680772.894",
+      "actureValue": "1254308.13",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,230mm,N",
+      "predict": "27612.1376",
+      "adjustment": "27612.1376",
+      "actureValue": "24435.52",
+      "error": "13%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "10kV变压器,200kVA,普通,非晶合金,油浸",
+      "predict": "265608",
+      "adjustment": "265608",
+      "actureValue": "285600",
+      "error": "-7%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "10kV变压器,200kVA,普通,硅钢片,油浸",
+      "predict": "115771.4904",
+      "adjustment": "115771.4904",
+      "actureValue": "123161.16",
+      "error": "-6%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "10kV变压器,400kVA,普通,非晶合金,油浸",
+      "predict": "324992.4707",
+      "adjustment": "324992.4707",
+      "actureValue": "298158.23",
+      "error": "9%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "2311253.935",
+      "adjustment": "2311253.935",
+      "actureValue": "1834328.52",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "10kV变压器,630kVA,普通,硅钢片,油浸",
+      "predict": "1128205",
+      "adjustment": "1128205",
+      "actureValue": "867850",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "10kV电缆中间接头,3×300,直通接头,冷缩,铜",
+      "predict": "12304.9446",
+      "adjustment": "12304.9446",
+      "actureValue": "11288.94",
+      "error": "9%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "10kV电缆中间接头,3×400,直通接头,冷缩,铜",
+      "predict": "8911",
+      "adjustment": "8911",
+      "actureValue": "6650",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "10kV电缆中间接头,3×70,直通接头,冷缩,铜",
+      "predict": "2017.656",
+      "adjustment": "2017.656",
+      "actureValue": "1494.56",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "10kV电缆终端,3×150,户内终端,冷缩,铜",
+      "predict": "987.2256",
+      "adjustment": "987.2256",
+      "actureValue": "771.27",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "10kV电缆终端,3×150,户外终端,冷缩,铜",
+      "predict": "4130.88",
+      "adjustment": "4130.88",
+      "actureValue": "3227.25",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "10kV电缆终端,3×300,户内终端,冷缩,铜",
+      "predict": "45590.2822",
+      "adjustment": "45590.2822",
+      "actureValue": "35897.86",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "10kV电缆终端,3×300,户外终端,冷缩,铜",
+      "predict": "18296.8224",
+      "adjustment": "18296.8224",
+      "actureValue": "13967.04",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "10kV电缆终端,3×400,户内终端,冷缩,铜",
+      "predict": "7345.9594",
+      "adjustment": "7345.9594",
+      "actureValue": "5784.22",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "10kV电缆终端,3×70,户内终端,冷缩,铜",
+      "predict": "13085.886",
+      "adjustment": "13085.886",
+      "actureValue": "9913.55",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "10kV电缆终端,3×70,户外终端,冷缩,铜",
+      "predict": "14804.9032",
+      "adjustment": "14804.9032",
+      "actureValue": "13582.48",
+      "error": "9%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "10kV箱式变电站,630kVA,欧式,硅钢片,普通,有环网柜",
+      "predict": "2067704.561",
+      "adjustment": "2067704.561",
+      "actureValue": "1914541.26",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "电缆保护管,CPVC,φ100",
+      "predict": "66703.05",
+      "adjustment": "66703.05",
+      "actureValue": "53362.44",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "电缆保护管,CPVC,φ175",
+      "predict": "454190.292",
+      "adjustment": "454190.292",
+      "actureValue": "369260.4",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "电缆保护管,MPP,φ100",
+      "predict": "361188.8896",
+      "adjustment": "361188.8896",
+      "actureValue": "282178.82",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "电缆保护管,MPP,φ175",
+      "predict": "2238934.613",
+      "adjustment": "2238934.613",
+      "actureValue": "1762940.64",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "电缆分支箱,AC10kV,不带开关,二路,630A",
+      "predict": "11592.306",
+      "adjustment": "11592.306",
+      "actureValue": "12880.34",
+      "error": "-10%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "电力电缆,AC10kV,YJV,150,3,22,ZC,无阻水",
+      "predict": "1466287.466",
+      "adjustment": "1466287.466",
+      "actureValue": "1136656.95",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "电力电缆,AC10kV,YJV,300,3,22,ZC,无阻水",
+      "predict": "45128633.88",
+      "adjustment": "45128633.88",
+      "actureValue": "34983437.12",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "电力电缆,AC10kV,YJV,400,3,22,ZC,无阻水",
+      "predict": "13523401.94",
+      "adjustment": "13523401.94",
+      "actureValue": "10245001.47",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "电力电缆,AC10kV,YJV,70,3,22,ZC,无阻水",
+      "predict": "1619981.768",
+      "adjustment": "1619981.768",
+      "actureValue": "1306436.91",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "钢管杆（桩）,AC10kV,无,无,Q345,杆,无",
+      "predict": "587491.191",
+      "adjustment": "587491.191",
+      "actureValue": "515343.15",
+      "error": "14%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "钢绞线,1×19-11.5-1270-B,80,镀锌",
+      "predict": "12356.616",
+      "adjustment": "12356.616",
+      "actureValue": "10297.18",
+      "error": "20%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "钢绞线,1×7-7.8-1270-B,35,镀锌",
+      "predict": "17180.4888",
+      "adjustment": "17180.4888",
+      "actureValue": "15907.86",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "130502.583",
+      "adjustment": "130502.583",
+      "actureValue": "114475.95",
+      "error": "14%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "钢芯铝绞线,JL/G1A,150/20",
+      "predict": "31788.4664",
+      "adjustment": "31788.4664",
+      "actureValue": "26056.12",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "钢芯铝绞线,JL/G1A,240/30",
+      "predict": "222728.0471",
+      "adjustment": "222728.0471",
+      "actureValue": "170021.41",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "钢芯铝绞线,JL/G1A,70/10",
+      "predict": "53379.7056",
+      "adjustment": "53379.7056",
+      "actureValue": "45623.68",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "高压熔断器,AC10kV,跌落式,100A",
+      "predict": "58237.8804",
+      "adjustment": "58237.8804",
+      "actureValue": "43787.88",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "环网箱,AC10kV,2,4",
+      "predict": "2322192.612",
+      "adjustment": "2322192.612",
+      "actureValue": "1828498.12",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,150",
+      "predict": "13301.4174",
+      "adjustment": "13301.4174",
+      "actureValue": "11667.91",
+      "error": "14%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,240",
+      "predict": "6473.4691",
+      "adjustment": "6473.4691",
+      "actureValue": "4867.27",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,70",
+      "predict": "4281.7544",
+      "adjustment": "4281.7544",
+      "actureValue": "3538.64",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,150",
+      "predict": "341193.8837",
+      "adjustment": "341193.8837",
+      "actureValue": "301941.49",
+      "error": "13%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,240",
+      "predict": "1083370.532",
+      "adjustment": "1083370.532",
+      "actureValue": "1164914.55",
+      "error": "-7%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "364788.351",
+      "adjustment": "364788.351",
+      "actureValue": "405320.39",
+      "error": "-10%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "架空绝缘导线,AC10kV,JKTRJY,35",
+      "predict": "28872.9714",
+      "adjustment": "28872.9714",
+      "actureValue": "23666.37",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "48952.2411",
+      "adjustment": "48952.2411",
+      "actureValue": "39798.57",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "757671.3749",
+      "adjustment": "757671.3749",
+      "actureValue": "626174.69",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "32537.5245",
+      "adjustment": "32537.5245",
+      "actureValue": "27809.85",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "铁塔,AC10kV,无,角钢,Q345,无",
+      "predict": "1970640.684",
+      "adjustment": "1970640.684",
+      "actureValue": "1824667.3",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "线路柱式瓷绝缘子,R12.5ET125N,160,305,400",
+      "predict": "65142.348",
+      "adjustment": "65142.348",
+      "actureValue": "58686.8",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "200498.21",
+      "adjustment": "200498.21",
+      "actureValue": "165701",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "柱上断路器,AC10kV,630A,20kA,真空,有隔离闸刀,户外",
+      "predict": "1473605.034",
+      "adjustment": "1473605.034",
+      "actureValue": "1116367.45",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,12m,190mm,M",
+      "predict": "478962.044",
+      "adjustment": "478962.044",
+      "actureValue": "395836.4",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,190mm,M",
+      "predict": "819820.4056",
+      "adjustment": "819820.4056",
+      "actureValue": "616406.32",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,230mm,N",
+      "predict": "18870.2766",
+      "adjustment": "18870.2766",
+      "actureValue": "20290.62",
+      "error": "-7%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,190mm,M",
+      "predict": "288930.4991",
+      "adjustment": "288930.4991",
+      "actureValue": "227504.33",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "锥形水泥杆,非预应力,整根杆,10m,190mm,I",
+      "predict": "451389.1884",
+      "adjustment": "451389.1884",
+      "actureValue": "366983.08",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "2942875.236",
+      "adjustment": "2942875.236",
+      "actureValue": "2473004.4",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,230mm,N",
+      "predict": "5224.2176",
+      "adjustment": "5224.2176",
+      "actureValue": "4664.48",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,190mm,M",
+      "predict": "1308227.379",
+      "adjustment": "1308227.379",
+      "actureValue": "1222642.41",
+      "error": "7%"
+    },
+    {
+      "year": "2018",
+      "month": "6",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,230mm,N",
+      "predict": "19827.5625",
+      "adjustment": "19827.5625",
+      "actureValue": "15862.05",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "10kV变压器,1000kVA,普通,硅钢片,干式",
+      "predict": "343446.8128",
+      "adjustment": "343446.8128",
+      "actureValue": "377414.08",
+      "error": "-9%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "10kV变压器,200kVA,普通,非晶合金,油浸",
+      "predict": "146880",
+      "adjustment": "146880",
+      "actureValue": "122400",
+      "error": "20%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "10kV变压器,200kVA,普通,硅钢片,油浸",
+      "predict": "304336.0647",
+      "adjustment": "304336.0647",
+      "actureValue": "235919.43",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "10kV变压器,400kVA,普通,非晶合金,油浸",
+      "predict": "2045636.386",
+      "adjustment": "2045636.386",
+      "actureValue": "1585764.64",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "4455770.439",
+      "adjustment": "4455770.439",
+      "actureValue": "4791151.01",
+      "error": "-7%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "10kV变压器,630kVA,普通,硅钢片,干式",
+      "predict": "156239.888",
+      "adjustment": "156239.888",
+      "actureValue": "139499.9",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "10kV变压器,630kVA,普通,硅钢片,油浸",
+      "predict": "60239",
+      "adjustment": "60239",
+      "actureValue": "51050",
+      "error": "18%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "10kV变压器,800kVA,普通,硅钢片,干式",
+      "predict": "192483.85",
+      "adjustment": "192483.85",
+      "actureValue": "153987.08",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "10kV单相隔离开关,630A,20kA,手动双柱立开式,不接地",
+      "predict": "1424.6739",
+      "adjustment": "1424.6739",
+      "actureValue": "1283.49",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "10kV电缆中间接头,3×300,直通接头,冷缩,铜",
+      "predict": "48630.9506",
+      "adjustment": "48630.9506",
+      "actureValue": "41212.67",
+      "error": "18%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "10kV电缆中间接头,3×70,直通接头,冷缩,铜",
+      "predict": "2949.2554",
+      "adjustment": "2949.2554",
+      "actureValue": "2251.34",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "10kV电缆终端,3×300,户内终端,冷缩,铜",
+      "predict": "20360.7197",
+      "adjustment": "20360.7197",
+      "actureValue": "19028.71",
+      "error": "7%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "10kV电缆终端,3×300,户外终端,冷缩,铜",
+      "predict": "27441.2992",
+      "adjustment": "27441.2992",
+      "actureValue": "22130.08",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "10kV电缆终端,3×70,户内终端,冷缩,铜",
+      "predict": "1219.6624",
+      "adjustment": "1219.6624",
+      "actureValue": "931.04",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "10kV电缆终端,3×70,户外终端,冷缩,铜",
+      "predict": "11713.2516",
+      "adjustment": "11713.2516",
+      "actureValue": "9080.04",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "10kV箱式变电站,630kVA,欧式,硅钢片,普通,有环网柜",
+      "predict": "1838974.588",
+      "adjustment": "1838974.588",
+      "actureValue": "1471179.67",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "电缆保护管,CPVC,φ100",
+      "predict": "65050.167",
+      "adjustment": "65050.167",
+      "actureValue": "48909.9",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "电缆保护管,CPVC,φ175",
+      "predict": "645542.1228",
+      "adjustment": "645542.1228",
+      "actureValue": "566265.02",
+      "error": "14%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "电缆保护管,MPP,φ100",
+      "predict": "72333.0008",
+      "adjustment": "72333.0008",
+      "actureValue": "68238.68",
+      "error": "6%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "电缆保护管,MPP,φ175",
+      "predict": "2797645.649",
+      "adjustment": "2797645.649",
+      "actureValue": "2350962.73",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "电缆分支箱,AC10kV,不带开关,二路,630A",
+      "predict": "34304",
+      "adjustment": "34304",
+      "actureValue": "25600",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "电力电缆,AC10kV,YJV,150,3,22,ZC,无阻水",
+      "predict": "83909.25",
+      "adjustment": "83909.25",
+      "actureValue": "67668.75",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "电力电缆,AC10kV,YJV,300,3,22,ZC,无阻水",
+      "predict": "7478370.497",
+      "adjustment": "7478370.497",
+      "actureValue": "6559974.12",
+      "error": "14%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "电力电缆,AC10kV,YJV,400,3,22,ZC,无阻水",
+      "predict": "887135.7764",
+      "adjustment": "887135.7764",
+      "actureValue": "751809.98",
+      "error": "18%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "电力电缆,AC10kV,YJV,70,3,22,ZC,无阻水",
+      "predict": "1141567.696",
+      "adjustment": "1141567.696",
+      "actureValue": "920619.11",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "钢管杆（桩）,AC10kV,无,无,Q345,杆,无",
+      "predict": "1122950.83",
+      "adjustment": "1122950.83",
+      "actureValue": "943656.16",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "钢绞线,1×19-11.5-1270-B,80,镀锌",
+      "predict": "10574.0148",
+      "adjustment": "10574.0148",
+      "actureValue": "8596.76",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "钢绞线,1×7-7.8-1270-B,35,镀锌",
+      "predict": "3963.24",
+      "adjustment": "3963.24",
+      "actureValue": "3302.7",
+      "error": "20%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "42595.4229",
+      "adjustment": "42595.4229",
+      "actureValue": "32515.59",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "钢芯铝绞线,JL/G1A,150/20",
+      "predict": "3768.156",
+      "adjustment": "3768.156",
+      "actureValue": "3140.13",
+      "error": "20%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "钢芯铝绞线,JL/G1A,240/30",
+      "predict": "244713.9408",
+      "adjustment": "244713.9408",
+      "actureValue": "218494.59",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "钢芯铝绞线,JL/G1A,70/10",
+      "predict": "11515.8537",
+      "adjustment": "11515.8537",
+      "actureValue": "9842.61",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "高压熔断器,AC10kV,跌落式,100A",
+      "predict": "96846.0766",
+      "adjustment": "96846.0766",
+      "actureValue": "79382.03",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "环网箱,AC10kV,2,4",
+      "predict": "1298816.131",
+      "adjustment": "1298816.131",
+      "actureValue": "1159657.26",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,150",
+      "predict": "175924.0296",
+      "adjustment": "175924.0296",
+      "actureValue": "133275.78",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,240",
+      "predict": "120762.5502",
+      "adjustment": "120762.5502",
+      "actureValue": "93614.38",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,70",
+      "predict": "79405.703",
+      "adjustment": "79405.703",
+      "actureValue": "61081.31",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,150",
+      "predict": "477767.4948",
+      "adjustment": "477767.4948",
+      "actureValue": "411868.53",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,240",
+      "predict": "2003078.085",
+      "adjustment": "2003078.085",
+      "actureValue": "1741807.03",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "455767.3575",
+      "adjustment": "455767.3575",
+      "actureValue": "389544.75",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "架空绝缘导线,AC10kV,JKTRJY,35",
+      "predict": "47636.719",
+      "adjustment": "47636.719",
+      "actureValue": "36643.63",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "202957.8759",
+      "adjustment": "202957.8759",
+      "actureValue": "173468.27",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "704661.282",
+      "adjustment": "704661.282",
+      "actureValue": "521971.32",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "70502.291",
+      "adjustment": "70502.291",
+      "actureValue": "61306.34",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "拉线金具-锲型线夹,NX-2",
+      "predict": "29.52",
+      "adjustment": "29.52",
+      "actureValue": "24",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "联结金具-延长环,PH-7",
+      "predict": "177.8688",
+      "adjustment": "177.8688",
+      "actureValue": "138.96",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "铁塔,AC10kV,无,角钢,Q345,无",
+      "predict": "322772.3157",
+      "adjustment": "322772.3157",
+      "actureValue": "290785.87",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "线路柱式瓷绝缘子,R12.5ET125N,160,305,400",
+      "predict": "72986.8293",
+      "adjustment": "72986.8293",
+      "actureValue": "61333.47",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "150009.7185",
+      "adjustment": "150009.7185",
+      "actureValue": "111118.31",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "柱上断路器,AC10kV,630A,20kA,真空,有隔离闸刀,户外",
+      "predict": "1393527.014",
+      "adjustment": "1393527.014",
+      "actureValue": "1088692.98",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,12m,190mm,M",
+      "predict": "697921.5576",
+      "adjustment": "697921.5576",
+      "actureValue": "628758.16",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,190mm,M",
+      "predict": "1049034.218",
+      "adjustment": "1049034.218",
+      "actureValue": "881541.36",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,230mm,N",
+      "predict": "13503.3048",
+      "adjustment": "13503.3048",
+      "actureValue": "11640.78",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,190mm,M",
+      "predict": "665793.9916",
+      "adjustment": "665793.9916",
+      "actureValue": "545732.78",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "锥形水泥杆,非预应力,整根杆,10m,190mm,I",
+      "predict": "1261872.311",
+      "adjustment": "1261872.311",
+      "actureValue": "934720.23",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "2212206.305",
+      "adjustment": "2212206.305",
+      "actureValue": "1890774.62",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,230mm,N",
+      "predict": "50521.0191",
+      "adjustment": "50521.0191",
+      "actureValue": "39780.33",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,190mm,M",
+      "predict": "2078755.719",
+      "adjustment": "2078755.719",
+      "actureValue": "1690045.3",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "7",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,230mm,N",
+      "predict": "119787.312",
+      "adjustment": "119787.312",
+      "actureValue": "104162.88",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "10kV变压器,200kVA,普通,非晶合金,油浸",
+      "predict": "374824.8",
+      "adjustment": "374824.8",
+      "actureValue": "277648",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "10kV变压器,200kVA,普通,硅钢片,油浸",
+      "predict": "114185.596",
+      "adjustment": "114185.596",
+      "actureValue": "101049.2",
+      "error": "13%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "8315144.6",
+      "adjustment": "8315144.6",
+      "actureValue": "6652115.68",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "10kV变压器,630kVA,普通,硅钢片,油浸",
+      "predict": "436339.3221",
+      "adjustment": "436339.3221",
+      "actureValue": "360611.01",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "10kV电缆中间接头,3×300,直通接头,冷缩,铜",
+      "predict": "19789.3584",
+      "adjustment": "19789.3584",
+      "actureValue": "15959.16",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "10kV电缆中间接头,3×70,直通接头,冷缩,铜",
+      "predict": "5000.7608",
+      "adjustment": "5000.7608",
+      "actureValue": "4202.32",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "10kV电缆终端,3×150,户内终端,冷缩,铜",
+      "predict": "588.06",
+      "adjustment": "588.06",
+      "actureValue": "486",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "10kV电缆终端,3×150,户外终端,冷缩,铜",
+      "predict": "1397.3568",
+      "adjustment": "1397.3568",
+      "actureValue": "1247.64",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "10kV电缆终端,3×300,户内终端,冷缩,铜",
+      "predict": "13714.6845",
+      "adjustment": "13714.6845",
+      "actureValue": "11334.45",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "10kV电缆终端,3×300,户外终端,冷缩,铜",
+      "predict": "5029.5492",
+      "adjustment": "5029.5492",
+      "actureValue": "4298.76",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "10kV电缆终端,3×400,户内终端,冷缩,铜",
+      "predict": "3016.44",
+      "adjustment": "3016.44",
+      "actureValue": "2268",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "10kV电缆终端,3×70,户内终端,冷缩,铜",
+      "predict": "3253.425",
+      "adjustment": "3253.425",
+      "actureValue": "2602.74",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "10kV电缆终端,3×70,户外终端,冷缩,铜",
+      "predict": "7238.79",
+      "adjustment": "7238.79",
+      "actureValue": "6294.6",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "电缆保护管,CPVC,φ100",
+      "predict": "57394.68",
+      "adjustment": "57394.68",
+      "actureValue": "51245.25",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "电缆保护管,CPVC,φ175",
+      "predict": "1181935.834",
+      "adjustment": "1181935.834",
+      "actureValue": "953174.06",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "电缆保护管,MPP,φ100",
+      "predict": "12320.5595",
+      "adjustment": "12320.5595",
+      "actureValue": "10713.53",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "电缆保护管,MPP,φ175",
+      "predict": "933646.0896",
+      "adjustment": "933646.0896",
+      "actureValue": "740988.96",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "电力电缆,AC10kV,YJV,150,3,22,ZC,无阻水",
+      "predict": "277027.7868",
+      "adjustment": "277027.7868",
+      "actureValue": "256507.21",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "电力电缆,AC10kV,YJV,300,3,22,ZC,无阻水",
+      "predict": "12964544.03",
+      "adjustment": "12964544.03",
+      "actureValue": "11080806.86",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "电力电缆,AC10kV,YJV,400,3,22,ZC,无阻水",
+      "predict": "534824.1248",
+      "adjustment": "534824.1248",
+      "actureValue": "461055.28",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "电力电缆,AC10kV,YJV,70,3,22,ZC,无阻水",
+      "predict": "886264.155",
+      "adjustment": "886264.155",
+      "actureValue": "703384.25",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "钢管杆（桩）,AC10kV,无,无,Q345,杆,无",
+      "predict": "1047455.915",
+      "adjustment": "1047455.915",
+      "actureValue": "910831.23",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "钢绞线,1×19-11.5-1270-B,80,镀锌",
+      "predict": "14950.8345",
+      "adjustment": "14950.8345",
+      "actureValue": "12155.15",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "钢绞线,1×7-7.8-1270-B,35,镀锌",
+      "predict": "8719.5352",
+      "adjustment": "8719.5352",
+      "actureValue": "7147.16",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "148583.6928",
+      "adjustment": "148583.6928",
+      "actureValue": "116081.01",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "钢芯铝绞线,JL/G1A,150/20",
+      "predict": "86782.518",
+      "adjustment": "86782.518",
+      "actureValue": "96425.02",
+      "error": "-10%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "钢芯铝绞线,JL/G1A,240/30",
+      "predict": "258577.8264",
+      "adjustment": "258577.8264",
+      "actureValue": "241661.52",
+      "error": "7%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "钢芯铝绞线,JL/G1A,70/10",
+      "predict": "32366.7078",
+      "adjustment": "32366.7078",
+      "actureValue": "30534.63",
+      "error": "6%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "高压熔断器,AC10kV,跌落式,100A",
+      "predict": "34210.311",
+      "adjustment": "34210.311",
+      "actureValue": "30820.1",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "环网箱,AC10kV,2,2",
+      "predict": "236631.2",
+      "adjustment": "236631.2",
+      "actureValue": "193960",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "环网箱,AC10kV,2,4",
+      "predict": "3283230.563",
+      "adjustment": "3283230.563",
+      "actureValue": "2626584.45",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,150",
+      "predict": "142918.2096",
+      "adjustment": "142918.2096",
+      "actureValue": "155345.88",
+      "error": "-8%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,240",
+      "predict": "6481.167",
+      "adjustment": "6481.167",
+      "actureValue": "5891.97",
+      "error": "10%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,70",
+      "predict": "54637.9774",
+      "adjustment": "54637.9774",
+      "actureValue": "40774.61",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,150",
+      "predict": "234469.2608",
+      "adjustment": "234469.2608",
+      "actureValue": "183179.11",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,240",
+      "predict": "518160.9452",
+      "adjustment": "518160.9452",
+      "actureValue": "446690.47",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "400988.783",
+      "adjustment": "400988.783",
+      "actureValue": "308452.91",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "架空绝缘导线,AC10kV,JKTRJY,35",
+      "predict": "5712.9156",
+      "adjustment": "5712.9156",
+      "actureValue": "6142.92",
+      "error": "-7%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "85849.7565",
+      "adjustment": "85849.7565",
+      "actureValue": "69796.55",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "377159.0375",
+      "adjustment": "377159.0375",
+      "actureValue": "301727.23",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "21782.7828",
+      "adjustment": "21782.7828",
+      "actureValue": "17854.74",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "铁塔,AC10kV,无,角钢,Q345,无",
+      "predict": "365551.2935",
+      "adjustment": "365551.2935",
+      "actureValue": "317870.69",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "线路柱式瓷绝缘子,R12.5ET125N,160,305,400",
+      "predict": "49129.7655",
+      "adjustment": "49129.7655",
+      "actureValue": "44261.05",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "144450.2",
+      "adjustment": "144450.2",
+      "actureValue": "115560.16",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "柱上断路器,AC10kV,630A,20kA,真空,有隔离闸刀,户外",
+      "predict": "2249485.459",
+      "adjustment": "2249485.459",
+      "actureValue": "1730373.43",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,12m,190mm,M",
+      "predict": "2188956.404",
+      "adjustment": "2188956.404",
+      "actureValue": "1723587.72",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,190mm,M",
+      "predict": "925496.3439",
+      "adjustment": "925496.3439",
+      "actureValue": "833780.49",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,230mm,N",
+      "predict": "66974.688",
+      "adjustment": "66974.688",
+      "actureValue": "50738.4",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,190mm,M",
+      "predict": "300720.9945",
+      "adjustment": "300720.9945",
+      "actureValue": "233117.05",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,230mm,N",
+      "predict": "29173.9805",
+      "adjustment": "29173.9805",
+      "actureValue": "24515.95",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "锥形水泥杆,非预应力,整根杆,10m,190mm,I",
+      "predict": "1028939.167",
+      "adjustment": "1028939.167",
+      "actureValue": "767865.05",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "2179326.366",
+      "adjustment": "2179326.366",
+      "actureValue": "1626362.96",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,230mm,N",
+      "predict": "124293.96",
+      "adjustment": "124293.96",
+      "actureValue": "115087",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,190mm,M",
+      "predict": "2325080.602",
+      "adjustment": "2325080.602",
+      "actureValue": "1970407.29",
+      "error": "18%"
+    },
+    {
+      "year": "2018",
+      "month": "8",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,230mm,N",
+      "predict": "174949.868",
+      "adjustment": "174949.868",
+      "actureValue": "148262.6",
+      "error": "18%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV变压器,200kVA,普通,非晶合金,油浸",
+      "predict": "486072.2856",
+      "adjustment": "486072.2856",
+      "actureValue": "437902.96",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV变压器,200kVA,普通,硅钢片,油浸",
+      "predict": "204302.0655",
+      "adjustment": "204302.0655",
+      "actureValue": "174617.15",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV变压器,400kVA,普通,非晶合金,油浸",
+      "predict": "3869743.436",
+      "adjustment": "3869743.436",
+      "actureValue": "3279443.59",
+      "error": "18%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "6659183.564",
+      "adjustment": "6659183.564",
+      "actureValue": "6053803.24",
+      "error": "10%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV变压器,630kVA,普通,硅钢片,油浸",
+      "predict": "357480.3904",
+      "adjustment": "357480.3904",
+      "actureValue": "319178.92",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV电缆中间接头,3×150,直通接头,冷缩,铜",
+      "predict": "1123.2",
+      "adjustment": "1123.2",
+      "actureValue": "832",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV电缆中间接头,3×300,直通接头,冷缩,铜",
+      "predict": "22038.84",
+      "adjustment": "22038.84",
+      "actureValue": "18999",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV电缆中间接头,3×70,直通接头,冷缩,铜",
+      "predict": "810.486",
+      "adjustment": "810.486",
+      "actureValue": "750.45",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV电缆终端,3×150,户内终端,冷缩,铜",
+      "predict": "1117.08",
+      "adjustment": "1117.08",
+      "actureValue": "963",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV电缆终端,3×150,户外终端,冷缩,铜",
+      "predict": "2064.7914",
+      "adjustment": "2064.7914",
+      "actureValue": "1625.82",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV电缆终端,3×300,户内终端,冷缩,铜",
+      "predict": "10028.0133",
+      "adjustment": "10028.0133",
+      "actureValue": "10782.81",
+      "error": "-7%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV电缆终端,3×300,户外终端,冷缩,铜",
+      "predict": "13838.986",
+      "adjustment": "13838.986",
+      "actureValue": "11629.4",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV电缆终端,3×400,户内终端,冷缩,铜",
+      "predict": "2131.7895",
+      "adjustment": "2131.7895",
+      "actureValue": "1853.73",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV电缆终端,3×400,户外终端,冷缩,铜",
+      "predict": "4833.452",
+      "adjustment": "4833.452",
+      "actureValue": "3718.04",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV电缆终端,3×70,户内终端,冷缩,铜",
+      "predict": "4137.714",
+      "adjustment": "4137.714",
+      "actureValue": "3283.9",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV电缆终端,3×70,户外终端,冷缩,铜",
+      "predict": "10098.0516",
+      "adjustment": "10098.0516",
+      "actureValue": "8143.59",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "10kV箱式变电站,630kVA,欧式,硅钢片,普通,有环网柜",
+      "predict": "3286995.69",
+      "adjustment": "3286995.69",
+      "actureValue": "2934817.58",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "电缆保护管,CPVC,φ100",
+      "predict": "136908.3904",
+      "adjustment": "136908.3904",
+      "actureValue": "106959.68",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "电缆保护管,CPVC,φ175",
+      "predict": "587594.5092",
+      "adjustment": "587594.5092",
+      "actureValue": "515433.78",
+      "error": "14%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "电缆保护管,MPP,φ100",
+      "predict": "609906.2678",
+      "adjustment": "609906.2678",
+      "actureValue": "539740.06",
+      "error": "13%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "电缆保护管,MPP,φ175",
+      "predict": "4328438.063",
+      "adjustment": "4328438.063",
+      "actureValue": "3637342.91",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "电力电缆,AC10kV,YJV,150,3,22,ZC,无阻水",
+      "predict": "203433.9479",
+      "adjustment": "203433.9479",
+      "actureValue": "155293.09",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "电力电缆,AC10kV,YJV,300,3,22,ZC,无阻水",
+      "predict": "39337375.17",
+      "adjustment": "39337375.17",
+      "actureValue": "33911530.32",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "电力电缆,AC10kV,YJV,400,3,22,ZC,无阻水",
+      "predict": "4675072.363",
+      "adjustment": "4675072.363",
+      "actureValue": "3596209.51",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "电力电缆,AC10kV,YJV,70,3,22,ZC,无阻水",
+      "predict": "832801.1976",
+      "adjustment": "832801.1976",
+      "actureValue": "771112.22",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "钢管杆（桩）,AC10kV,无,无,Q345,杆,无",
+      "predict": "2711296.804",
+      "adjustment": "2711296.804",
+      "actureValue": "2240741.16",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "钢绞线,1×19-11.5-1270-B,80,镀锌",
+      "predict": "12228.4544",
+      "adjustment": "12228.4544",
+      "actureValue": "9553.48",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "钢绞线,1×7-7.8-1270-B,35,镀锌",
+      "predict": "7197.2948",
+      "adjustment": "7197.2948",
+      "actureValue": "5804.27",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "69475.4424",
+      "adjustment": "69475.4424",
+      "actureValue": "64930.32",
+      "error": "7%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "钢芯铝绞线,JL/G1A,150/20",
+      "predict": "73271.292",
+      "adjustment": "73271.292",
+      "actureValue": "61059.41",
+      "error": "20%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "钢芯铝绞线,JL/G1A,240/30",
+      "predict": "96779.2206",
+      "adjustment": "96779.2206",
+      "actureValue": "79327.23",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "钢芯铝绞线,JL/G1A,70/10",
+      "predict": "45268.0284",
+      "adjustment": "45268.0284",
+      "actureValue": "38040.36",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "高压熔断器,AC10kV,跌落式,100A",
+      "predict": "113287.8816",
+      "adjustment": "113287.8816",
+      "actureValue": "106875.36",
+      "error": "6%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "环网柜,AC10kV,630A,电压互感器柜,SF6,户内",
+      "predict": "379068.7788",
+      "adjustment": "379068.7788",
+      "actureValue": "289365.48",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "环网柜,AC10kV,630A,断路器柜,SF6,户内",
+      "predict": "3131226.446",
+      "adjustment": "3131226.446",
+      "actureValue": "2676261.92",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "环网柜,AC10kV,630A,负荷开关柜,SF6,户内",
+      "predict": "601613.8256",
+      "adjustment": "601613.8256",
+      "actureValue": "485172.44",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "环网箱,AC10kV,2,2",
+      "predict": "126583.44",
+      "adjustment": "126583.44",
+      "actureValue": "99672",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "环网箱,AC10kV,2,4",
+      "predict": "8720964.759",
+      "adjustment": "8720964.759",
+      "actureValue": "7148331.77",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,150",
+      "predict": "1705.1607",
+      "adjustment": "1705.1607",
+      "actureValue": "1321.83",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,70",
+      "predict": "11260.964",
+      "adjustment": "11260.964",
+      "actureValue": "10237.24",
+      "error": "10%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,150",
+      "predict": "861376.5136",
+      "adjustment": "861376.5136",
+      "actureValue": "742565.96",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,240",
+      "predict": "1268516.145",
+      "adjustment": "1268516.145",
+      "actureValue": "975781.65",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "722134.84",
+      "adjustment": "722134.84",
+      "actureValue": "644763.25",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "架空绝缘导线,AC10kV,JKTRJY,35",
+      "predict": "7157.0772",
+      "adjustment": "7157.0772",
+      "actureValue": "6117.16",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "115735.666",
+      "adjustment": "115735.666",
+      "actureValue": "94865.3",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "730555.6356",
+      "adjustment": "730555.6356",
+      "actureValue": "579806.06",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "72382.932",
+      "adjustment": "72382.932",
+      "actureValue": "60319.11",
+      "error": "20%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "铁塔,AC10kV,无,角钢,Q345,无",
+      "predict": "1844098.772",
+      "adjustment": "1844098.772",
+      "actureValue": "1386540.43",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "线路柱式瓷绝缘子,R12.5ET125N,160,305,400",
+      "predict": "26706.9111",
+      "adjustment": "26706.9111",
+      "actureValue": "24959.73",
+      "error": "7%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "110133.844",
+      "adjustment": "110133.844",
+      "actureValue": "95768.56",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "柱上断路器,AC10kV,630A,20kA,真空,有隔离闸刀,户外",
+      "predict": "1289259.938",
+      "adjustment": "1289259.938",
+      "actureValue": "1031407.95",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,12m,190mm,M",
+      "predict": "3102212.75",
+      "adjustment": "3102212.75",
+      "actureValue": "2563812.19",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,190mm,M",
+      "predict": "1678623.509",
+      "adjustment": "1678623.509",
+      "actureValue": "1785769.69",
+      "error": "-6%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,230mm,N",
+      "predict": "97267.9312",
+      "adjustment": "97267.9312",
+      "actureValue": "78441.88",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,190mm,M",
+      "predict": "359633.2194",
+      "adjustment": "359633.2194",
+      "actureValue": "307378.82",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,230mm,N",
+      "predict": "212388.3532",
+      "adjustment": "212388.3532",
+      "actureValue": "171280.93",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "锥形水泥杆,非预应力,整根杆,10m,190mm,I",
+      "predict": "1028864.85",
+      "adjustment": "1028864.85",
+      "actureValue": "823091.88",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "3745032.863",
+      "adjustment": "3745032.863",
+      "actureValue": "2996026.29",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,230mm,N",
+      "predict": "2336.7836",
+      "adjustment": "2336.7836",
+      "actureValue": "2485.94",
+      "error": "-6%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,190mm,M",
+      "predict": "3726923.863",
+      "adjustment": "3726923.863",
+      "actureValue": "2866864.51",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "9",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,230mm,N",
+      "predict": "14310.564",
+      "adjustment": "14310.564",
+      "actureValue": "12892.4",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "10kV变压器,200kVA,普通,非晶合金,油浸",
+      "predict": "199475.1792",
+      "adjustment": "199475.1792",
+      "actureValue": "151117.56",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "10kV变压器,400kVA,普通,非晶合金,油浸",
+      "predict": "851097.0479",
+      "adjustment": "851097.0479",
+      "actureValue": "703385.99",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "2221331.171",
+      "adjustment": "2221331.171",
+      "actureValue": "2076010.44",
+      "error": "7%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "10kV电缆终端,3×300,户内终端,冷缩,铜",
+      "predict": "9184.6173",
+      "adjustment": "9184.6173",
+      "actureValue": "8274.43",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "10kV电缆终端,3×300,户外终端,冷缩,铜",
+      "predict": "3661.975",
+      "adjustment": "3661.975",
+      "actureValue": "2929.58",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "10kV电缆终端,3×70,户内终端,冷缩,铜",
+      "predict": "1240.5176",
+      "adjustment": "1240.5176",
+      "actureValue": "946.96",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "10kV电缆终端,3×70,户外终端,冷缩,铜",
+      "predict": "2573.2032",
+      "adjustment": "2573.2032",
+      "actureValue": "2796.96",
+      "error": "-8%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "电缆保护管,CPVC,φ100",
+      "predict": "51038.6396",
+      "adjustment": "51038.6396",
+      "actureValue": "46824.44",
+      "error": "9%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "电缆保护管,CPVC,φ175",
+      "predict": "154237.567",
+      "adjustment": "154237.567",
+      "actureValue": "140215.97",
+      "error": "10%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "电缆保护管,MPP,φ100",
+      "predict": "68608.6989",
+      "adjustment": "68608.6989",
+      "actureValue": "55779.43",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "电缆保护管,MPP,φ175",
+      "predict": "1025819.677",
+      "adjustment": "1025819.677",
+      "actureValue": "892017.11",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "电力电缆,AC10kV,YJV,150,3,22,ZC,无阻水",
+      "predict": "512308.5786",
+      "adjustment": "512308.5786",
+      "actureValue": "437870.58",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "电力电缆,AC10kV,YJV,300,3,22,ZC,无阻水",
+      "predict": "17740076.94",
+      "adjustment": "17740076.94",
+      "actureValue": "14079426.14",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "电力电缆,AC10kV,YJV,400,3,22,ZC,无阻水",
+      "predict": "15674675.63",
+      "adjustment": "15674675.63",
+      "actureValue": "11785470.4",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "电力电缆,AC10kV,YJV,70,3,22,ZC,无阻水",
+      "predict": "427424.311",
+      "adjustment": "427424.311",
+      "actureValue": "326278.1",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "钢管杆（桩）,AC10kV,无,无,Q345,杆,无",
+      "predict": "955992.6114",
+      "adjustment": "955992.6114",
+      "actureValue": "838590.01",
+      "error": "14%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "钢绞线,1×19-11.5-1270-B,80,镀锌",
+      "predict": "2024.941",
+      "adjustment": "2024.941",
+      "actureValue": "1511.15",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "钢绞线,1×7-7.8-1270-B,35,镀锌",
+      "predict": "805.5424",
+      "adjustment": "805.5424",
+      "actureValue": "629.33",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "75246.9113",
+      "adjustment": "75246.9113",
+      "actureValue": "62187.53",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "钢芯铝绞线,JL/G1A,150/20",
+      "predict": "93559.1272",
+      "adjustment": "93559.1272",
+      "actureValue": "80654.42",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "钢芯铝绞线,JL/G1A,70/10",
+      "predict": "20607.47",
+      "adjustment": "20607.47",
+      "actureValue": "15851.9",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "高压熔断器,AC10kV,跌落式,100A",
+      "predict": "20861.4042",
+      "adjustment": "20861.4042",
+      "actureValue": "16556.67",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "环网柜,AC10kV,630A,电压互感器柜,SF6,户内",
+      "predict": "92016",
+      "adjustment": "92016",
+      "actureValue": "85200",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "环网柜,AC10kV,630A,断路器柜,SF6,户内",
+      "predict": "280473.9564",
+      "adjustment": "280473.9564",
+      "actureValue": "252679.24",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "环网柜,AC10kV,630A,负荷开关柜,SF6,户内",
+      "predict": "70740",
+      "adjustment": "70740",
+      "actureValue": "78600",
+      "error": "-10%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "环网箱,AC10kV,2,4",
+      "predict": "191232.8832",
+      "adjustment": "191232.8832",
+      "actureValue": "149400.69",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,150",
+      "predict": "18595.5846",
+      "adjustment": "18595.5846",
+      "actureValue": "15758.97",
+      "error": "18%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,70",
+      "predict": "29484.216",
+      "adjustment": "29484.216",
+      "actureValue": "24570.18",
+      "error": "20%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,150",
+      "predict": "509507.3783",
+      "adjustment": "509507.3783",
+      "actureValue": "388936.93",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,240",
+      "predict": "1017950.99",
+      "adjustment": "1017950.99",
+      "actureValue": "855421",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "284391.2232",
+      "adjustment": "284391.2232",
+      "actureValue": "233107.56",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "架空绝缘导线,AC10kV,JKTRJY,35",
+      "predict": "26767.1538",
+      "adjustment": "26767.1538",
+      "actureValue": "21940.29",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "59707.3503",
+      "adjustment": "59707.3503",
+      "actureValue": "45578.13",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "110451.0051",
+      "adjustment": "110451.0051",
+      "actureValue": "99505.41",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "58485.2352",
+      "adjustment": "58485.2352",
+      "actureValue": "45691.59",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "铁塔,AC10kV,无,角钢,Q345,无",
+      "predict": "336806.558",
+      "adjustment": "336806.558",
+      "actureValue": "306187.78",
+      "error": "10%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "线路柱式瓷绝缘子,R12.5ET125N,160,305,400",
+      "predict": "44068.492",
+      "adjustment": "44068.492",
+      "actureValue": "34699.6",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "74877.4992",
+      "adjustment": "74877.4992",
+      "actureValue": "60385.08",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "柱上断路器,AC10kV,630A,20kA,真空,有隔离闸刀,户外",
+      "predict": "605107.6282",
+      "adjustment": "605107.6282",
+      "actureValue": "461914.22",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,12m,190mm,M",
+      "predict": "1175978.773",
+      "adjustment": "1175978.773",
+      "actureValue": "897693.72",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,190mm,M",
+      "predict": "1100822.549",
+      "adjustment": "1100822.549",
+      "actureValue": "815424.11",
+      "error": "35%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,190mm,M",
+      "predict": "241484.0794",
+      "adjustment": "241484.0794",
+      "actureValue": "197937.77",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,230mm,N",
+      "predict": "100706.9112",
+      "adjustment": "100706.9112",
+      "actureValue": "85344.84",
+      "error": "18%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "锥形水泥杆,非预应力,整根杆,10m,190mm,I",
+      "predict": "1033774.686",
+      "adjustment": "1033774.686",
+      "actureValue": "820456.1",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "2074048.379",
+      "adjustment": "2074048.379",
+      "actureValue": "1595421.83",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,190mm,M",
+      "predict": "1541822.532",
+      "adjustment": "1541822.532",
+      "actureValue": "1150613.83",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "10kV变压器,200kVA,普通,非晶合金,油浸",
+      "predict": "271445.7296",
+      "adjustment": "271445.7296",
+      "actureValue": "202571.44",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "10kV变压器,400kVA,普通,非晶合金,油浸",
+      "predict": "272862.9186",
+      "adjustment": "272862.9186",
+      "actureValue": "223658.13",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "2511058.977",
+      "adjustment": "2511058.977",
+      "actureValue": "1992903.95",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "10kV电缆中间接头,3×300,直通接头,冷缩,铜",
+      "predict": "17025.198",
+      "adjustment": "17025.198",
+      "actureValue": "15911.4",
+      "error": "7%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "10kV电缆中间接头,3×70,直通接头,冷缩,铜",
+      "predict": "1929.4272",
+      "adjustment": "1929.4272",
+      "actureValue": "1568.64",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "10kV电缆终端,3×150,户外终端,冷缩,铜",
+      "predict": "1740.8292",
+      "adjustment": "1740.8292",
+      "actureValue": "1318.81",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "10kV电缆终端,3×300,户内终端,冷缩,铜",
+      "predict": "8487.794",
+      "adjustment": "8487.794",
+      "actureValue": "6381.8",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "10kV电缆终端,3×300,户外终端,冷缩,铜",
+      "predict": "5915.701",
+      "adjustment": "5915.701",
+      "actureValue": "5377.91",
+      "error": "10%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "10kV电缆终端,3×400,户外终端,冷缩,铜",
+      "predict": "545.0438",
+      "adjustment": "545.0438",
+      "actureValue": "458.02",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "10kV电缆终端,3×70,户内终端,冷缩,铜",
+      "predict": "3216.925",
+      "adjustment": "3216.925",
+      "actureValue": "2573.54",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "10kV电缆终端,3×70,户外终端,冷缩,铜",
+      "predict": "6597.4572",
+      "adjustment": "6597.4572",
+      "actureValue": "5320.53",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "10kV箱式变电站,630kVA,欧式,硅钢片,普通,有环网柜",
+      "predict": "648913.425",
+      "adjustment": "648913.425",
+      "actureValue": "484263.75",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "电缆保护管,CPVC,φ100",
+      "predict": "21171.129",
+      "adjustment": "21171.129",
+      "actureValue": "17212.3",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "电缆保护管,CPVC,φ175",
+      "predict": "180343.3368",
+      "adjustment": "180343.3368",
+      "actureValue": "149044.08",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "电缆保护管,MPP,φ100",
+      "predict": "24716.4318",
+      "adjustment": "24716.4318",
+      "actureValue": "20094.66",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "电缆保护管,MPP,φ175",
+      "predict": "1379608.252",
+      "adjustment": "1379608.252",
+      "actureValue": "1086305.71",
+      "error": "27%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "电力电缆,AC10kV,YJV,150,3,22,ZC,无阻水",
+      "predict": "374580.48",
+      "adjustment": "374580.48",
+      "actureValue": "292641",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "电力电缆,AC10kV,YJV,300,3,22,ZC,无阻水",
+      "predict": "31238796.16",
+      "adjustment": "31238796.16",
+      "actureValue": "23846409.28",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "电力电缆,AC10kV,YJV,400,3,22,ZC,无阻水",
+      "predict": "8674706.738",
+      "adjustment": "8674706.738",
+      "actureValue": "6939765.39",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "电力电缆,AC10kV,YJV,70,3,22,ZC,无阻水",
+      "predict": "1497368.603",
+      "adjustment": "1497368.603",
+      "actureValue": "1386452.41",
+      "error": "8%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "钢管杆（桩）,AC10kV,无,无,Q345,杆,无",
+      "predict": "3037644.747",
+      "adjustment": "3037644.747",
+      "actureValue": "2712182.81",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "钢绞线,1×19-11.5-1270-B,80,镀锌",
+      "predict": "26061.05",
+      "adjustment": "26061.05",
+      "actureValue": "20848.84",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "钢绞线,1×7-7.8-1270-B,35,镀锌",
+      "predict": "1054.2312",
+      "adjustment": "1054.2312",
+      "actureValue": "908.82",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "99120.065",
+      "adjustment": "99120.065",
+      "actureValue": "90109.15",
+      "error": "10%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "钢芯铝绞线,JL/G1A,150/20",
+      "predict": "35718.138",
+      "adjustment": "35718.138",
+      "actureValue": "39686.82",
+      "error": "-10%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "钢芯铝绞线,JL/G1A,240/30",
+      "predict": "187908.192",
+      "adjustment": "187908.192",
+      "actureValue": "156590.16",
+      "error": "20%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "钢芯铝绞线,JL/G1A,70/10",
+      "predict": "45670.736",
+      "adjustment": "45670.736",
+      "actureValue": "43085.6",
+      "error": "6%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "高压熔断器,AC10kV,跌落式,100A",
+      "predict": "64390.6704",
+      "adjustment": "64390.6704",
+      "actureValue": "51927.96",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "环网柜,AC10kV,125A,负荷开关熔断器组合柜,空气,户内",
+      "predict": "41697",
+      "adjustment": "41697",
+      "actureValue": "33900",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "环网柜,AC10kV,630A,负荷开关柜,空气,户内",
+      "predict": "39900",
+      "adjustment": "39900",
+      "actureValue": "30000",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "环网箱,AC10kV,2,4",
+      "predict": "754972.8203",
+      "adjustment": "754972.8203",
+      "actureValue": "576315.13",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,150",
+      "predict": "80202.6008",
+      "adjustment": "80202.6008",
+      "actureValue": "87176.74",
+      "error": "-8%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,240",
+      "predict": "129258.3186",
+      "adjustment": "129258.3186",
+      "actureValue": "113384.49",
+      "error": "14%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,70",
+      "predict": "59124.887",
+      "adjustment": "59124.887",
+      "actureValue": "44123.05",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,150",
+      "predict": "1205384.104",
+      "adjustment": "1205384.104",
+      "actureValue": "1048160.09",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,240",
+      "predict": "1800608.484",
+      "adjustment": "1800608.484",
+      "actureValue": "1538981.61",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "834705.5794",
+      "adjustment": "834705.5794",
+      "actureValue": "701433.26",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "架空绝缘导线,AC10kV,JKTRJY,35",
+      "predict": "2247.882",
+      "adjustment": "2247.882",
+      "actureValue": "1954.68",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "57950.4744",
+      "adjustment": "57950.4744",
+      "actureValue": "63681.84",
+      "error": "-9%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "468102.4515",
+      "adjustment": "468102.4515",
+      "actureValue": "407045.61",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "91546.0956",
+      "adjustment": "91546.0956",
+      "actureValue": "74427.72",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "铁塔,AC10kV,无,角钢,Q345,无",
+      "predict": "1958602.241",
+      "adjustment": "1958602.241",
+      "actureValue": "1796882.79",
+      "error": "9%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "线路柱式瓷绝缘子,R12.5ET125N,160,305,400",
+      "predict": "73925.2633",
+      "adjustment": "73925.2633",
+      "actureValue": "62122.07",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "95775.66",
+      "adjustment": "95775.66",
+      "actureValue": "79813.05",
+      "error": "20%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "柱上断路器,AC10kV,630A,20kA,真空,有隔离闸刀,户外",
+      "predict": "804892.6848",
+      "adjustment": "804892.6848",
+      "actureValue": "628822.41",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,12m,190mm,M",
+      "predict": "476177.1966",
+      "adjustment": "476177.1966",
+      "actureValue": "377918.41",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,190mm,M",
+      "predict": "905298.3184",
+      "adjustment": "905298.3184",
+      "actureValue": "808302.07",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,230mm,N",
+      "predict": "5449.6464",
+      "adjustment": "5449.6464",
+      "actureValue": "4128.52",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,190mm,M",
+      "predict": "140424.4558",
+      "adjustment": "140424.4558",
+      "actureValue": "104794.37",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,230mm,N",
+      "predict": "4731.257",
+      "adjustment": "4731.257",
+      "actureValue": "4463.45",
+      "error": "6%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "锥形水泥杆,非预应力,整根杆,10m,190mm,I",
+      "predict": "349693.329",
+      "adjustment": "349693.329",
+      "actureValue": "271080.1",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "736781.227",
+      "adjustment": "736781.227",
+      "actureValue": "566754.79",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,230mm,N",
+      "predict": "62117.748",
+      "adjustment": "62117.748",
+      "actureValue": "49299.8",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,190mm,M",
+      "predict": "643348.143",
+      "adjustment": "643348.143",
+      "actureValue": "714831.27",
+      "error": "-10%"
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,230mm,N",
+      "predict": "62811.936",
+      "adjustment": "62811.936",
+      "actureValue": "69791.04",
+      "error": "-10%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "10kV变压器,200kVA,普通,非晶合金,油浸",
+      "predict": "114184.972",
+      "adjustment": "114184.972",
+      "actureValue": "99291.28",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "915676.4512",
+      "adjustment": "915676.4512",
+      "actureValue": "817568.26",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "10kV变压器,630kVA,普通,硅钢片,油浸",
+      "predict": "188374.5",
+      "adjustment": "188374.5",
+      "actureValue": "153150",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "10kV电缆中间接头,3×300,直通接头,冷缩,铜",
+      "predict": "11643.5536",
+      "adjustment": "11643.5536",
+      "actureValue": "10396.03",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "10kV电缆终端,3×150,户外终端,冷缩,铜",
+      "predict": "722.3268",
+      "adjustment": "722.3268",
+      "actureValue": "633.62",
+      "error": "14%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "10kV电缆终端,3×300,户内终端,冷缩,铜",
+      "predict": "9984.392",
+      "adjustment": "9984.392",
+      "actureValue": "8682.08",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "10kV电缆终端,3×300,户外终端,冷缩,铜",
+      "predict": "3762.2585",
+      "adjustment": "3762.2585",
+      "actureValue": "4134.35",
+      "error": "-9%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "10kV电缆终端,3×400,户内终端,冷缩,铜",
+      "predict": "16504.3242",
+      "adjustment": "16504.3242",
+      "actureValue": "13869.18",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "10kV电缆终端,3×400,户外终端,冷缩,铜",
+      "predict": "3850.896",
+      "adjustment": "3850.896",
+      "actureValue": "3209.08",
+      "error": "20%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "10kV电缆终端,3×70,户内终端,冷缩,铜",
+      "predict": "2469.753",
+      "adjustment": "2469.753",
+      "actureValue": "1899.81",
+      "error": "30%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "10kV电缆终端,3×70,户外终端,冷缩,铜",
+      "predict": "2207.925",
+      "adjustment": "2207.925",
+      "actureValue": "1766.34",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "10kV箱式变电站,630kVA,欧式,硅钢片,普通,有环网柜",
+      "predict": "985539.918",
+      "adjustment": "985539.918",
+      "actureValue": "814495.8",
+      "error": "21%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "电缆保护管,CPVC,φ100",
+      "predict": "262125.7664",
+      "adjustment": "262125.7664",
+      "actureValue": "222140.48",
+      "error": "18%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "电缆保护管,CPVC,φ175",
+      "predict": "1526004.805",
+      "adjustment": "1526004.805",
+      "actureValue": "1362504.29",
+      "error": "12%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "电缆保护管,MPP,φ100",
+      "predict": "660120.3048",
+      "adjustment": "660120.3048",
+      "actureValue": "500091.14",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "电缆保护管,MPP,φ175",
+      "predict": "3039410.643",
+      "adjustment": "3039410.643",
+      "actureValue": "2285271.16",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "电力电缆,AC10kV,YJV,300,3,22,ZC,无阻水",
+      "predict": "9591021.396",
+      "adjustment": "9591021.396",
+      "actureValue": "7265925.3",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "电力电缆,AC10kV,YJV,400,3,22,ZC,无阻水",
+      "predict": "944800.9977",
+      "adjustment": "944800.9977",
+      "actureValue": "851172.07",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "电力电缆,AC10kV,YJV,70,3,22,ZC,无阻水",
+      "predict": "502679.7932",
+      "adjustment": "502679.7932",
+      "actureValue": "405386.93",
+      "error": "24%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "钢管杆（桩）,AC10kV,无,无,Q345,杆,无",
+      "predict": "636236.2509",
+      "adjustment": "636236.2509",
+      "actureValue": "563040.93",
+      "error": "13%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "钢绞线,1×19-11.5-1270-B,80,镀锌",
+      "predict": "6237.3675",
+      "adjustment": "6237.3675",
+      "actureValue": "4689.75",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "钢绞线,1×7-7.8-1270-B,35,镀锌",
+      "predict": "22901.76",
+      "adjustment": "22901.76",
+      "actureValue": "17892",
+      "error": "28%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "38667.1308",
+      "adjustment": "38667.1308",
+      "actureValue": "41577.56",
+      "error": "-7%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "钢芯铝绞线,JL/G1A,150/20",
+      "predict": "38438.8388",
+      "adjustment": "38438.8388",
+      "actureValue": "33136.93",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "钢芯铝绞线,JL/G1A,70/10",
+      "predict": "27511.7598",
+      "adjustment": "27511.7598",
+      "actureValue": "21834.73",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "高压熔断器,AC10kV,跌落式,100A",
+      "predict": "74470.4013",
+      "adjustment": "74470.4013",
+      "actureValue": "65903.01",
+      "error": "13%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "环网柜,AC10kV,125A,负荷开关熔断器组合柜,空气,户内",
+      "predict": "109327.5",
+      "adjustment": "109327.5",
+      "actureValue": "84750",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "环网柜,AC10kV,630A,负荷开关柜,空气,户内",
+      "predict": "86250",
+      "adjustment": "86250",
+      "actureValue": "75000",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "环网箱,AC10kV,2,4",
+      "predict": "184394.5614",
+      "adjustment": "184394.5614",
+      "actureValue": "146344.89",
+      "error": "26%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,150",
+      "predict": "40621.6712",
+      "adjustment": "40621.6712",
+      "actureValue": "30314.68",
+      "error": "34%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,70",
+      "predict": "21022.2262",
+      "adjustment": "21022.2262",
+      "actureValue": "18603.74",
+      "error": "13%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,150",
+      "predict": "306369.8",
+      "adjustment": "306369.8",
+      "actureValue": "245095.84",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,240",
+      "predict": "602092.0719",
+      "adjustment": "602092.0719",
+      "actureValue": "542425.29",
+      "error": "11%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "281961.2517",
+      "adjustment": "281961.2517",
+      "actureValue": "229236.79",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "架空绝缘导线,AC10kV,JKTRJY,35",
+      "predict": "5479.8939",
+      "adjustment": "5479.8939",
+      "actureValue": "4683.67",
+      "error": "17%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "95757.471",
+      "adjustment": "95757.471",
+      "actureValue": "101869.65",
+      "error": "-6%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "383273.5042",
+      "adjustment": "383273.5042",
+      "actureValue": "314158.61",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "60873.6165",
+      "adjustment": "60873.6165",
+      "actureValue": "47188.85",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "拉线金具-锲型线夹,NX-2",
+      "predict": "28.56",
+      "adjustment": "28.56",
+      "actureValue": "24",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "联结金具-延长环,PH-7",
+      "predict": "173.7",
+      "adjustment": "173.7",
+      "actureValue": "138.96",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "铁塔,AC10kV,无,角钢,Q345,无",
+      "predict": "30590.3209",
+      "adjustment": "30590.3209",
+      "actureValue": "23351.39",
+      "error": "31%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "线路柱式瓷绝缘子,R12.5ET125N,160,305,400",
+      "predict": "18129.769",
+      "adjustment": "18129.769",
+      "actureValue": "15235.1",
+      "error": "19%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "123740.6676",
+      "adjustment": "123740.6676",
+      "actureValue": "93742.93",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "柱上断路器,AC10kV,630A,20kA,真空,有隔离闸刀,户外",
+      "predict": "1023530.295",
+      "adjustment": "1023530.295",
+      "actureValue": "769571.65",
+      "error": "33%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,12m,190mm,M",
+      "predict": "273379.2864",
+      "adjustment": "273379.2864",
+      "actureValue": "207105.52",
+      "error": "32%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,190mm,M",
+      "predict": "1122235.282",
+      "adjustment": "1122235.282",
+      "actureValue": "1058712.53",
+      "error": "6%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,230mm,N",
+      "predict": "43842.432",
+      "adjustment": "43842.432",
+      "actureValue": "37795.2",
+      "error": "16%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,190mm,M",
+      "predict": "94001.391",
+      "adjustment": "94001.391",
+      "actureValue": "81740.34",
+      "error": "15%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "锥形水泥杆,非预应力,整根杆,10m,190mm,I",
+      "predict": "423156.9843",
+      "adjustment": "423156.9843",
+      "actureValue": "328028.67",
+      "error": "29%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "786567.5875",
+      "adjustment": "786567.5875",
+      "actureValue": "629254.07",
+      "error": "25%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,230mm,N",
+      "predict": "2928.6669",
+      "adjustment": "2928.6669",
+      "actureValue": "2381.03",
+      "error": "23%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,190mm,M",
+      "predict": "1583167.172",
+      "adjustment": "1583167.172",
+      "actureValue": "1297678.01",
+      "error": "22%"
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,230mm,N",
+      "predict": "3349.758",
+      "adjustment": "3349.758",
+      "actureValue": "3017.8",
+      "error": "11%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "477219",
+      "adjustment": "477219",
+      "actureValue": "397682.5",
+      "error": "20%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "电缆保护管,CPVC,φ100",
+      "predict": "2504.1676",
+      "adjustment": "2504.1676",
+      "actureValue": "2019.49",
+      "error": "24%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "电缆保护管,CPVC,φ175",
+      "predict": "61382.5719",
+      "adjustment": "61382.5719",
+      "actureValue": "49904.53",
+      "error": "23%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "电缆保护管,MPP,φ100",
+      "predict": "2865.8721",
+      "adjustment": "2865.8721",
+      "actureValue": "2536.17",
+      "error": "13%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "电力电缆,AC10kV,YJV,300,3,22,ZC,无阻水",
+      "predict": "1826177.496",
+      "adjustment": "1826177.496",
+      "actureValue": "1415641.47",
+      "error": "29%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "电力电缆,AC10kV,YJV,400,3,22,ZC,无阻水",
+      "predict": "836296.9653",
+      "adjustment": "836296.9653",
+      "actureValue": "740085.81",
+      "error": "13%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "电力电缆,AC10kV,YJV,70,3,22,ZC,无阻水",
+      "predict": "66468.0978",
+      "adjustment": "66468.0978",
+      "actureValue": "56810.34",
+      "error": "17%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "钢管杆（桩）,AC10kV,无,无,Q345,杆,无",
+      "predict": "390777.519",
+      "adjustment": "390777.519",
+      "actureValue": "317705.3",
+      "error": "23%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "298.5447",
+      "adjustment": "298.5447",
+      "actureValue": "231.43",
+      "error": "29%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "钢芯铝绞线,JL/G1A,240/30",
+      "predict": "422977.28",
+      "adjustment": "422977.28",
+      "actureValue": "349568",
+      "error": "21%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "高压熔断器,AC10kV,跌落式,100A",
+      "predict": "5802.7368",
+      "adjustment": "5802.7368",
+      "actureValue": "4362.96",
+      "error": "33%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,150",
+      "predict": "8565.913",
+      "adjustment": "8565.913",
+      "actureValue": "7448.62",
+      "error": "15%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,240",
+      "predict": "1539.681",
+      "adjustment": "1539.681",
+      "actureValue": "1387.1",
+      "error": "11%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "30419.1804",
+      "adjustment": "30419.1804",
+      "actureValue": "23580.76",
+      "error": "29%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "9206.2446",
+      "adjustment": "9206.2446",
+      "actureValue": "7736.34",
+      "error": "19%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "225242.5528",
+      "adjustment": "225242.5528",
+      "actureValue": "181647.22",
+      "error": "24%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "2253.762",
+      "adjustment": "2253.762",
+      "actureValue": "1788.7",
+      "error": "26%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "7496.3376",
+      "adjustment": "7496.3376",
+      "actureValue": "6462.36",
+      "error": "16%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "柱上断路器,AC10kV,630A,20kA,真空,有隔离闸刀,户外",
+      "predict": "48641.3529",
+      "adjustment": "48641.3529",
+      "actureValue": "52302.53",
+      "error": "-7%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,12m,190mm,M",
+      "predict": "19110.78",
+      "adjustment": "19110.78",
+      "actureValue": "14700.6",
+      "error": "30%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,190mm,M",
+      "predict": "58958.5824",
+      "adjustment": "58958.5824",
+      "actureValue": "53115.84",
+      "error": "11%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "锥形水泥杆,非预应力,整根杆,10m,190mm,I",
+      "predict": "3694.6248",
+      "adjustment": "3694.6248",
+      "actureValue": "3003.76",
+      "error": "23%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "26885.3167",
+      "adjustment": "26885.3167",
+      "actureValue": "22219.27",
+      "error": "21%"
+    },
+    {
+      "year": "2019",
+      "month": "1",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,190mm,M",
+      "predict": "30163.8939",
+      "adjustment": "30163.8939",
+      "actureValue": "25347.81",
+      "error": "19%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "621574.5195",
+      "adjustment": "621574.5195",
+      "actureValue": "513697.95",
+      "error": "21%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "10kV变压器,630kVA,普通,硅钢片,油浸",
+      "predict": "57475",
+      "adjustment": "57475",
+      "actureValue": "47500",
+      "error": "21%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "10kV电缆中间接头,3×300,直通接头,冷缩,铜",
+      "predict": "6804.696",
+      "adjustment": "6804.696",
+      "actureValue": "5670.58",
+      "error": "20%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "10kV电缆终端,3×300,户内终端,冷缩,铜",
+      "predict": "3799.0251",
+      "adjustment": "3799.0251",
+      "actureValue": "3247.03",
+      "error": "17%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "电缆保护管,MPP,φ100",
+      "predict": "55572.0704",
+      "adjustment": "55572.0704",
+      "actureValue": "49617.92",
+      "error": "12%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "电缆保护管,MPP,φ175",
+      "predict": "3614049.591",
+      "adjustment": "3614049.591",
+      "actureValue": "2801588.83",
+      "error": "29%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "电力电缆,AC10kV,YJV,300,3,22,ZC,无阻水",
+      "predict": "1181680.339",
+      "adjustment": "1181680.339",
+      "actureValue": "930456.96",
+      "error": "27%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "电力电缆,AC10kV,YJV,70,3,22,ZC,无阻水",
+      "predict": "478016.6982",
+      "adjustment": "478016.6982",
+      "actureValue": "370555.58",
+      "error": "29%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "钢管杆（桩）,AC10kV,无,无,Q345,杆,无",
+      "predict": "493509.4375",
+      "adjustment": "493509.4375",
+      "actureValue": "394807.55",
+      "error": "25%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "8174.4875",
+      "adjustment": "8174.4875",
+      "actureValue": "7108.25",
+      "error": "15%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "高压熔断器,AC10kV,跌落式,100A",
+      "predict": "43699.1325",
+      "adjustment": "43699.1325",
+      "actureValue": "35527.75",
+      "error": "23%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,150",
+      "predict": "299946.2816",
+      "adjustment": "299946.2816",
+      "actureValue": "225523.52",
+      "error": "33%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,240",
+      "predict": "865221.0795",
+      "adjustment": "865221.0795",
+      "actureValue": "779478.45",
+      "error": "11%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "270213.3",
+      "adjustment": "270213.3",
+      "actureValue": "200158",
+      "error": "35%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "51336.8163",
+      "adjustment": "51336.8163",
+      "actureValue": "38599.11",
+      "error": "33%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "96565.2618",
+      "adjustment": "96565.2618",
+      "actureValue": "84706.37",
+      "error": "14%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "26109.25",
+      "adjustment": "26109.25",
+      "actureValue": "20887.4",
+      "error": "25%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "49238.0288",
+      "adjustment": "49238.0288",
+      "actureValue": "38467.21",
+      "error": "28%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "柱上断路器,AC10kV,630A,20kA,真空,有隔离闸刀,户外",
+      "predict": "337009.6646",
+      "adjustment": "337009.6646",
+      "actureValue": "276237.43",
+      "error": "22%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,190mm,M",
+      "predict": "17297.3568",
+      "adjustment": "17297.3568",
+      "actureValue": "13513.56",
+      "error": "28%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,230mm,N",
+      "predict": "5064.5568",
+      "adjustment": "5064.5568",
+      "actureValue": "3779.52",
+      "error": "34%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "锥形水泥杆,非预应力,整根杆,10m,190mm,I",
+      "predict": "22016.288",
+      "adjustment": "22016.288",
+      "actureValue": "16553.6",
+      "error": "33%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "12627.1872",
+      "adjustment": "12627.1872",
+      "actureValue": "11076.48",
+      "error": "14%"
+    },
+    {
+      "year": "2019",
+      "month": "2",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,190mm,M",
+      "predict": "125801.6669",
+      "adjustment": "125801.6669",
+      "actureValue": "138243.59",
+      "error": "-9%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "10kV变压器,200kVA,普通,非晶合金,油浸",
+      "predict": "75865.7583",
+      "adjustment": "75865.7583",
+      "actureValue": "68347.53",
+      "error": "11%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "10kV变压器,200kVA,普通,硅钢片,油浸",
+      "predict": "136230",
+      "adjustment": "136230",
+      "actureValue": "119500",
+      "error": "14%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "10kV变压器,400kVA,普通,非晶合金,油浸",
+      "predict": "207749.8584",
+      "adjustment": "207749.8584",
+      "actureValue": "192360.98",
+      "error": "8%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "4317077.112",
+      "adjustment": "4317077.112",
+      "actureValue": "3597564.26",
+      "error": "20%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "10kV变压器,630kVA,普通,硅钢片,油浸",
+      "predict": "64479.7794",
+      "adjustment": "64479.7794",
+      "actureValue": "56561.21",
+      "error": "14%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "10kV电缆中间接头,3×70,直通接头,冷缩,铜",
+      "predict": "3570.4372",
+      "adjustment": "3570.4372",
+      "actureValue": "3880.91",
+      "error": "-8%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "10kV电缆终端,3×150,户内终端,冷缩,铜",
+      "predict": "594.072",
+      "adjustment": "594.072",
+      "actureValue": "535.2",
+      "error": "11%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "10kV电缆终端,3×150,户外终端,冷缩,铜",
+      "predict": "698.726",
+      "adjustment": "698.726",
+      "actureValue": "602.35",
+      "error": "16%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "10kV电缆终端,3×300,户内终端,冷缩,铜",
+      "predict": "5665.4514",
+      "adjustment": "5665.4514",
+      "actureValue": "4496.39",
+      "error": "26%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "10kV电缆终端,3×300,户外终端,冷缩,铜",
+      "predict": "817.1934",
+      "adjustment": "817.1934",
+      "actureValue": "723.18",
+      "error": "13%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "10kV电缆终端,3×70,户内终端,冷缩,铜",
+      "predict": "1242.7652",
+      "adjustment": "1242.7652",
+      "actureValue": "1172.42",
+      "error": "6%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "10kV电缆终端,3×70,户外终端,冷缩,铜",
+      "predict": "1819.6956",
+      "adjustment": "1819.6956",
+      "actureValue": "1977.93",
+      "error": "-8%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "10kV箱式变电站,400kVA,欧式,硅钢片,普通,有环网柜",
+      "predict": "165220.081",
+      "adjustment": "165220.081",
+      "actureValue": "127092.37",
+      "error": "30%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "10kV箱式变电站,630kVA,欧式,硅钢片,普通,有环网柜",
+      "predict": "1698095.84",
+      "adjustment": "1698095.84",
+      "actureValue": "1257848.77",
+      "error": "35%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "电缆保护管,CPVC,φ100",
+      "predict": "79744.425",
+      "adjustment": "79744.425",
+      "actureValue": "69951.25",
+      "error": "14%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "电缆保护管,CPVC,φ175",
+      "predict": "742805.0394",
+      "adjustment": "742805.0394",
+      "actureValue": "575817.86",
+      "error": "29%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "电缆保护管,MPP,φ100",
+      "predict": "101248.3696",
+      "adjustment": "101248.3696",
+      "actureValue": "90400.33",
+      "error": "12%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "电缆保护管,MPP,φ175",
+      "predict": "1374158.474",
+      "adjustment": "1374158.474",
+      "actureValue": "1154755.02",
+      "error": "19%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "电缆接线端子,铜,70mm2,单孔",
+      "predict": "25.8912",
+      "adjustment": "25.8912",
+      "actureValue": "20.88",
+      "error": "24%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "电力电缆,AC10kV,YJV,300,3,22,ZC,无阻水",
+      "predict": "6158785.33",
+      "adjustment": "6158785.33",
+      "actureValue": "6694331.88",
+      "error": "-8%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "电力电缆,AC10kV,YJV,400,3,22,ZC,无阻水",
+      "predict": "253375.65",
+      "adjustment": "253375.65",
+      "actureValue": "202700.52",
+      "error": "25%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "电力电缆,AC10kV,YJV,70,3,22,ZC,无阻水",
+      "predict": "1108902.835",
+      "adjustment": "1108902.835",
+      "actureValue": "908936.75",
+      "error": "22%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "钢管杆（桩）,AC10kV,无,无,Q345,杆,无",
+      "predict": "1592259.692",
+      "adjustment": "1592259.692",
+      "actureValue": "1360905.72",
+      "error": "17%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "钢绞线,1×19-11.5-1270-B,80,镀锌",
+      "predict": "8948.2995",
+      "adjustment": "8948.2995",
+      "actureValue": "6628.37",
+      "error": "35%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "钢绞线,1×7-7.8-1270-B,35,镀锌",
+      "predict": "6283.7474",
+      "adjustment": "6283.7474",
+      "actureValue": "5280.46",
+      "error": "19%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "23907.3352",
+      "adjustment": "23907.3352",
+      "actureValue": "17975.44",
+      "error": "33%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "钢芯铝绞线,JL/G1A,150/20",
+      "predict": "217642.2865",
+      "adjustment": "217642.2865",
+      "actureValue": "166139.15",
+      "error": "31%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "钢芯铝绞线,JL/G1A,240/30",
+      "predict": "21382.5483",
+      "adjustment": "21382.5483",
+      "actureValue": "19983.69",
+      "error": "7%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "钢芯铝绞线,JL/G1A,70/10",
+      "predict": "58422.3822",
+      "adjustment": "58422.3822",
+      "actureValue": "49933.66",
+      "error": "17%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "高压熔断器,AC10kV,跌落式,100A",
+      "predict": "90570.996",
+      "adjustment": "90570.996",
+      "actureValue": "75475.83",
+      "error": "20%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "环网柜,AC10kV,630A,电压互感器柜,空气,户内",
+      "predict": "53605.675",
+      "adjustment": "53605.675",
+      "actureValue": "42884.54",
+      "error": "25%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "环网柜,AC10kV,630A,断路器柜,空气,户内",
+      "predict": "338874.916",
+      "adjustment": "338874.916",
+      "actureValue": "294673.84",
+      "error": "15%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "环网柜,AC10kV,630A,负荷开关柜,空气,户内",
+      "predict": "65429.8632",
+      "adjustment": "65429.8632",
+      "actureValue": "55922.96",
+      "error": "17%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "环网箱,AC10kV,2,4",
+      "predict": "172496.7224",
+      "adjustment": "172496.7224",
+      "actureValue": "139110.26",
+      "error": "24%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,240",
+      "predict": "181015.5746",
+      "adjustment": "181015.5746",
+      "actureValue": "170769.41",
+      "error": "6%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,70",
+      "predict": "15362.9676",
+      "adjustment": "15362.9676",
+      "actureValue": "12389.49",
+      "error": "24%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,150",
+      "predict": "1101525.692",
+      "adjustment": "1101525.692",
+      "actureValue": "874226.74",
+      "error": "26%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,240",
+      "predict": "158189.0331",
+      "adjustment": "158189.0331",
+      "actureValue": "128608.97",
+      "error": "23%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "341359.5916",
+      "adjustment": "341359.5916",
+      "actureValue": "268787.08",
+      "error": "27%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "架空绝缘导线,AC10kV,JKTRJY,35",
+      "predict": "1559.7122",
+      "adjustment": "1559.7122",
+      "actureValue": "1321.79",
+      "error": "18%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "59521.419",
+      "adjustment": "59521.419",
+      "actureValue": "53622.9",
+      "error": "11%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "284786.8814",
+      "adjustment": "284786.8814",
+      "actureValue": "233431.87",
+      "error": "22%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "29623.23",
+      "adjustment": "29623.23",
+      "actureValue": "25319",
+      "error": "17%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "耐张线夹-楔型绝缘,NXL-4",
+      "predict": "1541.6239",
+      "adjustment": "1541.6239",
+      "actureValue": "1440.77",
+      "error": "7%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "铁塔,AC10kV,无,角钢,Q345,无",
+      "predict": "858920.9308",
+      "adjustment": "858920.9308",
+      "actureValue": "692678.17",
+      "error": "24%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "线路柱式瓷绝缘子,R12.5ET125N,160,305,400",
+      "predict": "54766.6688",
+      "adjustment": "54766.6688",
+      "actureValue": "42786.46",
+      "error": "28%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "40251.757",
+      "adjustment": "40251.757",
+      "actureValue": "44232.7",
+      "error": "-9%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "柱上断路器,AC10kV,630A,20kA,真空,有隔离闸刀,户外",
+      "predict": "634304.568",
+      "adjustment": "634304.568",
+      "actureValue": "528587.14",
+      "error": "20%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,12m,190mm,M",
+      "predict": "761051.4678",
+      "adjustment": "761051.4678",
+      "actureValue": "650471.34",
+      "error": "17%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,190mm,M",
+      "predict": "1249755.102",
+      "adjustment": "1249755.102",
+      "actureValue": "1115852.77",
+      "error": "12%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,190mm,M",
+      "predict": "196725.1465",
+      "adjustment": "196725.1465",
+      "actureValue": "174093.05",
+      "error": "13%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,230mm,N",
+      "predict": "12774.0458",
+      "adjustment": "12774.0458",
+      "actureValue": "9751.18",
+      "error": "31%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,整根杆,10m,190mm,I",
+      "predict": "242191.3122",
+      "adjustment": "242191.3122",
+      "actureValue": "228482.37",
+      "error": "6%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "1785695.617",
+      "adjustment": "1785695.617",
+      "actureValue": "1526235.57",
+      "error": "17%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,230mm,N",
+      "predict": "7928.8299",
+      "adjustment": "7928.8299",
+      "actureValue": "7143.09",
+      "error": "11%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,190mm,M",
+      "predict": "2262069.995",
+      "adjustment": "2262069.995",
+      "actureValue": "1917008.47",
+      "error": "18%"
+    },
+    {
+      "year": "2019",
+      "month": "3",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,230mm,N",
+      "predict": "6993.1944",
+      "adjustment": "6993.1944",
+      "actureValue": "6475.18",
+      "error": "8%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "10kV变压器,200kVA,普通,非晶合金,油浸",
+      "predict": "117986.83",
+      "adjustment": "117986.83",
+      "actureValue": "90759.1",
+      "error": "30%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "10kV变压器,200kVA,普通,硅钢片,油浸",
+      "predict": "45876",
+      "adjustment": "45876",
+      "actureValue": "38230",
+      "error": "20%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "10kV变压器,400kVA,普通,非晶合金,油浸",
+      "predict": "628024.2314",
+      "adjustment": "628024.2314",
+      "actureValue": "592475.69",
+      "error": "6%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "10240975.93",
+      "adjustment": "10240975.93",
+      "actureValue": "7817538.88",
+      "error": "31%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "10kV变压器,630kVA,普通,硅钢片,干式",
+      "predict": "74646",
+      "adjustment": "74646",
+      "actureValue": "63800",
+      "error": "17%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "10kV变压器,630kVA,普通,硅钢片,油浸",
+      "predict": "768829.068",
+      "adjustment": "768829.068",
+      "actureValue": "640690.89",
+      "error": "20%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "10kV单相隔离开关,630A,20kA,手动双柱立开式,不接地",
+      "predict": "1642.8672",
+      "adjustment": "1642.8672",
+      "actureValue": "1283.49",
+      "error": "28%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "10kV电缆中间接头,3×300,直通接头,冷缩,铜",
+      "predict": "7674.1888",
+      "adjustment": "7674.1888",
+      "actureValue": "6615.68",
+      "error": "16%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "10kV电缆终端,3×300,户内终端,冷缩,铜",
+      "predict": "16580.0802",
+      "adjustment": "16580.0802",
+      "actureValue": "14543.93",
+      "error": "14%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "10kV电缆终端,3×300,户外终端,冷缩,铜",
+      "predict": "9057.256",
+      "adjustment": "9057.256",
+      "actureValue": "6967.12",
+      "error": "30%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "10kV电缆终端,3×400,户外终端,冷缩,铜",
+      "predict": "4068.125",
+      "adjustment": "4068.125",
+      "actureValue": "3254.5",
+      "error": "25%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "10kV电缆终端,3×70,户内终端,冷缩,铜",
+      "predict": "4037.481",
+      "adjustment": "4037.481",
+      "actureValue": "3204.35",
+      "error": "26%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "10kV电缆终端,3×70,户外终端,冷缩,铜",
+      "predict": "4689.436",
+      "adjustment": "4689.436",
+      "actureValue": "3843.8",
+      "error": "22%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "10kV箱式变电站,630kVA,欧式,硅钢片,普通,有环网柜",
+      "predict": "4186299.277",
+      "adjustment": "4186299.277",
+      "actureValue": "3578033.57",
+      "error": "17%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "电缆保护管,CPVC,φ100",
+      "predict": "58858.1322",
+      "adjustment": "58858.1322",
+      "actureValue": "47852.14",
+      "error": "23%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "电缆保护管,CPVC,φ175",
+      "predict": "442216.746",
+      "adjustment": "442216.746",
+      "actureValue": "327567.96",
+      "error": "35%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "电缆保护管,MPP,φ100",
+      "predict": "186690.4644",
+      "adjustment": "186690.4644",
+      "actureValue": "154289.64",
+      "error": "21%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "电缆保护管,MPP,φ175",
+      "predict": "5661975.201",
+      "adjustment": "5661975.201",
+      "actureValue": "4458248.19",
+      "error": "27%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "电力电缆,AC10kV,YJV,150,3,22,ZC,无阻水",
+      "predict": "449031.2528",
+      "adjustment": "449031.2528",
+      "actureValue": "380534.96",
+      "error": "18%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "电力电缆,AC10kV,YJV,300,3,22,ZC,无阻水",
+      "predict": "17372307.09",
+      "adjustment": "17372307.09",
+      "actureValue": "14123826.9",
+      "error": "23%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "电力电缆,AC10kV,YJV,400,3,22,ZC,无阻水",
+      "predict": "7221593.874",
+      "adjustment": "7221593.874",
+      "actureValue": "5389249.16",
+      "error": "34%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "电力电缆,AC10kV,YJV,70,3,22,ZC,无阻水",
+      "predict": "698447.07",
+      "adjustment": "698447.07",
+      "actureValue": "517368.2",
+      "error": "35%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "钢管杆（桩）,AC10kV,无,无,Q345,杆,无",
+      "predict": "1839918.996",
+      "adjustment": "1839918.996",
+      "actureValue": "1533265.83",
+      "error": "20%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "钢绞线,1×19-11.5-1270-B,80,镀锌",
+      "predict": "7488.1526",
+      "adjustment": "7488.1526",
+      "actureValue": "6137.83",
+      "error": "22%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "钢绞线,1×7-7.8-1270-B,35,镀锌",
+      "predict": "1982.6372",
+      "adjustment": "1982.6372",
+      "actureValue": "1709.17",
+      "error": "16%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "38526.7014",
+      "adjustment": "38526.7014",
+      "actureValue": "29865.66",
+      "error": "29%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "钢芯铝绞线,JL/G1A,150/20",
+      "predict": "40937.92",
+      "adjustment": "40937.92",
+      "actureValue": "31982.75",
+      "error": "28%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "钢芯铝绞线,JL/G1A,240/30",
+      "predict": "62929.685",
+      "adjustment": "62929.685",
+      "actureValue": "48407.45",
+      "error": "30%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "钢芯铝绞线,JL/G1A,70/10",
+      "predict": "24967.0635",
+      "adjustment": "24967.0635",
+      "actureValue": "22492.85",
+      "error": "11%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "高压熔断器,AC10kV,跌落式,100A",
+      "predict": "175676.1875",
+      "adjustment": "175676.1875",
+      "actureValue": "140540.95",
+      "error": "25%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "环网柜,AC10kV,630A,电压互感器柜,SF6,户内",
+      "predict": "102284.9514",
+      "adjustment": "102284.9514",
+      "actureValue": "79290.66",
+      "error": "29%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "环网柜,AC10kV,630A,断路器柜,SF6,户内",
+      "predict": "573954.2824",
+      "adjustment": "573954.2824",
+      "actureValue": "438133.04",
+      "error": "31%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "环网柜,AC10kV,630A,负荷开关柜,SF6,户内",
+      "predict": "166795.536",
+      "adjustment": "166795.536",
+      "actureValue": "138996.28",
+      "error": "20%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "环网箱,AC10kV,2,4",
+      "predict": "5257505.626",
+      "adjustment": "5257505.626",
+      "actureValue": "4611847.04",
+      "error": "14%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,150",
+      "predict": "72561.54",
+      "adjustment": "72561.54",
+      "actureValue": "60467.95",
+      "error": "20%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,240",
+      "predict": "44832.105",
+      "adjustment": "44832.105",
+      "actureValue": "49813.45",
+      "error": "-10%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "架空绝缘导线,AC10kV,JKLHYJ/Q,70",
+      "predict": "53705.6091",
+      "adjustment": "53705.6091",
+      "actureValue": "45902.23",
+      "error": "17%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,150",
+      "predict": "339153.9376",
+      "adjustment": "339153.9376",
+      "actureValue": "273511.24",
+      "error": "24%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,240",
+      "predict": "902775.267",
+      "adjustment": "902775.267",
+      "actureValue": "668722.42",
+      "error": "35%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "268433.2443",
+      "adjustment": "268433.2443",
+      "actureValue": "218238.41",
+      "error": "23%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "架空绝缘导线,AC10kV,JKTRJY,35",
+      "predict": "5899.528",
+      "adjustment": "5899.528",
+      "actureValue": "5085.8",
+      "error": "16%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "109304.793",
+      "adjustment": "109304.793",
+      "actureValue": "84080.61",
+      "error": "30%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "304204.208",
+      "adjustment": "304204.208",
+      "actureValue": "276549.28",
+      "error": "10%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "38929.54",
+      "adjustment": "38929.54",
+      "actureValue": "29945.8",
+      "error": "30%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "铁塔,AC10kV,无,角钢,Q345,无",
+      "predict": "1851180.736",
+      "adjustment": "1851180.736",
+      "actureValue": "1446234.95",
+      "error": "28%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "线路柱式瓷绝缘子,R12.5ET125N,160,305,400",
+      "predict": "40514.2992",
+      "adjustment": "40514.2992",
+      "actureValue": "34926.12",
+      "error": "16%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "113528.092",
+      "adjustment": "113528.092",
+      "actureValue": "98720.08",
+      "error": "15%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "柱上断路器,AC10kV,630A,20kA,真空,有隔离闸刀,户外",
+      "predict": "787817.904",
+      "adjustment": "787817.904",
+      "actureValue": "656514.92",
+      "error": "20%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,12m,190mm,M",
+      "predict": "320575.632",
+      "adjustment": "320575.632",
+      "actureValue": "267146.36",
+      "error": "20%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,190mm,M",
+      "predict": "610415.82",
+      "adjustment": "610415.82",
+      "actureValue": "484457",
+      "error": "26%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,190mm,M",
+      "predict": "100644.383",
+      "adjustment": "100644.383",
+      "actureValue": "85291.85",
+      "error": "18%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "锥形水泥杆,非预应力,整根杆,10m,190mm,I",
+      "predict": "160777.1178",
+      "adjustment": "160777.1178",
+      "actureValue": "137416.34",
+      "error": "17%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "701404.2936",
+      "adjustment": "701404.2936",
+      "actureValue": "631895.76",
+      "error": "11%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,230mm,N",
+      "predict": "5070.4676",
+      "adjustment": "5070.4676",
+      "actureValue": "4783.46",
+      "error": "6%"
+    },
+    {
+      "year": "2019",
+      "month": "4",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,190mm,M",
+      "predict": "996543.2734",
+      "adjustment": "996543.2734",
+      "actureValue": "743689.01",
+      "error": "34%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "10kV变压器,200kVA,普通,非晶合金,油浸",
+      "predict": "98485.9668",
+      "adjustment": "98485.9668",
+      "actureValue": "91190.71",
+      "error": "8%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "10kV变压器,400kVA,普通,非晶合金,油浸",
+      "predict": "278366.5016",
+      "adjustment": "278366.5016",
+      "actureValue": "230054.96",
+      "error": "21%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "10kV变压器,400kVA,普通,硅钢片,油浸",
+      "predict": "3445856.925",
+      "adjustment": "3445856.925",
+      "actureValue": "2756685.54",
+      "error": "25%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "10kV变压器,800kVA,普通,硅钢片,干式",
+      "predict": "432300",
+      "adjustment": "432300",
+      "actureValue": "330000",
+      "error": "31%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "10kV电缆中间接头,3×150,直通接头,冷缩,铜",
+      "predict": "2533.44",
+      "adjustment": "2533.44",
+      "actureValue": "2184",
+      "error": "16%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "10kV电缆中间接头,3×300,直通接头,冷缩,铜",
+      "predict": "8116.125",
+      "adjustment": "8116.125",
+      "actureValue": "6492.9",
+      "error": "25%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "10kV电缆中间接头,3×70,直通接头,冷缩,铜",
+      "predict": "5535.778",
+      "adjustment": "5535.778",
+      "actureValue": "6017.15",
+      "error": "-8%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "10kV电缆终端,3×150,户内终端,冷缩,铜",
+      "predict": "2032.6875",
+      "adjustment": "2032.6875",
+      "actureValue": "1626.15",
+      "error": "25%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "10kV电缆终端,3×150,户外终端,冷缩,铜",
+      "predict": "2187.0629",
+      "adjustment": "2187.0629",
+      "actureValue": "1807.49",
+      "error": "21%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "10kV电缆终端,3×300,户内终端,冷缩,铜",
+      "predict": "29091.189",
+      "adjustment": "29091.189",
+      "actureValue": "24653.55",
+      "error": "18%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "10kV电缆终端,3×300,户外终端,冷缩,铜",
+      "predict": "9129.798",
+      "adjustment": "9129.798",
+      "actureValue": "10144.22",
+      "error": "-10%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "10kV电缆终端,3×400,户内终端,冷缩,铜",
+      "predict": "1396.3944",
+      "adjustment": "1396.3944",
+      "actureValue": "1135.28",
+      "error": "23%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "10kV电缆终端,3×400,户外终端,冷缩,铜",
+      "predict": "1872.7272",
+      "adjustment": "1872.7272",
+      "actureValue": "1614.42",
+      "error": "16%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "10kV电缆终端,3×70,户内终端,冷缩,铜",
+      "predict": "18445.7835",
+      "adjustment": "18445.7835",
+      "actureValue": "17239.05",
+      "error": "7%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "10kV电缆终端,3×70,户外终端,冷缩,铜",
+      "predict": "6114.758",
+      "adjustment": "6114.758",
+      "actureValue": "4703.66",
+      "error": "30%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "10kV箱式变电站,630kVA,欧式,硅钢片,普通,有环网柜",
+      "predict": "4634402.276",
+      "adjustment": "4634402.276",
+      "actureValue": "3649135.65",
+      "error": "27%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "电缆保护管,CPVC,φ100",
+      "predict": "365337.3856",
+      "adjustment": "365337.3856",
+      "actureValue": "272639.84",
+      "error": "34%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "电缆保护管,CPVC,φ175",
+      "predict": "2176076.984",
+      "adjustment": "2176076.984",
+      "actureValue": "1648543.17",
+      "error": "32%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "电缆保护管,MPP,φ100",
+      "predict": "464010.7122",
+      "adjustment": "464010.7122",
+      "actureValue": "368262.47",
+      "error": "26%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "电缆保护管,MPP,φ175",
+      "predict": "3293869.853",
+      "adjustment": "3293869.853",
+      "actureValue": "2722206.49",
+      "error": "21%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "电力电缆,AC10kV,YJV,150,3,22,ZC,无阻水",
+      "predict": "857200.2806",
+      "adjustment": "857200.2806",
+      "actureValue": "808679.51",
+      "error": "6%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "电力电缆,AC10kV,YJV,300,3,22,ZC,无阻水",
+      "predict": "33100263.49",
+      "adjustment": "33100263.49",
+      "actureValue": "26270050.39",
+      "error": "26%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "电力电缆,AC10kV,YJV,70,3,22,ZC,无阻水",
+      "predict": "1169070.636",
+      "adjustment": "1169070.636",
+      "actureValue": "1257065.2",
+      "error": "-7%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "钢管杆（桩）,AC10kV,无,无,Q345,杆,无",
+      "predict": "1187637.66",
+      "adjustment": "1187637.66",
+      "actureValue": "989698.05",
+      "error": "20%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "钢绞线,1×7-7.8-1270-B,35,镀锌",
+      "predict": "6797.3242",
+      "adjustment": "6797.3242",
+      "actureValue": "6412.57",
+      "error": "6%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "钢绞线,1×7-9.0-1270-B,50,镀锌",
+      "predict": "17802.7074",
+      "adjustment": "17802.7074",
+      "actureValue": "15616.41",
+      "error": "14%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "钢芯铝绞线,JL/G1A,150/20",
+      "predict": "98172.621",
+      "adjustment": "98172.621",
+      "actureValue": "72720.46",
+      "error": "35%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "钢芯铝绞线,JL/G1A,240/30",
+      "predict": "370803.9185",
+      "adjustment": "370803.9185",
+      "actureValue": "322438.19",
+      "error": "15%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "钢芯铝绞线,JL/G1A,70/10",
+      "predict": "77434.0784",
+      "adjustment": "77434.0784",
+      "actureValue": "69137.57",
+      "error": "12%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "高压熔断器,AC10kV,跌落式,100A",
+      "predict": "64591.0818",
+      "adjustment": "64591.0818",
+      "actureValue": "54278.22",
+      "error": "19%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "环网柜,AC10kV,125A,负荷开关熔断器组合柜,SF6,户内",
+      "predict": "82766.439",
+      "adjustment": "82766.439",
+      "actureValue": "65687.65",
+      "error": "26%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "环网柜,AC10kV,125A,负荷开关熔断器组合柜,空气,户内",
+      "predict": "43731",
+      "adjustment": "43731",
+      "actureValue": "33900",
+      "error": "29%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "环网柜,AC10kV,630A,电压互感器柜,SF6,户内",
+      "predict": "622148.2858",
+      "adjustment": "622148.2858",
+      "actureValue": "489880.54",
+      "error": "27%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "环网柜,AC10kV,630A,电压互感器柜,空气,户内",
+      "predict": "78739.584",
+      "adjustment": "78739.584",
+      "actureValue": "59651.2",
+      "error": "32%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "环网柜,AC10kV,630A,断路器柜,SF6,户内",
+      "predict": "2516062.701",
+      "adjustment": "2516062.701",
+      "actureValue": "2226604.16",
+      "error": "13%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "环网柜,AC10kV,630A,断路器柜,空气,户内",
+      "predict": "375963.3892",
+      "adjustment": "375963.3892",
+      "actureValue": "282679.24",
+      "error": "33%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "环网柜,AC10kV,630A,负荷开关柜,SF6,户内",
+      "predict": "667910.583",
+      "adjustment": "667910.583",
+      "actureValue": "494748.58",
+      "error": "35%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "环网柜,AC10kV,630A,负荷开关柜,空气,户内",
+      "predict": "80912.4552",
+      "adjustment": "80912.4552",
+      "actureValue": "86077.08",
+      "error": "-6%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "环网箱,AC10kV,2,4",
+      "predict": "2011183.135",
+      "adjustment": "2011183.135",
+      "actureValue": "1748854.9",
+      "error": "15%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,150",
+      "predict": "465093.6774",
+      "adjustment": "465093.6774",
+      "actureValue": "384374.94",
+      "error": "21%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,240",
+      "predict": "599073.4311",
+      "adjustment": "599073.4311",
+      "actureValue": "487051.57",
+      "error": "23%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "架空绝缘导线,AC10kV,JKLYJ,70",
+      "predict": "201013.456",
+      "adjustment": "201013.456",
+      "actureValue": "179476.3",
+      "error": "12%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "架空绝缘导线,AC10kV,JKTRJY,35",
+      "predict": "7290.283",
+      "adjustment": "7290.283",
+      "actureValue": "5607.91",
+      "error": "30%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "交流避雷器,AC10kV,13kV,硅橡胶,40kV,带间隙",
+      "predict": "2716.389",
+      "adjustment": "2716.389",
+      "actureValue": "2321.7",
+      "error": "17%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "交流避雷器,AC10kV,17kV,硅橡胶,50kV,不带间隙",
+      "predict": "68940.729",
+      "adjustment": "68940.729",
+      "actureValue": "59948.46",
+      "error": "15%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "交流盘形悬式瓷绝缘子,U70B/146,255,320",
+      "predict": "369240.552",
+      "adjustment": "369240.552",
+      "actureValue": "341889.4",
+      "error": "8%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "拉紧绝缘子,JH10-90",
+      "predict": "33234.655",
+      "adjustment": "33234.655",
+      "actureValue": "28899.7",
+      "error": "15%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "铁塔,AC10kV,无,角钢,Q345,无",
+      "predict": "1770296.88",
+      "adjustment": "1770296.88",
+      "actureValue": "1526118",
+      "error": "16%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "线路柱式瓷绝缘子,R12.5ET125N,160,305,400",
+      "predict": "87910.6184",
+      "adjustment": "87910.6184",
+      "actureValue": "70895.66",
+      "error": "24%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "线路柱式瓷绝缘子,R5ET105L,125,283,360",
+      "predict": "116867.61",
+      "adjustment": "116867.61",
+      "actureValue": "108210.75",
+      "error": "8%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "柱上断路器,AC10kV,630A,20kA,真空,有隔离闸刀,户外",
+      "predict": "989100.1855",
+      "adjustment": "989100.1855",
+      "actureValue": "743684.35",
+      "error": "33%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,12m,190mm,M",
+      "predict": "269970.2277",
+      "adjustment": "269970.2277",
+      "actureValue": "219487.99",
+      "error": "23%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,15m,190mm,M",
+      "predict": "1014323.001",
+      "adjustment": "1014323.001",
+      "actureValue": "786296.9",
+      "error": "29%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,190mm,M",
+      "predict": "92300.0616",
+      "adjustment": "92300.0616",
+      "actureValue": "85463.02",
+      "error": "8%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,法兰组装杆,18m,230mm,N",
+      "predict": "137476.456",
+      "adjustment": "137476.456",
+      "actureValue": "105751.12",
+      "error": "30%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,整根杆,10m,190mm,I",
+      "predict": "98397.4596",
+      "adjustment": "98397.4596",
+      "actureValue": "79352.79",
+      "error": "24%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,190mm,M",
+      "predict": "829446.6875",
+      "adjustment": "829446.6875",
+      "actureValue": "663557.35",
+      "error": "25%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,整根杆,12m,230mm,N",
+      "predict": "2546.5652",
+      "adjustment": "2546.5652",
+      "actureValue": "2402.42",
+      "error": "6%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,190mm,M",
+      "predict": "558133.0718",
+      "adjustment": "558133.0718",
+      "actureValue": "426055.78",
+      "error": "31%"
+    },
+    {
+      "year": "2019",
+      "month": "5",
+      "type": "锥形水泥杆,非预应力,整根杆,15m,230mm,N",
+      "predict": "3688.6365",
+      "adjustment": "3688.6365",
+      "actureValue": "3207.51",
+      "error": "15%"
+    }
+  ]
+}

@@ -43,10 +43,10 @@
                 <ul id="nav">
                     <li><a href="login.html">首页</a></li>
                     <li><a href="#">预报</a></li>
-                    <li><a href="material.html">物资预测</a></li>
+                    <li class="active"><a href="material.html">物资预测</a></li>
                     <li><a href="model.html">模型训练</a></li>
                     <li><a href="stock.html">库存结构</a></li>
-                    <li><a href="#">需求计划</a></li>
+                    <li><a href="demand.html">需求计划</a></li>
                 </ul>
                 <div class="top">
                     ︿
@@ -92,12 +92,13 @@
                         <tr>
                             <td>实际误差（%）</td>
                             <td v-for="item in error">{{item}}%</td>
-                            <td>{{sumError}}%</td>
+                            <td>{{(((sumPredict - sumActure) / sumActure)*100).toFixed(2)}}%</td>
                         </tr>
                     </table>
                 </div>
                 <div class="chart">
-                    <div id="bar"></div>
+                    <div v-if="selectYear == '2019'" id="bar" style="width: 700px; height:300px;"></div>
+                    <div v-else id="bar"></div>
                 </div>
             </div>
         </div>

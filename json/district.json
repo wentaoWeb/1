@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "data": [{
+      "district": "绍兴市",
+      "environment": "平原"
+    },
+    {
+      "district": "上虞",
+      "environment": "平原"
+    },
+    {
+      "district": "诸暨",
+      "environment": "平原"
+    },
+    {
+      "district": "嵊州",
+      "environment": "平原"
+    },
+    {
+      "district": "新昌",
+      "environment": "平原"
+    }
+  ]
+}

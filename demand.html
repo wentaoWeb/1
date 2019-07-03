@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>国家电网</title>
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/vue.min.js"></script>
+    <script src="./js/echarts.min.js"></script>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/demand.css">
+</head>
+
+<body>
+    <div id="app">
+        <div class="header">
+            <div class="headerLeft">
+                <div class="logo">
+                    <img src="./img/logo.png">
+                </div>
+                <div class="line"></div>
+                <div class="name">
+                    配网物资预测系统
+                </div>
+            </div>
+
+            <ul class="login">
+                <li>
+                    <a href="#">
+                        <img src="img/people.png">
+                        程栋
+                    </a>
+                </li>
+                <li class="loginOut" @click="loginOut">
+                    <a href="#">退出</a>
+                </li>
+            </ul>
+        </div>
+        <div id="tab">
+            <div class="nav">
+                <ul id="nav">
+                    <li><a href="login.html">首页</a></li>
+                    <li><a href="#">预报</a></li>
+                    <li><a href="material.html">物资预测</a></li>
+                    <li><a href="model.html">模型训练</a></li>
+                    <li><a href="stock.html">库存结构</a></li>
+                    <li class="active"><a href="demand.html">需求计划</a></li>
+                </ul>
+                <div class="top">
+                    ︿
+                </div>
+            </div>
+        </div>
+        <div>
+            <div id="content">
+                <div class="cont">
+                    <div class="box">
+                        <span>地区：</span>
+                        <select name="" id="">
+                            <option value="绍兴">绍兴市</option>
+                            <option value="上虔">上虔</option>
+                        </select>
+                    </div>
+                    <div class="box">
+                        <span>年份：</span>
+                        <select name="" id="">
+                            <option value="2019">2019年</option>
+                            <option value="2018">2018年</option>
+                        </select>
+                    </div>
+                    <div class="box">
+                        <span>项目类型：</span>
+                        <select name="" id="">
+                            <option value="项目类型1">项目类型1</option>
+                            <option value="项目类型2">项目类型2</option>
+                        </select>
+                    </div>
+                    <div class="box">
+                        <span>值：</span>
+                        <select name="" id="">
+                            <option value="预测值">预测值</option>
+                            <option value="实际值">实际值</option>
+                        </select>
+                    </div>
+                    <div class="box">
+                        <span>物资种类：</span>
+                        <select name="" id="">
+                            <option value="物资种类1">物资种类1</option>
+                            <option value="物资种类1">物资种类1</option>
+                        </select>
+                    </div>
+
+                </div>
+                <div class="table">
+                    <table cellpadding="10" cellspacing="0" class="tab">
+                        <tr>
+                            <td></td>
+                            <td>1月</td>
+                            <td>2月</td>
+                            <td>3月</td>
+                            <td>4月</td>
+                            <td>5月</td>
+                            <td>6月</td>
+                            <td>7月</td>
+                            <td>8月</td>
+                            <td>9月</td>
+                            <td>12月</td>
+                            <td>11月</td>
+                            <td>12月</td>
+                            <td>2018年</td>
+                        </tr>
+                        <tr>
+                            <td>预测值（万元）</td>
+                            <td>12.83</td>
+                            <td>3.71</td>
+                            <td>200.91</td>
+                            <td>290.63</td>
+                            <td>563.77</td>
+                            <td>335.43</td>
+                            <td>212.71</td>
+                            <td>170.29</td>
+                            <td>275.66</td>
+                            <td>122.42</td>
+                            <td>90.84</td>
+                            <td>70.27</td>
+                            <td>2349.47</td>
+                        </tr>
+                        <tr>
+                            <td>人工调整值（万元）</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>实际值（万元）</td>
+                            <td>16.46</td>
+                            <td>6.06</td>
+                            <td>247.84</td>
+                            <td>93.95</td>
+                            <td>707.49</td>
+                            <td>266.02</td>
+                            <td>168.25</td>
+                            <td>151.69</td>
+                            <td>202.47</td>
+                            <td>130.89</td>
+                            <td>105.04</td>
+                            <td>47.31</td>
+                            <td>2143.48</td>
+                        </tr>
+                        <tr>
+                            <td>实际误差（%）</td>
+                            <td>22.05</td>
+                            <td>38.78</td>
+                            <td>18.94</td>
+                            <td>-209.35</td>
+                            <td>20.31</td>
+                            <td>-26.09</td>
+                            <td>-26.42</td>
+                            <td>-12.26</td>
+                            <td>-36.15</td>
+                            <td>6.47</td>
+                            <td>13.52</td>
+                            <td>-48.53</td>
+                            <td>9.61</td>
+                        </tr>
+                    </table>
+                </div>
+                <div id="echart"></div>
+            </div>
+
+        </div>
+
+    </div>
+    <script src="js/demand.js"></script>
+    <script>
+        var mychart = echarts.init(document.getElementById('echart'));
+        var option = {
+            title: {
+                text: '某地区蒸发量和降水量',
+            },
+            tooltip: {
+                trigger: 'axis'
+            },
+            legend: {
+                data: ['蒸发量', '降水量','水量']
+            },
+            calculable: true,
+            xAxis: [{
+                type: 'category',
+                data: ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月']
+            }],
+            yAxis: [{
+                type: 'value'
+            }],
+            series: [{
+                    name: '蒸发量',
+                    type: 'bar',
+                    data: [2.0, 4.9, 7.0, 23.2, 25.6, 76.7, 135.6, 162.2, 32.6, 20.0, 6.4, 3.3],
+                    markPoint: {
+                        data: [{
+                                type: 'max',
+                                name: '最大值'
+                            },
+                            {
+                                type: 'min',
+                                name: '最小值'
+                            }
+                        ]
+                    },
+                    markLine: {
+                        data: [{
+                            type: 'average',
+                            name: '平均值'
+                        }]
+                    }
+                },
+                {
+                    name: '降水量',
+                    type: 'bar',
+                    data: [2.6, 5.9, 9.0, 26.4, 28.7, 70.7, 175.6, 182.2, 48.7, 18.8, 6.0, 2.3],
+                    markPoint: {
+                        data: [{
+                                name: '年最高',
+                                value: 182.2,
+                                xAxis: 7,
+                                yAxis: 183,
+                                symbolSize: 18
+                            },
+                            {
+                                name: '年最低',
+                                value: 2.3,
+                                xAxis: 11,
+                                yAxis: 3
+                            }
+                        ]
+                    },
+                },
+                {
+                    name: '水量',
+                    type: 'bar',
+                    data: [2.7, 6, 10, 26.4, 30, 65, 169, 185.2, 50.7, 19.8, 5.0, 2.3],
+                    markPoint: {
+                        data: [{
+                                name: '年最高',
+                                value: 182.2,
+                                xAxis: 7,
+                                yAxis: 183,
+                                symbolSize: 18
+                            },
+                            {
+                                name: '年最低',
+                                value: 2.3,
+                                xAxis: 11,
+                                yAxis: 3
+                            }
+                        ]
+                    },
+                    markLine: {
+                        data: [{
+                            type: 'average',
+                            name: '平均值'
+                        }]
+                    }
+                }
+            ]
+        };
+        mychart.setOption(option, true);
+    </script>
+</body>
+
+</html>
